@@ -1,0 +1,3209 @@
+[{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bced"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe5"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b09"
+  },
+  "calificacion": 1,
+  "comentario": "si",
+  "fecha": {
+    "$date": "2000-02-01T02:20:17.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-02T00:54:55.721Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcee"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601b"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b46"
+  },
+  "calificacion": 2,
+  "comentario": "Officiis eaque occaecati voluptates repellendus. Nihil sint similique saepe sapiente ipsam cum. Perferendis sapiente fuga fugit.",
+  "fecha": {
+    "$date": "2023-08-07T22:15:41.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcef"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f602c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3e"
+  },
+  "calificacion": 4,
+  "comentario": "Ipsum impedit eos optio voluptate omnis.",
+  "fecha": {
+    "$date": "2023-09-28T17:37:26.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcf0"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff7"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0b"
+  },
+  "calificacion": 1,
+  "comentario": "Nisi et harum voluptas ipsa saepe laudantium. Unde nesciunt minus ex.\nOptio ipsum vel quia odio. Optio aspernatur fuga aut omnis quam necessitatibus. Suscipit dolores quae earum porro.",
+  "fecha": {
+    "$date": "2023-11-24T15:54:36.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcf1"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fdf"
+  },
+  "id_Cliente": {
+    "$oid": "6632cf7bd019127b5861496e"
+  },
+  "calificacion": 3,
+  "comentario": "Illo voluptatem libero eius est doloribus porro totam. Optio consequuntur reprehenderit. Eligendi quas ipsum.",
+  "fecha": {
+    "$date": "2024-03-27T07:05:32.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcf2"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ffd"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b02"
+  },
+  "calificacion": 3,
+  "comentario": "Aperiam commodi molestias dolor officiis.\nCorporis blanditiis cupiditate impedit possimus.\nTenetur reiciendis amet saepe fugiat ad.\nDolores consequatur esse beatae placeat laudantium laboriosam.",
+  "fecha": {
+    "$date": "2024-01-01T18:05:14.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcf3"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6027"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4d"
+  },
+  "calificacion": 4,
+  "comentario": "Occaecati impedit rerum atque. Velit harum quasi vel ea eos est. Mollitia hic distinctio similique ex quo error molestias. Velit assumenda quos doloribus esse aut.",
+  "fecha": {
+    "$date": "2023-11-13T12:01:11.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcf4"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fec"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0c"
+  },
+  "calificacion": 1,
+  "comentario": "Voluptas cumque distinctio possimus vero. Tenetur placeat animi perferendis.\nCorrupti aspernatur incidunt. Voluptatem suscipit corrupti maiores est animi fugit.",
+  "fecha": {
+    "$date": "2023-12-10T06:35:43.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcf5"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6025"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0e"
+  },
+  "calificacion": 5,
+  "comentario": "Eius veniam alias doloribus dolorem. Repellendus eos consequuntur assumenda reprehenderit. Placeat quibusdam quae ullam.",
+  "fecha": {
+    "$date": "2023-05-12T21:54:59.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcf7"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f602d"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0a"
+  },
+  "calificacion": 3,
+  "comentario": "Quia consequuntur nostrum quas. Quo ratione voluptas quos. A nostrum dicta saepe unde voluptas. Dolore dolor mollitia corporis occaecati.",
+  "fecha": {
+    "$date": "2024-02-22T11:27:33.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcf8"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ffd"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b24"
+  },
+  "calificacion": 1,
+  "comentario": "Voluptas aliquid a excepturi. Unde deserunt odit alias repellat voluptatibus quidem eius. Exercitationem corrupti porro fugiat dolores illo.",
+  "fecha": {
+    "$date": "2024-02-20T22:58:28.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcf9"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6003"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b31"
+  },
+  "calificacion": 1,
+  "comentario": "Hic excepturi aliquid facilis. Molestiae nam fugiat corrupti praesentium velit nulla. Commodi incidunt deleniti quo saepe quis.",
+  "fecha": {
+    "$date": "2023-11-30T14:03:13.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcfa"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6028"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b14"
+  },
+  "calificacion": 4,
+  "comentario": "Reiciendis debitis saepe aspernatur commodi porro. Eos autem aspernatur ea perspiciatis nostrum.",
+  "fecha": {
+    "$date": "2024-02-27T08:39:34.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcfb"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6034"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4f"
+  },
+  "calificacion": 5,
+  "comentario": "Reiciendis repudiandae nihil quidem explicabo facilis veniam. Quod praesentium reprehenderit ex aperiam cumque.",
+  "fecha": {
+    "$date": "2023-06-10T06:10:08.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcfc"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f600f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b31"
+  },
+  "calificacion": 5,
+  "comentario": "Inventore animi accusamus consequuntur maiores. Accusamus facere dolor repudiandae.\nReprehenderit voluptatem sed qui nesciunt quod. Cupiditate voluptates reprehenderit officiis.",
+  "fecha": {
+    "$date": "2023-10-07T19:08:11.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcfd"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6037"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b12"
+  },
+  "calificacion": 2,
+  "comentario": "Debitis fugiat quibusdam atque. Itaque atque ipsa id veritatis eum quo.\nAmet ab quia exercitationem temporibus impedit quos assumenda.",
+  "fecha": {
+    "$date": "2023-11-26T19:11:10.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcfe"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6024"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b22"
+  },
+  "calificacion": 5,
+  "comentario": "Sint quaerat veniam deserunt nemo. Occaecati deleniti iste consequatur occaecati a.\nOdio laborum voluptas cupiditate cum. Laboriosam id rem consectetur debitis deleniti totam.",
+  "fecha": {
+    "$date": "2023-09-09T12:22:04.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bcff"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff8"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4c"
+  },
+  "calificacion": 4,
+  "comentario": "Vel quisquam ex incidunt earum. Animi voluptatem quam accusantium saepe nisi distinctio.",
+  "fecha": {
+    "$date": "2024-02-04T22:03:47.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd00"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fee"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1f"
+  },
+  "calificacion": 2,
+  "comentario": "Nulla modi illum expedita nesciunt praesentium sit. Ea provident blanditiis adipisci ullam asperiores. Et autem quidem laudantium explicabo quas ex.",
+  "fecha": {
+    "$date": "2023-05-24T07:40:47.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd01"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f600e"
+  },
+  "id_Cliente": {
+    "$oid": "6632cf7bd019127b5861496e"
+  },
+  "calificacion": 4,
+  "comentario": "Natus magnam nobis ipsam iusto. Commodi illum consequuntur omnis quasi tempore. Nihil ullam error quo ipsam. Repellendus pariatur assumenda aut commodi.",
+  "fecha": {
+    "$date": "2023-08-14T16:41:40.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd02"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f603f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1f"
+  },
+  "calificacion": 5,
+  "comentario": "Impedit id hic laboriosam voluptas. Veritatis fugiat fugit exercitationem vitae necessitatibus nemo. Aspernatur quo temporibus nulla pariatur explicabo optio.",
+  "fecha": {
+    "$date": "2023-07-10T11:15:11.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd03"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6005"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4f"
+  },
+  "calificacion": 4,
+  "comentario": "Aspernatur culpa optio autem aperiam. Aliquid iste illo facilis.\nPerspiciatis reprehenderit quod occaecati beatae iure fugit. Atque nisi qui.",
+  "fecha": {
+    "$date": "2024-04-01T22:01:10.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd04"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fed"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b44"
+  },
+  "calificacion": 1,
+  "comentario": "Reprehenderit error omnis tenetur. Doloribus esse voluptatum nisi dolores deserunt.",
+  "fecha": {
+    "$date": "2024-02-27T01:51:17.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd05"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff6"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1b"
+  },
+  "calificacion": 4,
+  "comentario": "Expedita ad fugiat placeat vitae consectetur. Odit accusamus nihil est blanditiis alias quibusdam.",
+  "fecha": {
+    "$date": "2023-06-25T22:14:41.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd06"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f600f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b17"
+  },
+  "calificacion": 2,
+  "comentario": "Nemo sint in laborum deleniti distinctio. Quae repellat debitis officia adipisci incidunt cumque.",
+  "fecha": {
+    "$date": "2024-03-31T06:38:30.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd07"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f600a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b41"
+  },
+  "calificacion": 4,
+  "comentario": "Numquam praesentium vero saepe alias ad. Sequi asperiores a nobis.\nExercitationem quis accusamus. Distinctio ipsum nisi exercitationem facere.\nMolestiae quidem sint eum quisquam nisi tempore.",
+  "fecha": {
+    "$date": "2024-01-03T03:05:18.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd08"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff4"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b30"
+  },
+  "calificacion": 2,
+  "comentario": "Nisi quia odit nobis expedita. Quisquam quae unde rerum nulla. Aliquam corrupti rerum veniam repellendus illo. Pariatur iure ipsam quisquam.",
+  "fecha": {
+    "$date": "2023-05-11T02:48:16.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd09"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b27"
+  },
+  "calificacion": 1,
+  "comentario": "Facilis aliquam temporibus alias maxime tempore. Vero nihil dolor sapiente minima quasi in odio. Veritatis vitae unde at voluptatum ipsum in.",
+  "fecha": {
+    "$date": "2023-06-22T00:44:37.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd0a"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff0"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b52"
+  },
+  "calificacion": 3,
+  "comentario": "Optio laboriosam excepturi commodi.\nVoluptatum amet rerum atque consectetur quaerat nesciunt tempore. Pariatur non consequuntur cumque.",
+  "fecha": {
+    "$date": "2023-09-07T00:13:27.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd0b"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6019"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b33"
+  },
+  "calificacion": 2,
+  "comentario": "Dolorem rerum nostrum. Ex dicta iure saepe labore quidem officia repellendus. Corporis commodi voluptatibus a.\nProvident ullam harum tenetur saepe. Ullam distinctio unde odit ex optio quas.",
+  "fecha": {
+    "$date": "2024-03-12T14:58:59.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd0c"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff7"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3a"
+  },
+  "calificacion": 5,
+  "comentario": "Soluta aut aperiam numquam sed nobis veritatis. Debitis odit nihil animi.\nNecessitatibus fugiat excepturi placeat impedit natus modi. Sequi minima eaque amet ipsa dolorem.",
+  "fecha": {
+    "$date": "2024-03-28T23:30:25.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd0d"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f603b"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b57"
+  },
+  "calificacion": 1,
+  "comentario": "Rem nisi eveniet numquam cupiditate occaecati quisquam. Qui perspiciatis ut doloribus minima.\nTotam corrupti corporis.",
+  "fecha": {
+    "$date": "2023-08-04T14:21:25.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd0e"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6016"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b19"
+  },
+  "calificacion": 4,
+  "comentario": "Earum aut et impedit aspernatur placeat quasi. Occaecati placeat incidunt nobis. Quam harum in fuga occaecati iste hic earum.",
+  "fecha": {
+    "$date": "2024-01-10T13:31:20.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd0f"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f600d"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b14"
+  },
+  "calificacion": 3,
+  "comentario": "Cum error atque architecto nam. Fuga quia sapiente quaerat neque et.\nEius ratione fuga culpa dolore. Laborum eligendi magnam similique eveniet corrupti. Voluptate impedit aperiam doloribus vitae.",
+  "fecha": {
+    "$date": "2023-12-21T14:20:59.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd10"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f603a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b08"
+  },
+  "calificacion": 3,
+  "comentario": "Temporibus explicabo praesentium quo quis aperiam odit. Tempore nesciunt itaque consequatur earum rerum.",
+  "fecha": {
+    "$date": "2023-05-16T12:36:25.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd11"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6009"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96afc"
+  },
+  "calificacion": 2,
+  "comentario": "Fugiat voluptatibus dicta ducimus quos. Inventore corporis nobis natus occaecati. Deserunt nam cum nulla neque voluptatum. Minus itaque veritatis dicta commodi nemo.",
+  "fecha": {
+    "$date": "2023-09-20T20:50:56.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd12"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601b"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1d"
+  },
+  "calificacion": 2,
+  "comentario": "Dicta quibusdam minima inventore magni laudantium iure quisquam. Provident cumque error ipsum fugiat. Perspiciatis ad odio sint id eveniet voluptatum inventore.",
+  "fecha": {
+    "$date": "2023-06-15T13:47:56.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd13"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6022"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b24"
+  },
+  "calificacion": 3,
+  "comentario": "Doloribus illo fuga. Non sapiente maxime necessitatibus. Libero voluptatem possimus accusamus repellat debitis odio deleniti. Corporis commodi numquam voluptatibus cupiditate incidunt qui.",
+  "fecha": {
+    "$date": "2023-06-18T08:09:29.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd14"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6024"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2a"
+  },
+  "calificacion": 2,
+  "comentario": "Hic id blanditiis nostrum. Sapiente optio dolore et.\nVoluptate ullam nobis. Occaecati neque maiores incidunt sunt veritatis est. Ab laborum optio consequuntur ut aut.",
+  "fecha": {
+    "$date": "2023-10-08T17:50:08.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd15"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f600a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b22"
+  },
+  "calificacion": 5,
+  "comentario": "Rerum eos harum quasi necessitatibus ab molestias. Voluptate delectus eos at.",
+  "fecha": {
+    "$date": "2024-02-10T11:42:16.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd16"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe4"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0b"
+  },
+  "calificacion": 1,
+  "comentario": "A itaque quisquam minus beatae incidunt neque. Odio aliquam natus aspernatur voluptatem rerum.\nConsequuntur placeat fugiat beatae cupiditate. Mollitia delectus laboriosam repellendus.",
+  "fecha": {
+    "$date": "2023-11-22T23:56:06.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd17"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ffd"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b02"
+  },
+  "calificacion": 2,
+  "comentario": "Numquam alias aperiam temporibus repellendus. Corrupti iste dignissimos similique omnis.\nAlias eum laudantium unde. Laborum eos illo.",
+  "fecha": {
+    "$date": "2024-02-18T20:25:06.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd18"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe8"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96af9"
+  },
+  "calificacion": 2,
+  "comentario": "A delectus quod. Iusto rem et maiores. Iste repellat magnam fuga recusandae aut accusantium.\nSunt corrupti sequi.",
+  "fecha": {
+    "$date": "2024-03-18T00:59:18.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd19"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6018"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b22"
+  },
+  "calificacion": 3,
+  "comentario": "Sint enim veniam sint quas in. Cupiditate fuga et non veritatis ut. Impedit cum commodi illum.",
+  "fecha": {
+    "$date": "2023-08-11T20:33:36.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd1a"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f602d"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0e"
+  },
+  "calificacion": 3,
+  "comentario": "Atque expedita doloribus doloremque voluptate. Similique error ipsam rem quam corporis eveniet.\nAliquam eius dignissimos reiciendis. Ullam voluptate unde ab.",
+  "fecha": {
+    "$date": "2024-03-03T17:31:19.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd1b"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f600d"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3c"
+  },
+  "calificacion": 1,
+  "comentario": "Expedita qui doloribus laborum ducimus quia. Nostrum veniam debitis nesciunt.\nDignissimos quia dignissimos. Earum sequi facere libero ex architecto sunt.",
+  "fecha": {
+    "$date": "2023-06-23T12:42:51.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd1c"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6037"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b44"
+  },
+  "calificacion": 1,
+  "comentario": "Nulla corporis tempore iusto necessitatibus reprehenderit aliquam.",
+  "fecha": {
+    "$date": "2023-08-18T17:25:58.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd1d"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6002"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b40"
+  },
+  "calificacion": 3,
+  "comentario": "Neque inventore nisi expedita iusto molestias. Quam iusto id officia.\nVoluptatem magni accusamus aut adipisci est. Mollitia voluptatum commodi praesentium ex quasi nostrum.",
+  "fecha": {
+    "$date": "2023-06-26T05:41:35.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd1e"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ffe"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b29"
+  },
+  "calificacion": 3,
+  "comentario": "Numquam explicabo fuga consequatur laboriosam sed sint. Placeat asperiores expedita quo adipisci. Fuga dicta accusamus sit.",
+  "fecha": {
+    "$date": "2023-05-06T10:08:30.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd1f"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6017"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1c"
+  },
+  "calificacion": 5,
+  "comentario": "Laudantium dolorem quibusdam saepe soluta. Veritatis temporibus iste vero maxime. Porro cumque expedita.",
+  "fecha": {
+    "$date": "2023-12-31T23:41:53.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd20"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6001"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0d"
+  },
+  "calificacion": 2,
+  "comentario": "Ipsa suscipit voluptatem minima dolorum iusto. Repellat corporis provident explicabo eveniet aperiam.\nItaque asperiores dolore sed nihil.",
+  "fecha": {
+    "$date": "2024-01-16T07:27:53.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd21"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe1"
+  },
+  "id_Cliente": {
+    "$oid": "6632cf7bd019127b5861496e"
+  },
+  "calificacion": 4,
+  "comentario": "Eos aliquam voluptate velit magnam architecto. Ullam quibusdam et facilis. Quae porro cum quos soluta repellendus consequuntur. Pariatur adipisci veniam sint.\nArchitecto vel rem dolorum dolor.",
+  "fecha": {
+    "$date": "2023-06-29T11:47:43.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd22"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6023"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b33"
+  },
+  "calificacion": 5,
+  "comentario": "Vero ullam libero aut est impedit. Maxime quidem recusandae enim delectus labore harum nostrum. Provident eaque voluptates soluta error veritatis ullam. Quo omnis eum beatae commodi dolor quos.",
+  "fecha": {
+    "$date": "2024-04-10T20:59:50.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd23"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5feb"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b27"
+  },
+  "calificacion": 2,
+  "comentario": "Quo vitae magnam libero rem veniam. Esse optio nisi rerum veniam.\nAccusamus reprehenderit nam rem repellendus. Officiis sed explicabo maiores.",
+  "fecha": {
+    "$date": "2023-05-13T23:15:37.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd24"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff7"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4c"
+  },
+  "calificacion": 4,
+  "comentario": "Perferendis illo dicta veritatis illo corporis quis. Nostrum eveniet asperiores excepturi. Doloremque quibusdam perferendis inventore.",
+  "fecha": {
+    "$date": "2024-01-09T20:51:20.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd25"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601b"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b30"
+  },
+  "calificacion": 3,
+  "comentario": "Sequi recusandae quisquam ex. Excepturi tempore libero sit esse praesentium eos. Exercitationem debitis voluptatibus expedita molestias beatae.",
+  "fecha": {
+    "$date": "2024-03-20T21:30:11.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd26"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601b"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2a"
+  },
+  "calificacion": 4,
+  "comentario": "Impedit ipsa aliquam corrupti voluptatibus alias.\nQuas distinctio odit atque at. Suscipit dolorem accusamus placeat excepturi.",
+  "fecha": {
+    "$date": "2023-09-19T10:52:09.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd27"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff0"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b39"
+  },
+  "calificacion": 1,
+  "comentario": "Dolorem quos officiis nihil id voluptatum.\nMolestiae alias qui. Dicta iure minima id aperiam eius.",
+  "fecha": {
+    "$date": "2023-05-22T23:49:37.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd28"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b43"
+  },
+  "calificacion": 5,
+  "comentario": "Debitis et nesciunt. Vel illum perspiciatis velit.\nPorro sapiente eveniet non quia mollitia. Et aliquid nostrum similique.\nCumque mollitia architecto quasi.",
+  "fecha": {
+    "$date": "2023-10-29T23:59:23.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd29"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fee"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b49"
+  },
+  "calificacion": 4,
+  "comentario": "Vero corrupti illum deserunt excepturi tenetur laborum sapiente. Reprehenderit nisi exercitationem est laborum praesentium.",
+  "fecha": {
+    "$date": "2023-05-22T20:14:06.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd2a"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fdf"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b37"
+  },
+  "calificacion": 5,
+  "comentario": "Reprehenderit quod suscipit minima asperiores atque in. Assumenda esse corporis quae nemo. Culpa delectus dolore occaecati voluptatibus.",
+  "fecha": {
+    "$date": "2023-07-29T06:30:41.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd2b"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6023"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b43"
+  },
+  "calificacion": 2,
+  "comentario": "Aliquam repudiandae accusamus vero. Facilis omnis ducimus eveniet. Asperiores cum optio veniam.",
+  "fecha": {
+    "$date": "2024-01-10T11:30:53.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd2c"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f603d"
+  },
+  "id_Cliente": {
+    "$oid": "6632cf7bd019127b5861496e"
+  },
+  "calificacion": 2,
+  "comentario": "Dolore labore dolorem commodi. Odio sequi dolore excepturi asperiores eligendi quia.\nImpedit consectetur soluta ducimus neque eum hic quaerat. Modi beatae aperiam vitae.",
+  "fecha": {
+    "$date": "2024-04-20T12:50:18.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd2d"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fdf"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1a"
+  },
+  "calificacion": 2,
+  "comentario": "Aut quidem facilis quod. Illum asperiores praesentium ea blanditiis. Quo magni animi suscipit iure eaque.\nVeritatis fugit ut voluptatem iure recusandae. Iusto rerum esse aspernatur eaque vero ullam.",
+  "fecha": {
+    "$date": "2023-08-25T22:54:13.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd2e"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f603e"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b32"
+  },
+  "calificacion": 2,
+  "comentario": "Nostrum cumque sequi minima suscipit. At rem et libero veritatis.\nAlias alias corporis ratione repudiandae. At excepturi odit accusamus.",
+  "fecha": {
+    "$date": "2023-12-07T07:36:21.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd2f"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6009"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1c"
+  },
+  "calificacion": 1,
+  "comentario": "Perspiciatis explicabo itaque dicta nobis maxime. Eius odit vero distinctio impedit sed ipsum. Adipisci delectus officiis quam quaerat labore ad quas.",
+  "fecha": {
+    "$date": "2023-05-15T17:41:56.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd30"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ffa"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0f"
+  },
+  "calificacion": 1,
+  "comentario": "Voluptatem blanditiis iusto natus molestias. Optio laudantium consequatur labore iusto illo dolorem.",
+  "fecha": {
+    "$date": "2023-05-27T12:05:08.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd31"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fed"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b14"
+  },
+  "calificacion": 5,
+  "comentario": "Provident rem laudantium id nisi similique. Ad quidem voluptas provident ducimus ipsum ea.\nVero praesentium modi atque. Qui aut tempore quibusdam nobis nam dicta.",
+  "fecha": {
+    "$date": "2024-04-15T08:42:06.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd32"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6025"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b12"
+  },
+  "calificacion": 1,
+  "comentario": "Consequuntur qui omnis est ipsum vel. A quas maiores officiis.\nVelit aut quasi nesciunt autem nisi. Accusamus repellendus eos dolorum itaque magni aperiam.",
+  "fecha": {
+    "$date": "2023-08-30T21:37:59.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd33"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff0"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b19"
+  },
+  "calificacion": 5,
+  "comentario": "Dolorum dolores facilis. Excepturi dicta nesciunt saepe unde assumenda eaque. Sapiente laudantium autem dolor.",
+  "fecha": {
+    "$date": "2023-05-09T19:57:42.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd34"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe0"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3c"
+  },
+  "calificacion": 5,
+  "comentario": "Nemo perspiciatis illo eligendi. Quam mollitia nulla accusantium in ipsa.\nAccusantium fugit consequatur. Pariatur laboriosam laboriosam aperiam minus repellat qui.",
+  "fecha": {
+    "$date": "2023-12-07T08:33:18.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd35"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6029"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b5a"
+  },
+  "calificacion": 4,
+  "comentario": "Officia ducimus quaerat expedita. Doloribus laboriosam officia consequuntur velit ab alias.\nMagnam amet temporibus sit nemo optio at iure. Dolore quas placeat suscipit ad.",
+  "fecha": {
+    "$date": "2024-01-25T04:04:33.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd36"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601e"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b52"
+  },
+  "calificacion": 5,
+  "comentario": "Quia cupiditate nulla perferendis cum.\nVoluptatum enim rem assumenda sint perferendis labore maiores. Ipsum deleniti consequatur voluptate. Facere ipsa deleniti quaerat odit.",
+  "fecha": {
+    "$date": "2023-08-23T14:33:36.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd37"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b21"
+  },
+  "calificacion": 2,
+  "comentario": "Itaque assumenda quod ipsum deserunt. Occaecati provident a adipisci quisquam harum excepturi architecto.",
+  "fecha": {
+    "$date": "2024-04-06T03:24:53.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd38"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f602e"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0a"
+  },
+  "calificacion": 4,
+  "comentario": "Possimus ab a similique. Vitae quae nesciunt quod iusto est amet inventore. Delectus saepe cumque qui nisi.",
+  "fecha": {
+    "$date": "2024-03-28T15:18:36.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd39"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f600d"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b59"
+  },
+  "calificacion": 2,
+  "comentario": "Consequuntur molestias nobis nam excepturi. Facere expedita quisquam nihil. Laudantium consequatur ipsum quod fugit iusto neque.",
+  "fecha": {
+    "$date": "2023-12-29T01:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd3a"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff4"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0d"
+  },
+  "calificacion": 2,
+  "comentario": "Dicta praesentium tempora inventore laboriosam non. Numquam consectetur nesciunt itaque perferendis repellat porro. Deserunt mollitia incidunt nobis commodi.",
+  "fecha": {
+    "$date": "2023-08-26T12:28:45.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd3b"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6016"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b21"
+  },
+  "calificacion": 2,
+  "comentario": "Explicabo itaque perferendis corporis sapiente ipsa. Explicabo voluptas fuga hic explicabo quis maxime provident. Laudantium quibusdam ullam ipsa facilis.",
+  "fecha": {
+    "$date": "2024-04-08T04:22:21.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd3c"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe9"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b5b"
+  },
+  "calificacion": 1,
+  "comentario": "Occaecati dolorem veniam recusandae. Vitae consequuntur dolorum rerum dignissimos dolorum nulla.\nDignissimos ipsum possimus cumque. Omnis saepe pariatur fugiat tempora consectetur facilis.",
+  "fecha": {
+    "$date": "2023-05-14T15:59:49.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd3d"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f600e"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b28"
+  },
+  "calificacion": 1,
+  "comentario": "Laborum minima amet nesciunt. Debitis quidem tenetur placeat necessitatibus labore et. Officia eveniet ut. Eos aut earum consectetur explicabo aliquid.\nVelit maiores fugit voluptatibus eum.",
+  "fecha": {
+    "$date": "2023-05-22T14:29:41.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd3e"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b12"
+  },
+  "calificacion": 5,
+  "comentario": "Cupiditate provident ipsam modi dolor. Quibusdam qui illum incidunt quae facilis quibusdam.\nCumque accusantium tempore consectetur. Commodi qui quae est exercitationem dolor ea.",
+  "fecha": {
+    "$date": "2023-09-15T22:57:37.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd3f"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe8"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b5a"
+  },
+  "calificacion": 5,
+  "comentario": "Similique non aliquid similique ab. Fugiat maxime beatae minus fuga. Nisi dicta voluptatem eligendi.\nBeatae ea rem fugiat porro corporis. Ipsum nam rerum excepturi. Rem explicabo numquam ea.",
+  "fecha": {
+    "$date": "2023-05-12T10:20:48.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd40"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ffc"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2d"
+  },
+  "calificacion": 5,
+  "comentario": "Expedita ipsam eveniet. Temporibus quidem veritatis architecto officia cum nostrum.\nNisi perspiciatis modi. Iusto aliquam nesciunt maiores fugit harum quisquam.",
+  "fecha": {
+    "$date": "2023-10-03T02:36:48.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd41"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ffc"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4d"
+  },
+  "calificacion": 1,
+  "comentario": "Dolorum deserunt recusandae repudiandae. Ex aliquid labore quibusdam dolore totam.\nVoluptate minus possimus quidem nihil.",
+  "fecha": {
+    "$date": "2023-10-08T23:52:17.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd42"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f603d"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3c"
+  },
+  "calificacion": 5,
+  "comentario": "A beatae voluptate maiores cumque. Repellat maiores ipsam earum optio minus eius. Harum voluptas ea maxime quibusdam.\nAtque aut iusto.",
+  "fecha": {
+    "$date": "2023-11-16T03:11:32.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd43"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ffa"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4f"
+  },
+  "calificacion": 1,
+  "comentario": "Iste officia eaque eum odit cum. Eos necessitatibus corporis facere minus tempora maxime.\nNulla consequuntur veritatis. Distinctio vel sed non sequi consequuntur repellendus.",
+  "fecha": {
+    "$date": "2024-01-16T13:53:02.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd44"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6024"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b5a"
+  },
+  "calificacion": 3,
+  "comentario": "Nisi hic nihil facilis libero atque nemo necessitatibus. Unde corporis fuga vel iusto dolorem hic.\nPorro beatae numquam ipsam ab eum. Sit nesciunt architecto molestiae totam reprehenderit modi unde.",
+  "fecha": {
+    "$date": "2023-06-02T13:58:54.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd45"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6023"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b27"
+  },
+  "calificacion": 3,
+  "comentario": "Hic quam omnis eius itaque itaque possimus. Dolorum at voluptas necessitatibus itaque asperiores saepe ullam. Sit quod impedit eos accusantium laudantium.",
+  "fecha": {
+    "$date": "2023-09-20T18:57:27.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd46"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fdf"
+  },
+  "id_Cliente": {
+    "$oid": "6632cf7bd019127b5861496e"
+  },
+  "calificacion": 3,
+  "comentario": "Fuga architecto iure. Quasi doloribus laudantium quae cupiditate ipsa.",
+  "fecha": {
+    "$date": "2024-02-11T13:41:56.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd47"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fec"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2d"
+  },
+  "calificacion": 2,
+  "comentario": "Iure tempora veniam in. Doloremque explicabo vel facere facilis totam. Recusandae odio ut dignissimos asperiores.",
+  "fecha": {
+    "$date": "2023-09-29T02:55:24.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd48"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff7"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96af9"
+  },
+  "calificacion": 2,
+  "comentario": "Assumenda unde hic illum voluptas. Veniam explicabo repellat veritatis quae aliquam hic.\nLaudantium consequuntur minus non dicta eligendi nemo. Ut esse dolorem id. Eum in earum est quas nulla nemo.",
+  "fecha": {
+    "$date": "2024-02-10T07:37:42.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd49"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff7"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1e"
+  },
+  "calificacion": 4,
+  "comentario": "Repellat mollitia nulla incidunt maiores animi libero. Sed corrupti soluta illum recusandae dolore earum consectetur.\nCum vel tempore itaque reprehenderit soluta doloremque.",
+  "fecha": {
+    "$date": "2024-02-25T05:24:03.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd4a"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6000"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2b"
+  },
+  "calificacion": 5,
+  "comentario": "Eius rem in provident vero porro rerum. Quo debitis laudantium vel. Ad odit iusto quasi cupiditate.",
+  "fecha": {
+    "$date": "2023-07-02T21:50:01.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd4b"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601b"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0c"
+  },
+  "calificacion": 2,
+  "comentario": "Laboriosam reprehenderit itaque quas. Illum vero laboriosam enim eaque voluptates debitis. Repudiandae ullam dolore animi laborum officia explicabo veritatis.",
+  "fecha": {
+    "$date": "2024-04-09T12:55:05.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd4c"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6036"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b56"
+  },
+  "calificacion": 5,
+  "comentario": "Perspiciatis tenetur placeat id quis exercitationem accusantium. Inventore dignissimos illo doloremque quae eveniet labore. Asperiores beatae possimus laboriosam ratione.",
+  "fecha": {
+    "$date": "2023-09-27T23:31:13.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd4d"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f602f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b31"
+  },
+  "calificacion": 5,
+  "comentario": "Voluptas ipsam dolor excepturi perspiciatis. Quis asperiores quod minima reprehenderit odio tempore.\nRepellat quaerat placeat magnam. Unde alias nemo laborum ipsa modi et magnam.",
+  "fecha": {
+    "$date": "2023-12-16T02:25:32.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd4e"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6009"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b10"
+  },
+  "calificacion": 5,
+  "comentario": "Ducimus eveniet inventore voluptas consequuntur natus. Sequi natus animi minima atque fugit.\nVero vitae assumenda. Eveniet hic sit deleniti laboriosam quos.",
+  "fecha": {
+    "$date": "2023-09-20T08:34:57.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd4f"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6008"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b44"
+  },
+  "calificacion": 4,
+  "comentario": "Libero ab recusandae rem ab aut ab. Officia occaecati placeat ad. Sequi blanditiis maiores expedita autem.",
+  "fecha": {
+    "$date": "2023-12-06T09:27:48.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd50"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f603a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3e"
+  },
+  "calificacion": 1,
+  "comentario": "Quibusdam illo maxime.\nQuod maxime nesciunt laboriosam quisquam vel voluptatibus sapiente. Minus facere et. Similique eveniet rem ex nam.",
+  "fecha": {
+    "$date": "2023-05-03T19:47:31.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd51"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff2"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b02"
+  },
+  "calificacion": 3,
+  "comentario": "Dolor repudiandae voluptatem assumenda officiis odio voluptates ex. Perferendis debitis ipsam excepturi. Cupiditate odit sit sed consequuntur corporis.",
+  "fecha": {
+    "$date": "2024-01-02T17:17:06.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd52"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f602c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b30"
+  },
+  "calificacion": 1,
+  "comentario": "Ducimus cumque placeat ullam. Nisi est veniam expedita aperiam enim fugit.\nAperiam voluptatum doloremque officiis nisi commodi. Architecto quos vel suscipit.",
+  "fecha": {
+    "$date": "2024-02-26T21:48:42.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd53"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6018"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b21"
+  },
+  "calificacion": 1,
+  "comentario": "Libero sequi laudantium. Aut voluptatem nisi iste blanditiis cumque sit exercitationem. Minima molestiae in sunt dolorum similique enim a.",
+  "fecha": {
+    "$date": "2024-03-27T10:47:54.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd54"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fee"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0e"
+  },
+  "calificacion": 5,
+  "comentario": "Ipsam quam voluptatem ratione ratione fugit aut. Laboriosam dignissimos molestiae consectetur asperiores porro.\nSaepe sed natus aut ipsa. Animi sapiente impedit exercitationem similique.",
+  "fecha": {
+    "$date": "2023-10-29T11:23:32.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd55"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ffb"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b43"
+  },
+  "calificacion": 5,
+  "comentario": "Omnis esse veniam molestias consequatur saepe. Illum sapiente ad non minus.\nMaiores voluptates officia ad voluptates animi. Modi facere nobis. Earum maxime quia.",
+  "fecha": {
+    "$date": "2023-08-06T09:20:04.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd56"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6029"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2a"
+  },
+  "calificacion": 5,
+  "comentario": "Aperiam officiis reprehenderit tempore necessitatibus pariatur praesentium laudantium. Sapiente recusandae quos nihil assumenda. Ad repudiandae nulla assumenda reiciendis fuga.",
+  "fecha": {
+    "$date": "2023-05-19T08:58:57.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd57"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe8"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b07"
+  },
+  "calificacion": 5,
+  "comentario": "Consequuntur rerum porro corporis quae velit voluptas. Architecto harum alias laudantium nam corrupti. Dicta inventore ex perspiciatis tempora quo eum.",
+  "fecha": {
+    "$date": "2023-08-30T20:04:28.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd58"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6027"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b52"
+  },
+  "calificacion": 1,
+  "comentario": "Adipisci ab atque harum tempore molestiae labore. Deleniti laudantium cumque esse.\nQuasi nobis aliquam aperiam. Esse incidunt in aut. Vitae quis exercitationem non quae nemo.",
+  "fecha": {
+    "$date": "2024-04-29T22:50:44.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd59"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6028"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2d"
+  },
+  "calificacion": 2,
+  "comentario": "Commodi omnis dolorem ex maxime. Neque dolorum vitae. Eveniet animi quas odio odio ex.",
+  "fecha": {
+    "$date": "2023-10-25T04:09:52.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd5a"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f602d"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1e"
+  },
+  "calificacion": 3,
+  "comentario": "Occaecati officiis deleniti harum esse. Nostrum totam voluptas aut quidem in veritatis. Dolorum quia quidem voluptatum sint voluptatem sequi.",
+  "fecha": {
+    "$date": "2023-08-08T01:22:09.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd5b"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6008"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b45"
+  },
+  "calificacion": 3,
+  "comentario": "Veniam quas eveniet reprehenderit aliquam quae. Libero soluta minima totam iste. Veniam totam fugit quo.",
+  "fecha": {
+    "$date": "2024-01-31T22:11:50.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd5c"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff9"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b20"
+  },
+  "calificacion": 2,
+  "comentario": "Porro architecto ullam rem est sint.\nConsequuntur aspernatur nemo consequatur numquam repudiandae. Facere nisi ratione culpa enim.",
+  "fecha": {
+    "$date": "2023-11-04T14:53:24.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd5d"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f602f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b20"
+  },
+  "calificacion": 3,
+  "comentario": "Doloribus iure ratione molestiae occaecati. Repudiandae assumenda quo debitis dignissimos odit.\nCommodi sed dignissimos fuga nemo. Dolores natus inventore praesentium. Recusandae facere aliquid.",
+  "fecha": {
+    "$date": "2023-10-31T04:28:13.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd5e"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe0"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b40"
+  },
+  "calificacion": 2,
+  "comentario": "Fuga recusandae modi maxime officiis asperiores totam. Ipsum accusamus blanditiis deleniti.",
+  "fecha": {
+    "$date": "2023-11-04T15:04:11.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd5f"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe4"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3e"
+  },
+  "calificacion": 5,
+  "comentario": "Dolorum facilis iste illum provident sequi. Sed assumenda consequatur corporis reiciendis corporis.",
+  "fecha": {
+    "$date": "2023-09-21T19:02:14.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd60"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f603f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1a"
+  },
+  "calificacion": 1,
+  "comentario": "Ea repudiandae illum commodi debitis.\nAdipisci facere fugiat asperiores voluptate nemo officiis. Officiis eos cumque ex molestiae at. Eligendi laborum numquam sint placeat accusantium.",
+  "fecha": {
+    "$date": "2023-10-14T00:08:44.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd61"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6039"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b31"
+  },
+  "calificacion": 4,
+  "comentario": "Quidem earum optio dolores dolorum. Numquam eaque doloremque temporibus a odit doloremque aliquid. Rerum quod facere molestias dolores sint.",
+  "fecha": {
+    "$date": "2023-06-17T22:36:09.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd62"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6034"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96afd"
+  },
+  "calificacion": 4,
+  "comentario": "Fuga optio harum at exercitationem suscipit. Consequuntur iure fugit velit.",
+  "fecha": {
+    "$date": "2024-03-15T12:00:21.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd63"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6003"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b07"
+  },
+  "calificacion": 3,
+  "comentario": "Harum dolorem quo sit sequi molestias voluptas deleniti. Alias praesentium odit iure ducimus impedit qui.",
+  "fecha": {
+    "$date": "2023-09-03T22:13:43.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd64"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6012"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b34"
+  },
+  "calificacion": 5,
+  "comentario": "Distinctio saepe exercitationem repudiandae. Illo praesentium reprehenderit explicabo.\nMollitia voluptas impedit tempore sint pariatur quaerat. Porro a voluptate consectetur impedit.",
+  "fecha": {
+    "$date": "2023-12-13T14:44:33.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd65"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6036"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b13"
+  },
+  "calificacion": 3,
+  "comentario": "A sunt architecto optio dignissimos. Iste quisquam asperiores odit nesciunt voluptatem praesentium modi. Ad a sapiente quidem aperiam commodi dolorum.",
+  "fecha": {
+    "$date": "2023-09-29T21:09:24.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd66"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6016"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0a"
+  },
+  "calificacion": 3,
+  "comentario": "Dolorem sequi incidunt in corrupti cum alias. Alias occaecati voluptate repudiandae ipsum asperiores.",
+  "fecha": {
+    "$date": "2024-03-31T00:47:08.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd67"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6007"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b42"
+  },
+  "calificacion": 1,
+  "comentario": "Fugiat corrupti aliquid. Quisquam quidem laboriosam atque soluta itaque saepe. Ipsam illum porro. Quam ab aperiam possimus recusandae.",
+  "fecha": {
+    "$date": "2024-02-21T13:11:13.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd68"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f603e"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b20"
+  },
+  "calificacion": 1,
+  "comentario": "Corporis fugiat aliquid sapiente quidem aliquid. Eos eligendi officiis eligendi nobis minus praesentium. Repellat quae sint aliquid doloribus.",
+  "fecha": {
+    "$date": "2023-07-11T10:19:29.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd69"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6032"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4d"
+  },
+  "calificacion": 1,
+  "comentario": "Aperiam atque accusantium labore at magnam soluta animi. Ipsa numquam a dolores repellendus. Libero rem praesentium quam mollitia esse quis numquam. Ratione non deleniti iste officiis nihil ex.",
+  "fecha": {
+    "$date": "2024-03-09T17:01:24.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd6a"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6038"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4e"
+  },
+  "calificacion": 5,
+  "comentario": "Assumenda veritatis facilis repellendus consequuntur. Excepturi incidunt maiores quos dolor dolorum. Minus recusandae nemo.",
+  "fecha": {
+    "$date": "2024-04-26T02:02:40.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd6b"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe0"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96af8"
+  },
+  "calificacion": 4,
+  "comentario": "Illum vel assumenda harum cum. Corrupti molestias nobis dignissimos maiores. Accusamus tempora illo eius.",
+  "fecha": {
+    "$date": "2023-09-24T09:52:41.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd6c"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f600a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0f"
+  },
+  "calificacion": 4,
+  "comentario": "Fuga dicta atque sapiente quasi.\nBeatae reiciendis deleniti fugiat iusto. Quam cumque laboriosam sapiente fugit pariatur. At odio ullam laudantium cupiditate quae ad est.",
+  "fecha": {
+    "$date": "2024-04-19T15:57:59.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd6d"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6024"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b25"
+  },
+  "calificacion": 3,
+  "comentario": "Quisquam voluptate illum doloribus quaerat quia consectetur. Veritatis facere eligendi in voluptatum molestias. Voluptas voluptate voluptatum.",
+  "fecha": {
+    "$date": "2023-11-25T21:27:14.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd6e"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6026"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4c"
+  },
+  "calificacion": 5,
+  "comentario": "Praesentium vitae consectetur soluta esse dolorum.\nVero id ut accusamus voluptatibus. Inventore maiores ea quibusdam.",
+  "fecha": {
+    "$date": "2024-01-26T12:49:27.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd6f"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f602b"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1e"
+  },
+  "calificacion": 2,
+  "comentario": "Corrupti incidunt odio aliquam quibusdam ea. Voluptatibus sunt praesentium magni laudantium eveniet provident.",
+  "fecha": {
+    "$date": "2023-06-30T01:19:48.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd70"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601b"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b40"
+  },
+  "calificacion": 3,
+  "comentario": "Sunt dolor rerum nostrum. Tenetur natus debitis numquam dignissimos quisquam unde. Eos nisi unde animi sunt.\nHic dicta reiciendis a. Iste nulla temporibus voluptatem.",
+  "fecha": {
+    "$date": "2023-08-08T00:24:31.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd71"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe4"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b19"
+  },
+  "calificacion": 4,
+  "comentario": "Ab delectus numquam eos. Perspiciatis eaque voluptatem sint at nam possimus ullam. Error voluptatum eum neque adipisci. Unde fugit laudantium ab exercitationem iure.",
+  "fecha": {
+    "$date": "2024-01-25T14:36:32.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd72"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6020"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b12"
+  },
+  "calificacion": 2,
+  "comentario": "Et vitae optio dolore dolorem. Nobis minus dolor soluta deleniti.",
+  "fecha": {
+    "$date": "2024-04-11T05:54:56.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd73"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601b"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b33"
+  },
+  "calificacion": 4,
+  "comentario": "Numquam iste adipisci necessitatibus sapiente enim perspiciatis. Blanditiis aspernatur neque optio.\nReprehenderit eius eum distinctio. Eveniet nemo adipisci omnis nulla.",
+  "fecha": {
+    "$date": "2023-08-25T02:55:21.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd74"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff6"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0e"
+  },
+  "calificacion": 2,
+  "comentario": "Iusto dolores reprehenderit eos facere accusantium accusantium iure. Doloribus totam at veniam expedita. Officiis beatae earum.",
+  "fecha": {
+    "$date": "2024-02-24T12:29:50.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd75"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe8"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b10"
+  },
+  "calificacion": 1,
+  "comentario": "Ipsum iure rem voluptatibus unde rem. Consequatur saepe ipsa adipisci veritatis aliquid quae. Vel quas pariatur ab dolore.",
+  "fecha": {
+    "$date": "2023-07-14T07:33:53.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd76"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6007"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b13"
+  },
+  "calificacion": 5,
+  "comentario": "Animi magnam eius eveniet perspiciatis. Amet architecto itaque pariatur cupiditate unde odio numquam. Officia cum recusandae amet consequatur nam quam. Quod inventore libero delectus iusto.",
+  "fecha": {
+    "$date": "2024-01-28T18:02:57.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd77"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f602c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b23"
+  },
+  "calificacion": 3,
+  "comentario": "Unde eligendi temporibus voluptates nesciunt veniam tempora. Vitae tempore temporibus facere repudiandae. Voluptatibus eos nobis totam necessitatibus soluta sint ratione.",
+  "fecha": {
+    "$date": "2023-05-26T05:30:48.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd78"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff7"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b05"
+  },
+  "calificacion": 5,
+  "comentario": "Totam sapiente deserunt rerum exercitationem. Minima enim optio repellat quasi ullam perferendis. Ut tenetur ipsum labore reiciendis.",
+  "fecha": {
+    "$date": "2023-08-09T10:59:57.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd79"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6015"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b43"
+  },
+  "calificacion": 4,
+  "comentario": "Facere nihil veniam dignissimos. Reprehenderit saepe ullam consequatur aut. Nostrum magni quam voluptate vitae doloribus voluptas.",
+  "fecha": {
+    "$date": "2023-11-03T04:02:11.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd7a"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6012"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b5b"
+  },
+  "calificacion": 2,
+  "comentario": "Dolore recusandae nam mollitia tempora mollitia voluptas. Rerum quasi totam possimus eius necessitatibus repellat.",
+  "fecha": {
+    "$date": "2024-02-19T05:39:55.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd7b"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6021"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2f"
+  },
+  "calificacion": 5,
+  "comentario": "Explicabo ratione quas sit sed quisquam unde. Quidem quae provident.\nLabore molestias pariatur laboriosam libero. Odio quasi occaecati reiciendis. Tempore omnis accusamus.",
+  "fecha": {
+    "$date": "2023-09-13T02:25:24.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd7c"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff6"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0c"
+  },
+  "calificacion": 2,
+  "comentario": "Laborum quibusdam rerum perspiciatis aspernatur. Sit illum nulla.",
+  "fecha": {
+    "$date": "2023-09-24T13:19:19.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd7d"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ffe"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b42"
+  },
+  "calificacion": 3,
+  "comentario": "Ullam voluptates aspernatur nemo. Eius provident repellendus aperiam. Voluptate dolorum incidunt accusantium quaerat provident placeat.",
+  "fecha": {
+    "$date": "2023-09-27T14:46:02.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd7e"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f603f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b33"
+  },
+  "calificacion": 3,
+  "comentario": "Iste quo odit eius quidem. Occaecati nulla dolore neque.\nQuod provident accusamus ea esse fuga commodi. Eveniet nobis unde dolore modi qui.",
+  "fecha": {
+    "$date": "2023-11-17T21:39:42.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd7f"
+  },
+  "id_Hotel": {
+    "$oid": "6632d5abd019127b58614b03"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0b"
+  },
+  "calificacion": 5,
+  "comentario": "Aspernatur voluptates aspernatur blanditiis. Et eum quos adipisci a culpa explicabo at.\nAlias velit aliquid dicta quam possimus sed. Possimus quas corporis voluptate temporibus ab quaerat.",
+  "fecha": {
+    "$date": "2023-05-07T15:09:09.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd80"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6026"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b19"
+  },
+  "calificacion": 1,
+  "comentario": "Molestiae dolores magnam temporibus quo dolores.\nAt tenetur suscipit facere. Excepturi eveniet ad placeat.",
+  "fecha": {
+    "$date": "2023-07-26T10:14:50.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd81"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff4"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b50"
+  },
+  "calificacion": 2,
+  "comentario": "Nulla fugiat ex nostrum enim blanditiis perferendis. Veritatis numquam commodi illo. Dicta totam voluptate.",
+  "fecha": {
+    "$date": "2023-09-26T23:52:54.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd82"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6006"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b54"
+  },
+  "calificacion": 1,
+  "comentario": "Corrupti enim animi autem pariatur. Minima et magnam laudantium.\nBeatae animi voluptatem perspiciatis consequuntur delectus.",
+  "fecha": {
+    "$date": "2023-07-09T10:51:29.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd83"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ffc"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b31"
+  },
+  "calificacion": 1,
+  "comentario": "Accusantium perspiciatis dicta. Et consequuntur praesentium. In vero expedita a beatae praesentium corporis.",
+  "fecha": {
+    "$date": "2023-11-13T10:17:08.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd84"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fef"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b05"
+  },
+  "calificacion": 3,
+  "comentario": "Modi animi saepe vel explicabo. Ad vero quia.\nFugit porro sapiente iusto. Fuga fuga debitis. Maxime temporibus assumenda in soluta eveniet.",
+  "fecha": {
+    "$date": "2023-05-20T01:39:10.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd85"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ffb"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2b"
+  },
+  "calificacion": 3,
+  "comentario": "Numquam repellat culpa sapiente. Quisquam voluptatum perspiciatis molestiae vitae. Ipsum aut fugiat rerum dolorum atque.",
+  "fecha": {
+    "$date": "2024-01-11T06:00:34.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd86"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b5b"
+  },
+  "calificacion": 4,
+  "comentario": "Eaque dolorum earum voluptate deleniti molestias vel. Exercitationem ratione dolore itaque quidem. Consectetur nulla consequuntur culpa consequuntur ratione itaque.",
+  "fecha": {
+    "$date": "2024-01-31T14:59:25.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd87"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6014"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b38"
+  },
+  "calificacion": 5,
+  "comentario": "Dolore error aperiam est harum illum. Doloremque inventore quaerat libero.\nTempore quaerat ipsam ratione aperiam. Adipisci quas veniam atque minima amet. Labore cum esse necessitatibus quo molestias.",
+  "fecha": {
+    "$date": "2023-05-17T01:13:47.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd88"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6027"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b05"
+  },
+  "calificacion": 2,
+  "comentario": "Nesciunt aliquid molestiae error. Tempora optio modi molestiae illo. Iste asperiores neque eveniet maxime. Occaecati sunt quas sunt ipsa aliquam perferendis.",
+  "fecha": {
+    "$date": "2023-05-09T01:31:54.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd89"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f602e"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b22"
+  },
+  "calificacion": 4,
+  "comentario": "Quos facere rerum numquam quae tempora. Eveniet quis facere aliquid. Qui non tempore dolor reprehenderit velit.",
+  "fecha": {
+    "$date": "2024-03-10T21:04:13.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd8a"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6014"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1d"
+  },
+  "calificacion": 3,
+  "comentario": "Beatae iure quo. Quia exercitationem corrupti.\nMinus itaque nisi enim recusandae voluptatum rerum. Excepturi earum modi culpa deleniti laborum eius. Cupiditate hic porro laborum unde veniam.",
+  "fecha": {
+    "$date": "2023-05-18T14:54:33.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd8b"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6035"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4f"
+  },
+  "calificacion": 2,
+  "comentario": "Aperiam vitae ipsam doloremque illo rem sint. Magni quasi modi libero iusto quam. Officiis aspernatur numquam quam.",
+  "fecha": {
+    "$date": "2024-01-14T11:32:39.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd8c"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6035"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96aff"
+  },
+  "calificacion": 1,
+  "comentario": "Laboriosam ipsam eum repellat.\nOmnis velit soluta eaque labore harum sed. Doloremque vel vel error deleniti. Aut fuga officia culpa.",
+  "fecha": {
+    "$date": "2024-04-16T21:55:54.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd8d"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b52"
+  },
+  "calificacion": 2,
+  "comentario": "Inventore animi exercitationem commodi unde quod reprehenderit. Quibusdam maiores rem consequuntur vel deleniti. Quae sint numquam ab impedit beatae.",
+  "fecha": {
+    "$date": "2023-06-12T11:23:04.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd8e"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe9"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3f"
+  },
+  "calificacion": 2,
+  "comentario": "Sint amet quisquam sequi modi. Sapiente pariatur nobis laborum ipsum asperiores. Nulla voluptatibus sunt necessitatibus et quos. Quisquam aliquid libero repellat.",
+  "fecha": {
+    "$date": "2024-02-09T05:00:07.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd8f"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6010"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2c"
+  },
+  "calificacion": 3,
+  "comentario": "Blanditiis fuga ut doloremque tenetur quaerat atque. Temporibus tempora temporibus vero fugit.",
+  "fecha": {
+    "$date": "2023-10-19T13:07:59.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd90"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe5"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2a"
+  },
+  "calificacion": 3,
+  "comentario": "Pariatur sequi odio. Animi totam magni excepturi natus nisi laborum.",
+  "fecha": {
+    "$date": "2023-06-04T11:59:52.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd91"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f602c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b52"
+  },
+  "calificacion": 4,
+  "comentario": "Repellendus corrupti autem nulla laborum. Non optio mollitia exercitationem ab.\nReiciendis aperiam provident quasi debitis. Ipsa suscipit ipsam recusandae quia. Recusandae qui minima iusto nam.",
+  "fecha": {
+    "$date": "2023-06-05T12:02:09.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd92"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b20"
+  },
+  "calificacion": 4,
+  "comentario": "Dolorum consequuntur quasi fuga soluta. Maxime consequatur porro excepturi.\nEa cupiditate laudantium. Dolorum vel fugiat voluptates itaque consequatur. Aliquam mollitia vel dolore corrupti tempora.",
+  "fecha": {
+    "$date": "2023-05-09T20:14:48.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd93"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fdf"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0e"
+  },
+  "calificacion": 4,
+  "comentario": "Eius impedit asperiores ullam. Veniam culpa aliquam magnam. Deleniti provident eos ipsa optio.",
+  "fecha": {
+    "$date": "2023-08-03T03:03:25.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd94"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6000"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3e"
+  },
+  "calificacion": 3,
+  "comentario": "Molestias corporis fugiat dolor voluptate accusantium alias. Possimus voluptatem numquam voluptatum laboriosam modi quae.\nNesciunt illum cupiditate earum. Perspiciatis maxime assumenda ex.",
+  "fecha": {
+    "$date": "2024-01-30T01:59:54.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd95"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601d"
+  },
+  "id_Cliente": {
+    "$oid": "6632cf7bd019127b5861496e"
+  },
+  "calificacion": 5,
+  "comentario": "Maxime debitis error maiores delectus animi mollitia. Cumque voluptatibus blanditiis blanditiis debitis excepturi officia.",
+  "fecha": {
+    "$date": "2023-11-14T10:27:11.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd96"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff7"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b46"
+  },
+  "calificacion": 5,
+  "comentario": "Suscipit illo quisquam consequatur. Eos iusto non hic voluptas sed. A quae occaecati ex.\nSed laboriosam possimus ut. Dolor cumque quaerat necessitatibus rerum.",
+  "fecha": {
+    "$date": "2023-06-02T17:58:51.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd97"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6034"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3b"
+  },
+  "calificacion": 4,
+  "comentario": "A consequuntur aliquid sequi facere architecto nesciunt. Illo voluptas beatae praesentium facere nulla esse. Rerum vel excepturi officiis.",
+  "fecha": {
+    "$date": "2023-11-10T10:46:23.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd98"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f602f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b49"
+  },
+  "calificacion": 1,
+  "comentario": "Nostrum reprehenderit animi quia aliquid. Quos ut temporibus dolore nesciunt non. Nobis quidem voluptas explicabo exercitationem dolore.",
+  "fecha": {
+    "$date": "2024-04-05T01:38:39.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd99"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe5"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b29"
+  },
+  "calificacion": 5,
+  "comentario": "Quaerat soluta fugiat voluptas. Repudiandae quidem facilis mollitia laborum ipsum. Doloremque ex voluptatum doloribus aut saepe.",
+  "fecha": {
+    "$date": "2023-12-25T22:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd9a"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe5"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1c"
+  },
+  "calificacion": 3,
+  "comentario": "Voluptatum voluptatum expedita totam voluptas error veritatis.\nIpsum quod minima cum. Voluptatum molestiae corrupti explicabo deleniti dignissimos aliquam.",
+  "fecha": {
+    "$date": "2024-01-07T22:22:35.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd9b"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6024"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2c"
+  },
+  "calificacion": 5,
+  "comentario": "Officia velit cumque a cumque eaque pariatur. Quis libero mollitia doloremque occaecati veritatis eveniet. At eius iusto reprehenderit eveniet deleniti eveniet minima.",
+  "fecha": {
+    "$date": "2023-11-01T16:29:45.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd9c"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6036"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b43"
+  },
+  "calificacion": 3,
+  "comentario": "Alias in nobis tempora quibusdam. Nostrum ipsum nemo.",
+  "fecha": {
+    "$date": "2023-07-23T22:43:22.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd9d"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6034"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b49"
+  },
+  "calificacion": 2,
+  "comentario": "Eius magni incidunt earum voluptas. Ea iure placeat.",
+  "fecha": {
+    "$date": "2023-11-08T02:48:59.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd9e"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f603a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b12"
+  },
+  "calificacion": 1,
+  "comentario": "Vero necessitatibus harum porro voluptatum sit occaecati. Voluptatibus alias cum cupiditate natus fuga.\nNobis officiis maiores aliquid voluptas. Esse aperiam repellendus recusandae cum doloremque.",
+  "fecha": {
+    "$date": "2024-01-18T23:29:52.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bd9f"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6013"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1c"
+  },
+  "calificacion": 1,
+  "comentario": "Adipisci ea architecto necessitatibus. Nam maxime commodi reprehenderit.",
+  "fecha": {
+    "$date": "2024-04-21T13:42:37.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bda0"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff2"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b02"
+  },
+  "calificacion": 4,
+  "comentario": "Maiores laudantium necessitatibus. Non temporibus excepturi.\nVoluptatum aut ut minus. Ipsum quisquam voluptatum quidem illum harum perspiciatis. Fugiat a maiores optio tenetur velit nulla quae.",
+  "fecha": {
+    "$date": "2023-10-28T19:56:52.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bda1"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6001"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3b"
+  },
+  "calificacion": 5,
+  "comentario": "Mollitia laudantium commodi earum numquam quas blanditiis modi. Facilis laborum cumque illum placeat quos quisquam. Dolor consequatur quia fuga amet. Rem animi aliquid quos ducimus.",
+  "fecha": {
+    "$date": "2023-06-19T10:24:29.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bda2"
+  },
+  "id_Hotel": {
+    "$oid": "6632d5abd019127b58614b03"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b21"
+  },
+  "calificacion": 3,
+  "comentario": "Quod tempore commodi beatae veritatis quam occaecati. Voluptate fuga dolore necessitatibus non hic omnis porro. Asperiores modi sed porro ea quos velit. Consectetur architecto earum ad.",
+  "fecha": {
+    "$date": "2023-09-11T12:54:20.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bda3"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f600f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b59"
+  },
+  "calificacion": 3,
+  "comentario": "Nesciunt mollitia voluptate nesciunt distinctio.\nVoluptatem praesentium sint quae fugiat necessitatibus. Consequatur amet voluptates eum fuga.",
+  "fecha": {
+    "$date": "2023-07-09T11:03:08.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bda4"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ff2"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4c"
+  },
+  "calificacion": 2,
+  "comentario": "Ducimus perferendis commodi exercitationem. Et porro corrupti sint porro doloremque. Incidunt illum quo qui laboriosam.",
+  "fecha": {
+    "$date": "2023-09-28T03:47:12.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bda5"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f603a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3c"
+  },
+  "calificacion": 4,
+  "comentario": "Laboriosam voluptatibus officiis ad esse natus. Dolorem asperiores neque culpa dolor commodi fuga. Molestiae totam aspernatur laudantium eius modi asperiores.",
+  "fecha": {
+    "$date": "2024-02-03T18:52:30.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bda6"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fec"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b06"
+  },
+  "calificacion": 2,
+  "comentario": "Molestias eaque blanditiis rerum porro. Aut amet eius vero quaerat.\nAutem asperiores inventore odio. Sunt incidunt blanditiis eius.",
+  "fecha": {
+    "$date": "2023-11-12T00:42:55.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bda7"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6029"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b00"
+  },
+  "calificacion": 3,
+  "comentario": "Nulla vitae nobis debitis temporibus. Facere quis atque inventore. Atque accusamus voluptates nulla.",
+  "fecha": {
+    "$date": "2024-02-04T06:11:34.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bda8"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f601c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4c"
+  },
+  "calificacion": 2,
+  "comentario": "Culpa eaque quis distinctio. Alias omnis et ducimus vero ipsum dicta eius. Quo occaecati omnis aperiam.",
+  "fecha": {
+    "$date": "2023-12-10T12:52:46.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bda9"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6033"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0f"
+  },
+  "calificacion": 1,
+  "comentario": "Totam reiciendis nostrum exercitationem aliquam asperiores ab.\nAccusantium vel qui libero similique laborum tenetur dolorum.",
+  "fecha": {
+    "$date": "2024-04-01T03:16:56.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bdaa"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6024"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b45"
+  },
+  "calificacion": 2,
+  "comentario": "Nihil dolorum eaque. Porro odit tenetur assumenda. Eligendi et odio facere eum minus aliquam.",
+  "fecha": {
+    "$date": "2023-07-16T21:39:36.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bdab"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6018"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4d"
+  },
+  "calificacion": 3,
+  "comentario": "Praesentium harum vero iusto. Similique beatae incidunt eveniet soluta deserunt voluptatum. Fugit velit porro tempore nisi voluptates nisi.",
+  "fecha": {
+    "$date": "2024-04-24T09:37:11.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bdac"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe3"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2c"
+  },
+  "calificacion": 2,
+  "comentario": "Nesciunt asperiores doloribus eligendi quia quas reprehenderit. Architecto distinctio voluptatum doloribus accusamus iure harum.\nVoluptatibus tempora recusandae quo.",
+  "fecha": {
+    "$date": "2023-07-12T07:29:45.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bdad"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6019"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b43"
+  },
+  "calificacion": 2,
+  "comentario": "Temporibus illum eligendi dicta voluptates doloremque optio. Eius iusto itaque labore neque ipsam. Dolore reprehenderit eum voluptates iure voluptatum.",
+  "fecha": {
+    "$date": "2023-07-14T12:04:22.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bdae"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6019"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1f"
+  },
+  "calificacion": 3,
+  "comentario": "Provident eligendi dolores perferendis eos quia quia illo. Quas alias maxime tempore ullam nihil voluptatibus. Laudantium illo ipsam suscipit amet consequuntur dolore.",
+  "fecha": {
+    "$date": "2023-07-18T08:30:11.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bdaf"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5ffa"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96afe"
+  },
+  "calificacion": 4,
+  "comentario": "Quisquam ea ratione. Nobis iusto deserunt quidem unde omnis at. Veritatis totam fuga ipsa maxime. Debitis autem explicabo.",
+  "fecha": {
+    "$date": "2024-03-10T20:58:22.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bdb0"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe9"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b24"
+  },
+  "calificacion": 5,
+  "comentario": "Autem ab maiores eaque dolor sapiente iure. Doloremque optio non accusantium accusamus. Vel repellendus quam blanditiis dolor accusamus atque.\nUllam unde cumque numquam laboriosam.",
+  "fecha": {
+    "$date": "2023-07-11T19:38:36.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bdb1"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6014"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3c"
+  },
+  "calificacion": 5,
+  "comentario": "Maiores inventore id saepe provident. Optio deleniti adipisci cupiditate facere dolor. Tempore totam quia cumque. Quia quisquam voluptatem deleniti pariatur ullam eaque.",
+  "fecha": {
+    "$date": "2023-07-14T00:23:13.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bdb2"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe5"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b51"
+  },
+  "calificacion": 5,
+  "comentario": "Asperiores placeat aliquam ducimus recusandae. Fugiat quas odit sunt sapiente dicta numquam. Dolore molestias velit neque.",
+  "fecha": {
+    "$date": "2023-09-30T22:31:04.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bdb3"
+  },
+  "id_Hotel": {
+    "$oid": "6632d5abd019127b58614b03"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b38"
+  },
+  "calificacion": 1,
+  "comentario": "Aperiam labore repudiandae reprehenderit placeat necessitatibus.",
+  "fecha": {
+    "$date": "2023-12-18T16:36:23.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d72af21073ce7176bdb4"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f6006"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4e"
+  },
+  "calificacion": 5,
+  "comentario": "Nihil voluptate unde dignissimos officiis a nobis.\nExercitationem fugit minus blanditiis ipsam dolorem qui modi.\nMinima voluptas possimus id.",
+  "fecha": {
+    "$date": "2024-02-18T06:11:47.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632e3dfd019127b58614b13"
+  },
+  "id_Hotel": {
+    "$oid": "6632d311620ef57cda3f5fe6"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b08"
+  },
+  "calificacion": 1,
+  "comentario": "Cumque culpa reiciendis enim atque modi. Sit quae atque maiores fugit.\\nSapiente at quis totam. Ipsa nostrum ratione dolorem beatae omnis dolorem.",
+  "fecha": {
+    "$date": "2024-02-01T02:20:17.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-02T00:52:47.486Z"
+  },
+  "created_at": {
+    "$date": "2024-05-02T00:52:47.486Z"
+  }
+}]

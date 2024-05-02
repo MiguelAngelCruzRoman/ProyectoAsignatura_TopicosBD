@@ -1,0 +1,2358 @@
+[{
+  "_id": {
+    "$oid": "6632cf7bd019127b5861496e"
+  },
+  "segundoNombre": "",
+  "primerNombre": "NuevoNombre",
+  "apellidoPaterno": "NuevoApellido",
+  "apellidoMaterno": "",
+  "correo": "nuevoemail@example.com",
+  "telefono": "1234567890",
+  "nacionalidad": "NuevaNacionalidad",
+  "documentoIdentidad": {
+    "_id": {
+      "$oid": "6632cf7bd019127b5861496f"
+    },
+    "tipoDocumento": "NuevoTipo",
+    "imagen": "NuevaImagenURL",
+    "fechaValidez": null
+  },
+  "tarjetaCredito": {
+    "_id": {
+      "$oid": "6632cf7bd019127b58614970"
+    },
+    "tipo": "NuevoTipoTarjeta",
+    "banco": "NuevoBanco",
+    "numero": "NuevoNumeroTarjeta\n"
+  },
+  "updated_at": {
+    "$date": "2024-05-01T23:38:03.692Z"
+  },
+  "created_at": {
+    "$date": "2024-05-01T23:25:47.185Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96af8"
+  },
+  "primerNombre": "Eva",
+  "segundoNombre": "Mateo",
+  "apellidoPaterno": "Abreu",
+  "apellidoMaterno": "Salcido",
+  "correo": "marquezraquel@example.net",
+  "teléfono": 1250603085,
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://placekitten.com/983/818",
+    "fechaValidez": "2022-07-18"
+  },
+  "nacionalidad": "Santo Tomé y Príncipe",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "Banco Santander",
+    "numero": "4829722243184660"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96af9"
+  },
+  "primerNombre": "Pilar",
+  "segundoNombre": null,
+  "apellidoPaterno": "Carrera",
+  "apellidoMaterno": "Riojas",
+  "correo": "vallediana@example.com",
+  "teléfono": {
+    "$numberLong": "4348309397"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://placekitten.com/147/74",
+    "fechaValidez": "2030-08-13"
+  },
+  "nacionalidad": "Saint Kitts y Nevis",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "5599130107594138"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96afa"
+  },
+  "primerNombre": "Gerardo",
+  "segundoNombre": null,
+  "apellidoPaterno": "de la Crúz",
+  "apellidoMaterno": "Rico",
+  "correo": "aragonisabel@example.net",
+  "teléfono": 1312837615,
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://dummyimage.com/359x449",
+    "fechaValidez": "2032-01-07"
+  },
+  "nacionalidad": "Luxemburgo",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "3571109062367703"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96afc"
+  },
+  "primerNombre": "Leonor",
+  "segundoNombre": "Rafaél",
+  "apellidoPaterno": "Villaseñor",
+  "apellidoMaterno": "del Río",
+  "correo": "wolivarez@example.net",
+  "teléfono": 1017981723,
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://placekitten.com/820/755",
+    "fechaValidez": "2025-07-31"
+  },
+  "nacionalidad": "Honduras",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "Banco Santander",
+    "numero": "341025126596670"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96afd"
+  },
+  "primerNombre": "Claudia",
+  "segundoNombre": "Margarita",
+  "apellidoPaterno": "Piña",
+  "apellidoMaterno": "Godínez",
+  "correo": "korta@example.com",
+  "teléfono": {
+    "$numberLong": "3557740341"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://placekitten.com/171/196",
+    "fechaValidez": "2031-08-17"
+  },
+  "nacionalidad": "India",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "HSBC",
+    "numero": "4145708433921109"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96afe"
+  },
+  "primerNombre": "Abelardo",
+  "segundoNombre": null,
+  "apellidoPaterno": "Montaño",
+  "apellidoMaterno": "Trujillo",
+  "correo": "qcarrera@example.net",
+  "teléfono": 1771559622,
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://placekitten.com/537/806",
+    "fechaValidez": "2030-03-31"
+  },
+  "nacionalidad": "Papua Nueva Guinea",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "HSBC",
+    "numero": "6564468613775257"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96aff"
+  },
+  "primerNombre": "Porfirio",
+  "segundoNombre": "Héctor",
+  "apellidoPaterno": "Palacios",
+  "apellidoMaterno": "Toro",
+  "correo": "federicomalave@example.net",
+  "teléfono": 1987876145,
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/378/54",
+    "fechaValidez": "2019-08-18"
+  },
+  "nacionalidad": "Túnez",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "HSBC",
+    "numero": "4679446921095754350"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b00"
+  },
+  "primerNombre": "Rodrigo",
+  "segundoNombre": null,
+  "apellidoPaterno": "Raya",
+  "apellidoMaterno": "Polanco",
+  "correo": "gonzalessilvia@example.com",
+  "teléfono": {
+    "$numberLong": "3137540716"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://placekitten.com/702/39",
+    "fechaValidez": "2017-09-15"
+  },
+  "nacionalidad": "Marruecos",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "3545124543691368"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b01"
+  },
+  "primerNombre": "Socorro",
+  "segundoNombre": "Modesto",
+  "apellidoPaterno": "Cortés",
+  "apellidoMaterno": "López",
+  "correo": "mmaldonado@example.org",
+  "teléfono": {
+    "$numberLong": "3873245213"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/473/19",
+    "fechaValidez": "2033-04-07"
+  },
+  "nacionalidad": "Bahrein",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "HSBC",
+    "numero": "4361236022382"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b02"
+  },
+  "primerNombre": "Gerardo",
+  "segundoNombre": "Leticia",
+  "apellidoPaterno": "Marroquín",
+  "apellidoMaterno": "Nieto",
+  "correo": "socorroverdugo@example.org",
+  "teléfono": 1588579517,
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://placekitten.com/555/109",
+    "fechaValidez": "2032-06-04"
+  },
+  "nacionalidad": "Islas Marshall",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "BBVA",
+    "numero": "4460354890008"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b03"
+  },
+  "primerNombre": "Patricia",
+  "segundoNombre": null,
+  "apellidoPaterno": "Galarza",
+  "apellidoMaterno": "Amador",
+  "correo": "blancoomar@example.org",
+  "teléfono": {
+    "$numberLong": "7292528317"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://dummyimage.com/692x414",
+    "fechaValidez": "2024-04-20"
+  },
+  "nacionalidad": "Bahrein",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "BBVA",
+    "numero": "5354008043515612"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b04"
+  },
+  "primerNombre": "Cecilia",
+  "segundoNombre": null,
+  "apellidoPaterno": "de la Garza",
+  "apellidoMaterno": "Mateo",
+  "correo": "saavedrabarbara@example.net",
+  "teléfono": {
+    "$numberLong": "9900698240"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://placekitten.com/685/308",
+    "fechaValidez": "2015-06-19"
+  },
+  "nacionalidad": "Yemen",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "BBVA",
+    "numero": "180042669883948"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b05"
+  },
+  "primerNombre": "Gabino",
+  "segundoNombre": "Concepción",
+  "apellidoPaterno": "Urbina",
+  "apellidoMaterno": "Badillo",
+  "correo": "arceliamares@example.com",
+  "teléfono": {
+    "$numberLong": "8296606854"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://picsum.photos/178/39",
+    "fechaValidez": "2015-02-26"
+  },
+  "nacionalidad": "Nueva Zelandia",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "BBVA",
+    "numero": "4304823840481600"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b06"
+  },
+  "primerNombre": "Dalia",
+  "segundoNombre": null,
+  "apellidoPaterno": "Bonilla",
+  "apellidoMaterno": "Burgos",
+  "correo": "guillerminatello@example.com",
+  "teléfono": {
+    "$numberLong": "6223946031"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://picsum.photos/613/257",
+    "fechaValidez": "2032-03-14"
+  },
+  "nacionalidad": "Sudán del Sur",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "BBVA",
+    "numero": "4756661222137819"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b07"
+  },
+  "primerNombre": "Yuridia",
+  "segundoNombre": "Sandra",
+  "apellidoPaterno": "León",
+  "apellidoMaterno": "Solano",
+  "correo": "palominoeloy@example.net",
+  "teléfono": {
+    "$numberLong": "6621963083"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://dummyimage.com/979x892",
+    "fechaValidez": "2032-12-18"
+  },
+  "nacionalidad": "Francia",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "503864761799"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b08"
+  },
+  "primerNombre": "Victoria",
+  "segundoNombre": null,
+  "apellidoPaterno": "Muñoz",
+  "apellidoMaterno": "Leiva",
+  "correo": "natividadosorio@example.org",
+  "teléfono": 586514672,
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://dummyimage.com/571x557",
+    "fechaValidez": "2032-10-31"
+  },
+  "nacionalidad": "Granada",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "BBVA",
+    "numero": "3539807135742379"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b09"
+  },
+  "primerNombre": "Rubén",
+  "segundoNombre": "Estela",
+  "apellidoPaterno": "Velázquez",
+  "apellidoMaterno": "Nava",
+  "correo": "hmenchaca@example.net",
+  "teléfono": 1319905209,
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/691/960",
+    "fechaValidez": "2033-07-10"
+  },
+  "nacionalidad": "Kuwait",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "BBVA",
+    "numero": "3552726230367035"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b0a"
+  },
+  "primerNombre": "Benito",
+  "segundoNombre": "Emilio",
+  "apellidoPaterno": "Cardona",
+  "apellidoMaterno": "Pedraza",
+  "correo": "veronicalozada@example.net",
+  "teléfono": {
+    "$numberLong": "4384303960"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://dummyimage.com/155x413",
+    "fechaValidez": "2021-09-18"
+  },
+  "nacionalidad": "China",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "Banco Santander",
+    "numero": "676389899862"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b0b"
+  },
+  "primerNombre": "Elvira",
+  "segundoNombre": "Wendolin",
+  "apellidoPaterno": "Rendón",
+  "apellidoMaterno": "Berríos",
+  "correo": "porfiriopena@example.com",
+  "teléfono": {
+    "$numberLong": "7692818404"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://picsum.photos/540/329",
+    "fechaValidez": "2032-07-29"
+  },
+  "nacionalidad": "Malta",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "HSBC",
+    "numero": "4871188664247"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b0c"
+  },
+  "primerNombre": "Jaqueline",
+  "segundoNombre": "Abel",
+  "apellidoPaterno": "Sáenz",
+  "apellidoMaterno": "Corona",
+  "correo": "clara85@example.net",
+  "teléfono": 942374521,
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://placekitten.com/520/1013",
+    "fechaValidez": "2021-10-21"
+  },
+  "nacionalidad": "Saint Kitts y Nevis",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "HSBC",
+    "numero": "4845051121824"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b0d"
+  },
+  "primerNombre": "Abigail",
+  "segundoNombre": "Julia",
+  "apellidoPaterno": "Irizarry",
+  "apellidoMaterno": "Mena",
+  "correo": "aldonzagollum@example.net",
+  "teléfono": 1427853873,
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://placekitten.com/741/611",
+    "fechaValidez": "2019-10-12"
+  },
+  "nacionalidad": "Egipto",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "BBVA",
+    "numero": "4030536000775691"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b0e"
+  },
+  "primerNombre": "Miguel",
+  "segundoNombre": "Itzel",
+  "apellidoPaterno": "Oquendo",
+  "apellidoMaterno": "Casárez",
+  "correo": "umiranda@example.net",
+  "teléfono": {
+    "$numberLong": "7059678599"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://placekitten.com/437/623",
+    "fechaValidez": "2018-05-31"
+  },
+  "nacionalidad": "Granada",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "Banco Santander",
+    "numero": "213108863238428"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b0f"
+  },
+  "primerNombre": "Ilse",
+  "segundoNombre": "Alicia",
+  "apellidoPaterno": "Saiz",
+  "apellidoMaterno": "Alva",
+  "correo": "silvano17@example.net",
+  "teléfono": {
+    "$numberLong": "2615216855"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://placekitten.com/136/704",
+    "fechaValidez": "2022-08-20"
+  },
+  "nacionalidad": "Honduras",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "4366798555680601"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b10"
+  },
+  "primerNombre": "Rocío",
+  "segundoNombre": "Serafín",
+  "apellidoPaterno": "Morales",
+  "apellidoMaterno": "Bravo",
+  "correo": "mauricio74@example.com",
+  "teléfono": 1512904346,
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/191/64",
+    "fechaValidez": "2030-03-16"
+  },
+  "nacionalidad": "Benin",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "BBVA",
+    "numero": "2395968727218262"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b11"
+  },
+  "primerNombre": "Sara",
+  "segundoNombre": null,
+  "apellidoPaterno": "Nieves",
+  "apellidoMaterno": "Velasco",
+  "correo": "uaguilera@example.org",
+  "teléfono": {
+    "$numberLong": "2164841165"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://placekitten.com/158/192",
+    "fechaValidez": "2030-01-02"
+  },
+  "nacionalidad": "Papua Nueva Guinea",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "Banco Santander",
+    "numero": "342944445143239"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b12"
+  },
+  "primerNombre": "Silvano",
+  "segundoNombre": null,
+  "apellidoPaterno": "Castillo",
+  "apellidoMaterno": "Marrero",
+  "correo": "ymayorga@example.org",
+  "teléfono": {
+    "$numberLong": "3144031628"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://dummyimage.com/253x351",
+    "fechaValidez": "2023-09-02"
+  },
+  "nacionalidad": "Uzbekistán",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "HSBC",
+    "numero": "2289313450599555"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b13"
+  },
+  "primerNombre": "Eva",
+  "segundoNombre": null,
+  "apellidoPaterno": "Nieto",
+  "apellidoMaterno": "Toledo",
+  "correo": "lorenaserna@example.net",
+  "teléfono": 781262220,
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/478/767",
+    "fechaValidez": "2020-03-11"
+  },
+  "nacionalidad": "República Centroafricana",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "2229294175097013"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b14"
+  },
+  "primerNombre": "Pamela",
+  "segundoNombre": "Carla",
+  "apellidoPaterno": "Alonso",
+  "apellidoMaterno": "Villanueva",
+  "correo": "carrillocristal@example.com",
+  "teléfono": {
+    "$numberLong": "7562882424"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://placekitten.com/471/556",
+    "fechaValidez": "2029-06-11"
+  },
+  "nacionalidad": "Australia",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "Banco Santander",
+    "numero": "4570673259761728779"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b15"
+  },
+  "primerNombre": "Olivia",
+  "segundoNombre": "Irene",
+  "apellidoPaterno": "Salcedo",
+  "apellidoMaterno": "Madrid",
+  "correo": "carbajalpatricio@example.com",
+  "teléfono": 1827699721,
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://picsum.photos/728/197",
+    "fechaValidez": "2025-11-25"
+  },
+  "nacionalidad": "Kiribati",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "Banco Santander",
+    "numero": "374583283901760"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b16"
+  },
+  "primerNombre": "Jonás",
+  "segundoNombre": null,
+  "apellidoPaterno": "Arroyo",
+  "apellidoMaterno": "Quiroz",
+  "correo": "victoriaaparicio@example.net",
+  "teléfono": 1804651481,
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://placekitten.com/827/405",
+    "fechaValidez": "2032-06-08"
+  },
+  "nacionalidad": "Líbano",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "BBVA",
+    "numero": "370998098734962"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b17"
+  },
+  "primerNombre": "Beatriz",
+  "segundoNombre": "Natividad",
+  "apellidoPaterno": "Guevara",
+  "apellidoMaterno": "Varela",
+  "correo": "sandovalfelipe@example.com",
+  "teléfono": {
+    "$numberLong": "4299550883"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://placekitten.com/938/906",
+    "fechaValidez": "2023-03-24"
+  },
+  "nacionalidad": "Marruecos",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "BBVA",
+    "numero": "4128014029063211"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b18"
+  },
+  "primerNombre": "Verónica",
+  "segundoNombre": null,
+  "apellidoPaterno": "Guillen",
+  "apellidoMaterno": "Lemus",
+  "correo": "dulce98@example.org",
+  "teléfono": {
+    "$numberLong": "9723618921"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/237/434",
+    "fechaValidez": "2018-09-17"
+  },
+  "nacionalidad": "Mauritania",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "HSBC",
+    "numero": "4170486022046681"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b19"
+  },
+  "primerNombre": "Cristal",
+  "segundoNombre": null,
+  "apellidoPaterno": "Gamez",
+  "apellidoMaterno": "Fuentes",
+  "correo": "arturo20@example.org",
+  "teléfono": {
+    "$numberLong": "5913661132"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://dummyimage.com/382x210",
+    "fechaValidez": "2025-05-30"
+  },
+  "nacionalidad": "Francia",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "30449301644954"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b1a"
+  },
+  "primerNombre": "Agustín",
+  "segundoNombre": "Débora",
+  "apellidoPaterno": "Mota",
+  "apellidoMaterno": "Alva",
+  "correo": "erobles@example.net",
+  "teléfono": {
+    "$numberLong": "8674931933"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/447/545",
+    "fechaValidez": "2026-07-20"
+  },
+  "nacionalidad": "Sri Lanka",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "Banco Santander",
+    "numero": "4776715945215108"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b1b"
+  },
+  "primerNombre": "Mateo",
+  "segundoNombre": null,
+  "apellidoPaterno": "Espinal",
+  "apellidoMaterno": "de la Fuente",
+  "correo": "kvega@example.net",
+  "teléfono": {
+    "$numberLong": "4333997890"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://placekitten.com/27/606",
+    "fechaValidez": "2016-08-28"
+  },
+  "nacionalidad": "Argelia",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "BBVA",
+    "numero": "3595905098842995"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b1c"
+  },
+  "primerNombre": "Natividad",
+  "segundoNombre": null,
+  "apellidoPaterno": "Escalante",
+  "apellidoMaterno": "Sanches",
+  "correo": "lovatoestefania@example.net",
+  "teléfono": 973959340,
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://placekitten.com/91/665",
+    "fechaValidez": "2028-09-16"
+  },
+  "nacionalidad": "Letonia",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "BBVA",
+    "numero": "3507373229939031"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b1d"
+  },
+  "primerNombre": "Manuel",
+  "segundoNombre": "Blanca",
+  "apellidoPaterno": "Negrete",
+  "apellidoMaterno": "Pizarro",
+  "correo": "jeronimo12@example.net",
+  "teléfono": {
+    "$numberLong": "9452323968"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://picsum.photos/270/907",
+    "fechaValidez": "2027-06-17"
+  },
+  "nacionalidad": "Bélgica",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "BBVA",
+    "numero": "3515302211913589"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b1e"
+  },
+  "primerNombre": "Carla",
+  "segundoNombre": null,
+  "apellidoPaterno": "Cortés",
+  "apellidoMaterno": "Sisneros",
+  "correo": "marioarguello@example.net",
+  "teléfono": {
+    "$numberLong": "9605593939"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://placekitten.com/929/314",
+    "fechaValidez": "2019-03-31"
+  },
+  "nacionalidad": "Indonesia",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "Banco Santander",
+    "numero": "6528986323640342"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b1f"
+  },
+  "primerNombre": "Gregorio",
+  "segundoNombre": "Rufino",
+  "apellidoPaterno": "Sauceda",
+  "apellidoMaterno": "Díaz",
+  "correo": "lmadrid@example.org",
+  "teléfono": {
+    "$numberLong": "4814949481"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://picsum.photos/749/228",
+    "fechaValidez": "2029-04-21"
+  },
+  "nacionalidad": "República de Moldova",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "HSBC",
+    "numero": "4406457883842316"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b20"
+  },
+  "primerNombre": "Pedro",
+  "segundoNombre": "Camila",
+  "apellidoPaterno": "Lebrón",
+  "apellidoMaterno": "de la Torre",
+  "correo": "pizarroluisa@example.com",
+  "teléfono": {
+    "$numberLong": "2816471978"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://dummyimage.com/232x388",
+    "fechaValidez": "2017-08-14"
+  },
+  "nacionalidad": "Burkina Faso",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "HSBC",
+    "numero": "3526274522809169"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b21"
+  },
+  "primerNombre": "Jorge",
+  "segundoNombre": null,
+  "apellidoPaterno": "Solorzano",
+  "apellidoMaterno": "Leiva",
+  "correo": "luciamadrid@example.org",
+  "teléfono": 2075528113,
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://picsum.photos/808/278",
+    "fechaValidez": "2027-03-26"
+  },
+  "nacionalidad": "Bahamas",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "HSBC",
+    "numero": "30138120751138"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b22"
+  },
+  "primerNombre": "Ángela",
+  "segundoNombre": null,
+  "apellidoPaterno": "Rivas",
+  "apellidoMaterno": "Huerta",
+  "correo": "patriciotoledo@example.net",
+  "teléfono": 253507409,
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/222/564",
+    "fechaValidez": "2016-05-06"
+  },
+  "nacionalidad": "República Democrática Popular Lao",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "371308616382022"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b23"
+  },
+  "primerNombre": "Karina",
+  "segundoNombre": null,
+  "apellidoPaterno": "Ayala",
+  "apellidoMaterno": "Ortiz",
+  "correo": "jonas30@example.com",
+  "teléfono": {
+    "$numberLong": "3380433817"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://dummyimage.com/395x974",
+    "fechaValidez": "2017-04-21"
+  },
+  "nacionalidad": "Italia",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "BBVA",
+    "numero": "347555108027504"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b24"
+  },
+  "primerNombre": "Santiago",
+  "segundoNombre": null,
+  "apellidoPaterno": "Meraz",
+  "apellidoMaterno": "Mata",
+  "correo": "irene96@example.org",
+  "teléfono": {
+    "$numberLong": "6712435821"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://placekitten.com/599/219",
+    "fechaValidez": "2020-12-20"
+  },
+  "nacionalidad": "Iraq",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "5328742847607737"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b25"
+  },
+  "primerNombre": "Alejandra",
+  "segundoNombre": "Conchita",
+  "apellidoPaterno": "Alejandro",
+  "apellidoMaterno": "Mascareñas",
+  "correo": "ochapa@example.com",
+  "teléfono": 1058463001,
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://placekitten.com/67/756",
+    "fechaValidez": "2019-10-30"
+  },
+  "nacionalidad": "Angola",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "BBVA",
+    "numero": "4147539734507836"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b26"
+  },
+  "primerNombre": "Homero",
+  "segundoNombre": "Raúl",
+  "apellidoPaterno": "Ferrer",
+  "apellidoMaterno": "Ordóñez",
+  "correo": "baguayo@example.com",
+  "teléfono": {
+    "$numberLong": "2884077464"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://picsum.photos/1003/151",
+    "fechaValidez": "2032-05-07"
+  },
+  "nacionalidad": "Islandia",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "BBVA",
+    "numero": "6587774194253710"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b27"
+  },
+  "primerNombre": "Anel",
+  "segundoNombre": null,
+  "apellidoPaterno": "Olvera",
+  "apellidoMaterno": "Magaña",
+  "correo": "hgil@example.net",
+  "teléfono": 500634042,
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://dummyimage.com/720x223",
+    "fechaValidez": "2022-12-21"
+  },
+  "nacionalidad": "Belice",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "Banco Santander",
+    "numero": "6558675886979626"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b28"
+  },
+  "primerNombre": "Leonor",
+  "segundoNombre": "Soledad",
+  "apellidoPaterno": "Barraza",
+  "apellidoMaterno": "Escobar",
+  "correo": "benjaminrojo@example.org",
+  "teléfono": {
+    "$numberLong": "9708155538"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://picsum.photos/24/88",
+    "fechaValidez": "2031-04-14"
+  },
+  "nacionalidad": "Bahrein",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "HSBC",
+    "numero": "2254841996896789"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b29"
+  },
+  "primerNombre": "Raúl",
+  "segundoNombre": "Reynaldo",
+  "apellidoPaterno": "Téllez",
+  "apellidoMaterno": "Gastélum",
+  "correo": "rfajardo@example.org",
+  "teléfono": {
+    "$numberLong": "3003898964"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/536/985",
+    "fechaValidez": "2027-04-06"
+  },
+  "nacionalidad": "Suriname",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "BBVA",
+    "numero": "4645856236375"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b2a"
+  },
+  "primerNombre": "María Teresa",
+  "segundoNombre": "Estela",
+  "apellidoPaterno": "Ceballos",
+  "apellidoMaterno": "Barrios",
+  "correo": "osoriosara@example.com",
+  "teléfono": {
+    "$numberLong": "8030964019"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://dummyimage.com/78x497",
+    "fechaValidez": "2019-06-13"
+  },
+  "nacionalidad": "República Dominicana",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "BBVA",
+    "numero": "4410206284476859"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b2b"
+  },
+  "primerNombre": "Patricio",
+  "segundoNombre": "Amelia",
+  "apellidoPaterno": "de la O",
+  "apellidoMaterno": "Pacheco",
+  "correo": "emiliobravo@example.org",
+  "teléfono": {
+    "$numberLong": "5667893932"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://placekitten.com/168/499",
+    "fechaValidez": "2027-12-01"
+  },
+  "nacionalidad": "Mónaco",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "BBVA",
+    "numero": "4077316431819059668"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b2c"
+  },
+  "primerNombre": "Dolores",
+  "segundoNombre": "Elvira",
+  "apellidoPaterno": "Sauceda",
+  "apellidoMaterno": "Valladares",
+  "correo": "silvano77@example.com",
+  "teléfono": {
+    "$numberLong": "4475610136"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://dummyimage.com/846x300",
+    "fechaValidez": "2024-04-27"
+  },
+  "nacionalidad": "Serbia",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "4768990940252088205"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b2d"
+  },
+  "primerNombre": "José Luis",
+  "segundoNombre": null,
+  "apellidoPaterno": "Melgar",
+  "apellidoMaterno": "Montenegro",
+  "correo": "lmoya@example.net",
+  "teléfono": 1313969388,
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/273/407",
+    "fechaValidez": "2033-12-30"
+  },
+  "nacionalidad": "España",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "Banco Santander",
+    "numero": "4843348294010463"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b2e"
+  },
+  "primerNombre": "Minerva",
+  "segundoNombre": null,
+  "apellidoPaterno": "Carvajal",
+  "apellidoMaterno": "Lucio",
+  "correo": "bruno04@example.org",
+  "teléfono": {
+    "$numberLong": "8709218500"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/243/930",
+    "fechaValidez": "2019-10-18"
+  },
+  "nacionalidad": "Islandia",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "BBVA",
+    "numero": "501811238515"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b2f"
+  },
+  "primerNombre": "Manuel",
+  "segundoNombre": null,
+  "apellidoPaterno": "López",
+  "apellidoMaterno": "Corona",
+  "correo": "silvia84@example.com",
+  "teléfono": {
+    "$numberLong": "6834812161"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/427/874",
+    "fechaValidez": "2018-09-10"
+  },
+  "nacionalidad": "Costa Rica",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "HSBC",
+    "numero": "4095638750304110"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b30"
+  },
+  "primerNombre": "Mercedes",
+  "segundoNombre": null,
+  "apellidoPaterno": "Dueñas",
+  "apellidoMaterno": "Báez",
+  "correo": "blancoesperanza@example.net",
+  "teléfono": {
+    "$numberLong": "2420562577"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://dummyimage.com/506x951",
+    "fechaValidez": "2014-08-12"
+  },
+  "nacionalidad": "Burkina Faso",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "HSBC",
+    "numero": "180009914412724"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b31"
+  },
+  "primerNombre": "Ángela",
+  "segundoNombre": null,
+  "apellidoPaterno": "Aragón",
+  "apellidoMaterno": "Peralta",
+  "correo": "concepcionvelasco@example.net",
+  "teléfono": 580055630,
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://dummyimage.com/603x935",
+    "fechaValidez": "2021-07-16"
+  },
+  "nacionalidad": "Gambia",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "HSBC",
+    "numero": "213141020579624"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b32"
+  },
+  "primerNombre": "Carolina",
+  "segundoNombre": null,
+  "apellidoPaterno": "Ferrer",
+  "apellidoMaterno": "Quiñónez",
+  "correo": "teresa04@example.org",
+  "teléfono": {
+    "$numberLong": "9811084125"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/182/1008",
+    "fechaValidez": "2020-09-20"
+  },
+  "nacionalidad": "Kenya",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "HSBC",
+    "numero": "675928350957"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b33"
+  },
+  "primerNombre": "Antonio",
+  "segundoNombre": null,
+  "apellidoPaterno": "de la O",
+  "apellidoMaterno": "Guzmán",
+  "correo": "villagomezfrancisco-javier@example.net",
+  "teléfono": 2085479759,
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://picsum.photos/78/955",
+    "fechaValidez": "2026-12-24"
+  },
+  "nacionalidad": "Venezuela",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "4712333074570231"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b34"
+  },
+  "primerNombre": "Trinidad",
+  "segundoNombre": null,
+  "apellidoPaterno": "Núñez",
+  "apellidoMaterno": "Acevedo",
+  "correo": "munozelisa@example.net",
+  "teléfono": {
+    "$numberLong": "6209605577"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/454/538",
+    "fechaValidez": "2019-07-26"
+  },
+  "nacionalidad": "Saint Kitts y Nevis",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "BBVA",
+    "numero": "6011678987262430"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b35"
+  },
+  "primerNombre": "Socorro",
+  "segundoNombre": "Ariadna",
+  "apellidoPaterno": "Pulido",
+  "apellidoMaterno": "Enríquez",
+  "correo": "arteagarosario@example.net",
+  "teléfono": {
+    "$numberLong": "3433695311"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://picsum.photos/910/876",
+    "fechaValidez": "2022-11-08"
+  },
+  "nacionalidad": "Gambia",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "HSBC",
+    "numero": "213138479758782"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b36"
+  },
+  "primerNombre": "Cecilia",
+  "segundoNombre": null,
+  "apellidoPaterno": "Cintrón",
+  "apellidoMaterno": "Quiñones",
+  "correo": "teresa73@example.com",
+  "teléfono": {
+    "$numberLong": "9580620004"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://dummyimage.com/367x223",
+    "fechaValidez": "2020-01-12"
+  },
+  "nacionalidad": "Iraq",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "BBVA",
+    "numero": "2288496770327525"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b37"
+  },
+  "primerNombre": "Jaqueline",
+  "segundoNombre": "Amalia",
+  "apellidoPaterno": "Lara",
+  "apellidoMaterno": "Cantú",
+  "correo": "qsantillan@example.com",
+  "teléfono": {
+    "$numberLong": "8758520034"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://placekitten.com/978/526",
+    "fechaValidez": "2026-08-31"
+  },
+  "nacionalidad": "Malta",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "3559557984460640"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b38"
+  },
+  "primerNombre": "Silvia",
+  "segundoNombre": "Araceli",
+  "apellidoPaterno": "Alcántar",
+  "apellidoMaterno": "Laureano",
+  "correo": "apontenoemi@example.org",
+  "teléfono": {
+    "$numberLong": "3887727608"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://placekitten.com/348/872",
+    "fechaValidez": "2030-11-01"
+  },
+  "nacionalidad": "Singapur",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "Banco Santander",
+    "numero": "2706303962963030"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b39"
+  },
+  "primerNombre": "Mauro",
+  "segundoNombre": null,
+  "apellidoPaterno": "Vanegas",
+  "apellidoMaterno": "Mota",
+  "correo": "kmercado@example.org",
+  "teléfono": {
+    "$numberLong": "7894853926"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://placekitten.com/819/18",
+    "fechaValidez": "2016-04-02"
+  },
+  "nacionalidad": "Bolivia",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "HSBC",
+    "numero": "4408826398767861"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b3a"
+  },
+  "primerNombre": "Sonia",
+  "segundoNombre": null,
+  "apellidoPaterno": "Galindo",
+  "apellidoMaterno": "Hidalgo",
+  "correo": "ivonne22@example.com",
+  "teléfono": {
+    "$numberLong": "4762749358"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://dummyimage.com/911x61",
+    "fechaValidez": "2028-12-18"
+  },
+  "nacionalidad": "Letonia",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "BBVA",
+    "numero": "3501714267587982"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b3b"
+  },
+  "primerNombre": "Eugenio",
+  "segundoNombre": null,
+  "apellidoPaterno": "Gamboa",
+  "apellidoMaterno": "Reyna",
+  "correo": "berrioselisa@example.org",
+  "teléfono": {
+    "$numberLong": "2676909516"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://picsum.photos/338/647",
+    "fechaValidez": "2029-05-13"
+  },
+  "nacionalidad": "Chad",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "HSBC",
+    "numero": "2301876587973608"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b3c"
+  },
+  "primerNombre": "Indira",
+  "segundoNombre": "Claudio",
+  "apellidoPaterno": "Barraza",
+  "apellidoMaterno": "Muro",
+  "correo": "manuel46@example.net",
+  "teléfono": {
+    "$numberLong": "9978942071"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://picsum.photos/996/523",
+    "fechaValidez": "2020-03-14"
+  },
+  "nacionalidad": "Uzbekistán",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "Banco Santander",
+    "numero": "4786093418306111"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b3d"
+  },
+  "primerNombre": "Araceli",
+  "segundoNombre": "Sergio",
+  "apellidoPaterno": "Mora",
+  "apellidoMaterno": "Anaya",
+  "correo": "perearamon@example.org",
+  "teléfono": {
+    "$numberLong": "9189696032"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://picsum.photos/691/972",
+    "fechaValidez": "2024-12-31"
+  },
+  "nacionalidad": "Brunei Darussalam",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "2287074089580471"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b3e"
+  },
+  "primerNombre": "Gustavo",
+  "segundoNombre": null,
+  "apellidoPaterno": "Cordero",
+  "apellidoMaterno": "Carrera",
+  "correo": "emilianogamboa@example.net",
+  "teléfono": {
+    "$numberLong": "7964401570"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://placekitten.com/607/756",
+    "fechaValidez": "2014-10-02"
+  },
+  "nacionalidad": "Turkmenistán",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "HSBC",
+    "numero": "4837460171300"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b3f"
+  },
+  "primerNombre": "Esperanza",
+  "segundoNombre": "Cecilia",
+  "apellidoPaterno": "Esquibel",
+  "apellidoMaterno": "Alva",
+  "correo": "celiamagana@example.com",
+  "teléfono": {
+    "$numberLong": "2892692191"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://dummyimage.com/707x939",
+    "fechaValidez": "2018-12-26"
+  },
+  "nacionalidad": "Kuwait",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "213162526202909"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b40"
+  },
+  "primerNombre": "Benito",
+  "segundoNombre": "Gilberto",
+  "apellidoPaterno": "Porras",
+  "apellidoMaterno": "Roybal",
+  "correo": "fjaime@example.org",
+  "teléfono": {
+    "$numberLong": "6169524618"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/522/91",
+    "fechaValidez": "2033-10-20"
+  },
+  "nacionalidad": "República Árabe Siria",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "HSBC",
+    "numero": "4426450538573536635"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b41"
+  },
+  "primerNombre": "Bruno",
+  "segundoNombre": null,
+  "apellidoPaterno": "Barraza",
+  "apellidoMaterno": "Nazario",
+  "correo": "cmiranda@example.com",
+  "teléfono": {
+    "$numberLong": "4671957638"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://placekitten.com/384/957",
+    "fechaValidez": "2017-05-15"
+  },
+  "nacionalidad": "Tayikistán",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "BBVA",
+    "numero": "4188725686504"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b42"
+  },
+  "primerNombre": "Silvia",
+  "segundoNombre": "Leonor",
+  "apellidoPaterno": "Santillán",
+  "apellidoMaterno": "Urías",
+  "correo": "rufinobetancourt@example.org",
+  "teléfono": {
+    "$numberLong": "4601220986"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://placekitten.com/364/152",
+    "fechaValidez": "2033-04-12"
+  },
+  "nacionalidad": "Gambia",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "HSBC",
+    "numero": "3545933741305435"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b43"
+  },
+  "primerNombre": "Sergio",
+  "segundoNombre": null,
+  "apellidoPaterno": "Flórez",
+  "apellidoMaterno": "Orellana",
+  "correo": "deboraolivo@example.com",
+  "teléfono": 2115149312,
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://dummyimage.com/358x85",
+    "fechaValidez": "2019-05-08"
+  },
+  "nacionalidad": "Liberia",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "BBVA",
+    "numero": "4566108427803235151"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b44"
+  },
+  "primerNombre": "Vicente",
+  "segundoNombre": null,
+  "apellidoPaterno": "Crespo",
+  "apellidoMaterno": "Díaz",
+  "correo": "monica25@example.org",
+  "teléfono": {
+    "$numberLong": "9342782208"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://dummyimage.com/194x665",
+    "fechaValidez": "2028-01-13"
+  },
+  "nacionalidad": "Kirguistán",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "Banco Santander",
+    "numero": "3594097421484629"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b45"
+  },
+  "primerNombre": "Ruby",
+  "segundoNombre": null,
+  "apellidoPaterno": "Cano",
+  "apellidoMaterno": "Vega",
+  "correo": "anelcarrasco@example.org",
+  "teléfono": 1300790069,
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://dummyimage.com/911x847",
+    "fechaValidez": "2026-09-24"
+  },
+  "nacionalidad": "Namibia",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "3585291050612896"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b46"
+  },
+  "primerNombre": "Lourdes",
+  "segundoNombre": null,
+  "apellidoPaterno": "Malave",
+  "apellidoMaterno": "de la Torre",
+  "correo": "leonoramaya@example.com",
+  "teléfono": {
+    "$numberLong": "4326424189"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/680/273",
+    "fechaValidez": "2017-05-04"
+  },
+  "nacionalidad": "Gabón",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "HSBC",
+    "numero": "4776115525415063"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b47"
+  },
+  "primerNombre": "Marisol",
+  "segundoNombre": null,
+  "apellidoPaterno": "Quintana",
+  "apellidoMaterno": "Batista",
+  "correo": "arturogaytan@example.org",
+  "teléfono": {
+    "$numberLong": "7839409231"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://placekitten.com/2/78",
+    "fechaValidez": "2033-04-26"
+  },
+  "nacionalidad": "Papua Nueva Guinea",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "HSBC",
+    "numero": "4033266516068665"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b48"
+  },
+  "primerNombre": "María del Carmen",
+  "segundoNombre": "Julio César",
+  "apellidoPaterno": "Briones",
+  "apellidoMaterno": "de Jesús",
+  "correo": "montanoaurelio@example.com",
+  "teléfono": {
+    "$numberLong": "5581486653"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://placekitten.com/996/756",
+    "fechaValidez": "2018-12-31"
+  },
+  "nacionalidad": "Países Bajos",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "HSBC",
+    "numero": "3548631194117995"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b49"
+  },
+  "primerNombre": "Antonio",
+  "segundoNombre": null,
+  "apellidoPaterno": "Durán",
+  "apellidoMaterno": "Quiñones",
+  "correo": "esther08@example.org",
+  "teléfono": {
+    "$numberLong": "9345943573"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://placekitten.com/92/297",
+    "fechaValidez": "2019-10-28"
+  },
+  "nacionalidad": "Costa Rica",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "348773497938178"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b4a"
+  },
+  "primerNombre": "Manuel",
+  "segundoNombre": null,
+  "apellidoPaterno": "Lomeli",
+  "apellidoMaterno": "Esparza",
+  "correo": "padronamalia@example.net",
+  "teléfono": {
+    "$numberLong": "2968774606"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/68/859",
+    "fechaValidez": "2022-11-30"
+  },
+  "nacionalidad": "Uzbekistán",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "Banco Santander",
+    "numero": "4102069400216019489"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b4b"
+  },
+  "primerNombre": "Humberto",
+  "segundoNombre": null,
+  "apellidoPaterno": "Negrete",
+  "apellidoMaterno": "Arias",
+  "correo": "ydelgadillo@example.org",
+  "teléfono": {
+    "$numberLong": "3888798012"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://dummyimage.com/35x776",
+    "fechaValidez": "2022-06-18"
+  },
+  "nacionalidad": "Brunei Darussalam",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "BBVA",
+    "numero": "4151441365131221"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b4c"
+  },
+  "primerNombre": "Wilfrido",
+  "segundoNombre": null,
+  "apellidoPaterno": "Bahena",
+  "apellidoMaterno": "Henríquez",
+  "correo": "regaladoelvira@example.net",
+  "teléfono": 1935435323,
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://placekitten.com/887/326",
+    "fechaValidez": "2026-08-08"
+  },
+  "nacionalidad": "Luxemburgo",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "BBVA",
+    "numero": "4367915984059947"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b4d"
+  },
+  "primerNombre": "Pablo",
+  "segundoNombre": null,
+  "apellidoPaterno": "Griego",
+  "apellidoMaterno": "Carrera",
+  "correo": "sergiorosario@example.net",
+  "teléfono": {
+    "$numberLong": "7974631184"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://picsum.photos/66/648",
+    "fechaValidez": "2029-10-30"
+  },
+  "nacionalidad": "República Checa",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "Banco Santander",
+    "numero": "4803013426688341"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b4e"
+  },
+  "primerNombre": "Víctor",
+  "segundoNombre": null,
+  "apellidoPaterno": "Valdés",
+  "apellidoMaterno": "Hidalgo",
+  "correo": "balderasuriel@example.org",
+  "teléfono": {
+    "$numberLong": "6703206282"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://dummyimage.com/765x347",
+    "fechaValidez": "2019-06-07"
+  },
+  "nacionalidad": "Iraq",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "BBVA",
+    "numero": "3525321310099205"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b4f"
+  },
+  "primerNombre": "Ernesto",
+  "segundoNombre": "Francisco",
+  "apellidoPaterno": "Maldonado",
+  "apellidoMaterno": "Vargas",
+  "correo": "lozadahugo@example.org",
+  "teléfono": {
+    "$numberLong": "4047228243"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://picsum.photos/259/796",
+    "fechaValidez": "2028-03-27"
+  },
+  "nacionalidad": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "BBVA",
+    "numero": "180085883420237"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b50"
+  },
+  "primerNombre": "Magdalena",
+  "segundoNombre": "Juan Carlos",
+  "apellidoPaterno": "Núñez",
+  "apellidoMaterno": "Carrero",
+  "correo": "irma50@example.com",
+  "teléfono": {
+    "$numberLong": "7130191166"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://dummyimage.com/305x404",
+    "fechaValidez": "2029-05-14"
+  },
+  "nacionalidad": "Fiji",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "HSBC",
+    "numero": "4275343935213185"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b51"
+  },
+  "primerNombre": "Olga",
+  "segundoNombre": "Cristal",
+  "apellidoPaterno": "Cortez",
+  "apellidoMaterno": "Mascareñas",
+  "correo": "citlaliapodaca@example.net",
+  "teléfono": {
+    "$numberLong": "4524316062"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://dummyimage.com/844x973",
+    "fechaValidez": "2027-10-22"
+  },
+  "nacionalidad": "República Checa",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "HSBC",
+    "numero": "3562783866252104"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b52"
+  },
+  "primerNombre": "Bernabé",
+  "segundoNombre": null,
+  "apellidoPaterno": "Malave",
+  "apellidoMaterno": "Hidalgo",
+  "correo": "curielflavio@example.net",
+  "teléfono": {
+    "$numberLong": "2596295983"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://dummyimage.com/434x576",
+    "fechaValidez": "2025-02-22"
+  },
+  "nacionalidad": "Letonia",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "HSBC",
+    "numero": "3586291890901177"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b53"
+  },
+  "primerNombre": "Pedro",
+  "segundoNombre": null,
+  "apellidoPaterno": "Armas",
+  "apellidoMaterno": "Armas",
+  "correo": "fibarra@example.org",
+  "teléfono": {
+    "$numberLong": "9554884737"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://dummyimage.com/875x775",
+    "fechaValidez": "2014-06-16"
+  },
+  "nacionalidad": "República Federal Democrática de Nepal",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "Banco Santander",
+    "numero": "30449228915511"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b54"
+  },
+  "primerNombre": "Nadia",
+  "segundoNombre": "Nadia",
+  "apellidoPaterno": "Meléndez",
+  "apellidoMaterno": "Caballero",
+  "correo": "sandovalguadalupe@example.com",
+  "teléfono": {
+    "$numberLong": "9404281702"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://placekitten.com/118/158",
+    "fechaValidez": "2025-07-16"
+  },
+  "nacionalidad": "Malta",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "HSBC",
+    "numero": "6011803475564408"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b55"
+  },
+  "primerNombre": "Ana María",
+  "segundoNombre": "Eduardo",
+  "apellidoPaterno": "Bermúdez",
+  "apellidoMaterno": "Orosco",
+  "correo": "lemuscatalina@example.com",
+  "teléfono": {
+    "$numberLong": "8093570104"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://placekitten.com/925/549",
+    "fechaValidez": "2022-03-20"
+  },
+  "nacionalidad": "Malta",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "HSBC",
+    "numero": "4873989793871413333"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b56"
+  },
+  "primerNombre": "Jorge Luis",
+  "segundoNombre": null,
+  "apellidoPaterno": "Ballesteros",
+  "apellidoMaterno": "Noriega",
+  "correo": "pamelacontreras@example.org",
+  "teléfono": {
+    "$numberLong": "8833674752"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://dummyimage.com/46x583",
+    "fechaValidez": "2029-12-30"
+  },
+  "nacionalidad": "Singapur",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "BBVA",
+    "numero": "6514864892416244"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b57"
+  },
+  "primerNombre": "Vicente",
+  "segundoNombre": null,
+  "apellidoPaterno": "Patiño",
+  "apellidoMaterno": "Gaitán",
+  "correo": "diazjeronimo@example.org",
+  "teléfono": {
+    "$numberLong": "8948484203"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://placekitten.com/90/1000",
+    "fechaValidez": "2016-12-18"
+  },
+  "nacionalidad": "Mozambique",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "BBVA",
+    "numero": "5482965210875183"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b58"
+  },
+  "primerNombre": "Carlota",
+  "segundoNombre": null,
+  "apellidoPaterno": "Peña",
+  "apellidoMaterno": "Olmos",
+  "correo": "samuel99@example.com",
+  "teléfono": 130415913,
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://dummyimage.com/771x688",
+    "fechaValidez": "2026-08-27"
+  },
+  "nacionalidad": "Gambia",
+  "tarjetaCredito": {
+    "tipo": "MasterCard",
+    "banco": "BBVA",
+    "numero": "4237942818430"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b59"
+  },
+  "primerNombre": "Noelia",
+  "segundoNombre": null,
+  "apellidoPaterno": "Menchaca",
+  "apellidoMaterno": "Páez",
+  "correo": "hernadezrocio@example.com",
+  "teléfono": {
+    "$numberLong": "7823694970"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Carnet de identidad",
+    "imagen": "https://dummyimage.com/130x912",
+    "fechaValidez": "2030-07-28"
+  },
+  "nacionalidad": "Maldivas",
+  "tarjetaCredito": {
+    "tipo": "Visa",
+    "banco": "BBVA",
+    "numero": "375173145084812"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b5a"
+  },
+  "primerNombre": "Eugenia",
+  "segundoNombre": null,
+  "apellidoPaterno": "Olvera",
+  "apellidoMaterno": "Aguirre",
+  "correo": "manzanaresalonso@example.org",
+  "teléfono": {
+    "$numberLong": "8384638814"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "Pasaporte",
+    "imagen": "https://placekitten.com/695/619",
+    "fechaValidez": "2031-08-05"
+  },
+  "nacionalidad": "Cuba",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "BBVA",
+    "numero": "30086423762791"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d0c5735b9dc654a96b5b"
+  },
+  "primerNombre": "Abigail",
+  "segundoNombre": "Cristian",
+  "apellidoPaterno": "Villaseñor",
+  "apellidoMaterno": "Colunga",
+  "correo": "galvanlucia@example.com",
+  "teléfono": {
+    "$numberLong": "7101196646"
+  },
+  "documentoIdentidad": {
+    "tipoDocumento": "DNI",
+    "imagen": "https://dummyimage.com/89x981",
+    "fechaValidez": "2016-04-14"
+  },
+  "nacionalidad": "República Árabe Siria",
+  "tarjetaCredito": {
+    "tipo": "American Express",
+    "banco": "BBVA",
+    "numero": "30355340840455"
+  }
+}]

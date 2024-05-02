@@ -1,0 +1,171 @@
+{
+	"info": {
+		"_postman_id": "bcf3a667-3f48-41d0-805f-33b3687e7c30",
+		"name": "CRUD reservaciones",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33509521"
+	},
+	"item": [
+		{
+			"name": "Ver",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/getReservaciones",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"getReservaciones"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Agregar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/addReservacion?id_Habitacion=6632d7162ad3bef4abb7e4f6&id_Cliente=6632cf7bd019127b5861496e&fechaEntrada=2023-09-24T04:41:34.000Z&fechaSalida=2023-09-25T04:41:34.000Z&fechaReservacion=2023-09-13T04:41:34.000Z&estatus=Confirmada&numeroPersonas=1&costo=1098\n",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"addReservacion"
+					],
+					"query": [
+						{
+							"key": "id_Habitacion",
+							"value": "6632d7162ad3bef4abb7e4f6"
+						},
+						{
+							"key": "id_Cliente",
+							"value": "6632cf7bd019127b5861496e"
+						},
+						{
+							"key": "fechaEntrada",
+							"value": "2023-09-24T04:41:34.000Z"
+						},
+						{
+							"key": "fechaSalida",
+							"value": "2023-09-25T04:41:34.000Z"
+						},
+						{
+							"key": "fechaReservacion",
+							"value": "2023-09-13T04:41:34.000Z"
+						},
+						{
+							"key": "estatus",
+							"value": "Confirmada"
+						},
+						{
+							"key": "numeroPersonas",
+							"value": "1"
+						},
+						{
+							"key": "costo",
+							"value": "1098\n"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Editar",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/updateReservacion/6632ddd1d019127b58614b07?id_Habitacion=IDHabitacion&id_Cliente=IDCliente&fechaEntrada=2023-09-24T04:41:34.000Z&fechaSalida=2023-09-25T04:41:34.000Z&fechaReservacion=2023-09-13T04:41:34.000Z&estatus=Confirmada&numeroPersonas=1&costo=1098\n",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"updateReservacion",
+						"6632ddd1d019127b58614b07"
+					],
+					"query": [
+						{
+							"key": "id_Habitacion",
+							"value": "IDHabitacion"
+						},
+						{
+							"key": "id_Cliente",
+							"value": "IDCliente"
+						},
+						{
+							"key": "fechaEntrada",
+							"value": "2023-09-24T04:41:34.000Z"
+						},
+						{
+							"key": "fechaSalida",
+							"value": "2023-09-25T04:41:34.000Z"
+						},
+						{
+							"key": "fechaReservacion",
+							"value": "2023-09-13T04:41:34.000Z"
+						},
+						{
+							"key": "estatus",
+							"value": "Confirmada"
+						},
+						{
+							"key": "numeroPersonas",
+							"value": "1"
+						},
+						{
+							"key": "costo",
+							"value": "1098\n"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Eliminar",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/deleteReservacion/6632d71f6033a839bc82d938",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"deleteReservacion",
+						"6632d71f6033a839bc82d938"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Buscar",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/showReservacion/6632ddd1d019127b58614b07",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"showReservacion",
+						"6632ddd1d019127b58614b07"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

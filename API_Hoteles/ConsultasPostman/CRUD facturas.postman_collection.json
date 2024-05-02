@@ -1,0 +1,182 @@
+{
+	"info": {
+		"_postman_id": "0a446f92-1789-40c7-8511-a433c760d6df",
+		"name": "CRUD facturas",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33509521"
+	},
+	"item": [
+		{
+			"name": "Ver",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/getFacturas",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"getFacturas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Agregar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/addFactura?id_Reservacion=6632d7162ad3bef4abb7e4f6&fechaEmision=2023-05-19T12:01:12.000Z&fechaVencimiento=2023-06-17T12:01:12.000Z&pago=62&impuestosAdicionales=43&metodoPago=Efectivo&estatus=Vencida\n",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"addFactura"
+					],
+					"query": [
+						{
+							"key": "id_Reservacion",
+							"value": "6632d7162ad3bef4abb7e4f6"
+						},
+						{
+							"key": "fechaEmision",
+							"value": "2023-05-19T12:01:12.000Z"
+						},
+						{
+							"key": "fechaVencimiento",
+							"value": "2023-06-17T12:01:12.000Z"
+						},
+						{
+							"key": "pago",
+							"value": "62"
+						},
+						{
+							"key": "impuestosAdicionales",
+							"value": "43"
+						},
+						{
+							"key": "metodoPago",
+							"value": "Efectivo"
+						},
+						{
+							"key": "estatus",
+							"value": "Vencida\n"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Buscar",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/showFactura/6632e1c8d019127b58614b12",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"showFactura",
+						"6632e1c8d019127b58614b12"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Buscar Copy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/showFactura/6632e1c8d019127b58614b12",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"showFactura",
+						"6632e1c8d019127b58614b12"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Editar",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/updateFactura/6632e1c8d019127b58614b12?id_Reservacion=6632d71f6033a839bc82d912&fechaEmision=2023-05-19T12:01:12.000Z&fechaVencimiento=2023-06-17T12:01:12.000Z&pago=62&impuestosAdicionales=43&metodoPago=Efectivo&estatus=Vencida\n",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"updateFactura",
+						"6632e1c8d019127b58614b12"
+					],
+					"query": [
+						{
+							"key": "id_Reservacion",
+							"value": "6632d71f6033a839bc82d912"
+						},
+						{
+							"key": "fechaEmision",
+							"value": "2023-05-19T12:01:12.000Z"
+						},
+						{
+							"key": "fechaVencimiento",
+							"value": "2023-06-17T12:01:12.000Z"
+						},
+						{
+							"key": "pago",
+							"value": "62"
+						},
+						{
+							"key": "impuestosAdicionales",
+							"value": "43"
+						},
+						{
+							"key": "metodoPago",
+							"value": "Efectivo"
+						},
+						{
+							"key": "estatus",
+							"value": "Vencida\n"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Eliminar",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/deleteFactura/6632d726f39e216238ec8eba",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"deleteFactura",
+						"6632d726f39e216238ec8eba"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

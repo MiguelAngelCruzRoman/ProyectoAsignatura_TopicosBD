@@ -1,0 +1,4695 @@
+[{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d911"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e865"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b12"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-24T04:41:34.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-25T04:41:34.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-13T04:41:34.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 1098
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d912"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5af"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b43"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-20T09:41:07.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-26T09:41:07.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-22T09:41:07.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 3132
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d913"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e717"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b08"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-28T07:14:51.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-10-30T07:14:51.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-28T07:14:51.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 2,
+  "costo": 5022
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d914"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e775"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b00"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-04T01:32:31.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-13T01:32:31.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-08T01:32:31.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 30906
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d915"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e60b"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b37"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-21T22:41:18.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-22T22:41:18.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-11-02T22:41:18.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 3039
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d916"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5fe"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3d"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-14T07:52:46.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-20T07:52:46.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-13T07:52:46.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 3,
+  "costo": 26340
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d917"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5d3"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2f"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-12T12:50:40.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-18T12:50:40.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-18T12:50:40.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 16212
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d918"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e68f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b56"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-29T08:33:09.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-06T08:33:09.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-26T08:33:09.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 35000
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d919"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5f1"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4a"
+  },
+  "fechaEntrada": {
+    "$date": "2024-05-21T09:23:25.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-05-29T09:23:25.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-21T09:23:25.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 2,
+  "costo": 2112
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d91a"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e64c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4a"
+  },
+  "fechaEntrada": {
+    "$date": "2024-02-08T05:54:17.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-02-14T05:54:17.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-01-21T05:54:17.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 2,
+  "costo": 25164
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d91b"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5e4"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b30"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-11T11:19:53.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-18T11:19:53.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-07-10T11:19:53.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 10794
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d91c"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6f5"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96afe"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-18T10:52:34.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-23T10:52:34.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-01-14T10:52:34.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 7325
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d91d"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e620"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b15"
+  },
+  "fechaEntrada": {
+    "$date": "2023-05-28T04:25:52.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-06-01T04:25:52.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-05-09T04:25:52.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 19820
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d91e"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e841"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b39"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-11T23:22:08.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-12T23:22:08.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-20T23:22:08.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 4850
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d91f"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5c0"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b25"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-08T18:35:11.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-15T18:35:11.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-23T18:35:11.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 6762
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d920"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5dc"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b19"
+  },
+  "fechaEntrada": {
+    "$date": "2024-04-02T09:47:57.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-04-03T09:47:57.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-03-26T09:47:57.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 3097
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d921"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e640"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b48"
+  },
+  "fechaEntrada": {
+    "$date": "2024-04-12T16:09:24.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-04-17T16:09:24.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-02T16:09:24.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 2270
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d922"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e826"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b09"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-29T14:43:26.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-08T14:43:26.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-23T14:43:26.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 44130
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d923"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6e5"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b03"
+  },
+  "fechaEntrada": {
+    "$date": "2024-05-01T02:51:42.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-05-04T02:51:42.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-15T02:51:42.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 3,
+  "costo": 4941
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d924"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e71c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b37"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-01T11:21:53.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-10T11:21:53.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-07T11:21:53.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 9873
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d925"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5af"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b20"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-11T19:28:15.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-13T19:28:15.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-20T19:28:15.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 1044
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d926"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6cc"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b47"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-23T04:20:24.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-02T04:20:24.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-17T04:20:24.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 35980
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d927"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e566"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b00"
+  },
+  "fechaEntrada": {
+    "$date": "2024-05-10T03:35:24.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-05-13T03:35:24.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-26T03:35:24.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 2,
+  "costo": 3957
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d928"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e757"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96afc"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-10T17:12:16.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-16T17:12:16.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-11-20T17:12:16.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 14880
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d929"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e7aa"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2e"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-09T13:13:29.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-13T13:13:29.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-26T13:13:29.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 3,
+  "costo": 5240
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d92a"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e7e4"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b21"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-02T21:59:10.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-08T21:59:10.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-02T21:59:10.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 24798
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d92b"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6ba"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1a"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-25T23:24:08.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-02T23:24:08.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-07-07T23:24:08.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 3,
+  "costo": 2424
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d92c"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e561"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b02"
+  },
+  "fechaEntrada": {
+    "$date": "2024-05-26T20:53:24.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-05-29T20:53:24.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-26T20:53:24.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 11196
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d92d"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e8c1"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2a"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-26T17:35:42.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-10-31T17:35:42.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-09T17:35:42.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 2,
+  "costo": 10060
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d92e"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5f0"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b36"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-02T03:29:56.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-03T03:29:56.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-02T03:29:56.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 4048
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d92f"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e77e"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b46"
+  },
+  "fechaEntrada": {
+    "$date": "2023-06-25T06:03:33.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-01T06:03:33.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-05-27T06:03:33.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 27942
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d931"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e85c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b46"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-11T08:39:38.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-20T08:39:38.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-28T08:39:38.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 3,
+  "costo": 4554
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d932"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e605"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96af8"
+  },
+  "fechaEntrada": {
+    "$date": "2023-05-29T23:40:44.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-06-05T23:40:44.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-05-13T23:40:44.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 2,
+  "costo": 18445
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d933"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e54f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b17"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-18T22:13:57.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-25T22:13:57.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-23T22:13:57.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 20328
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d934"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e647"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b39"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-02T02:13:56.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-10-08T02:13:56.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-13T02:13:56.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 7746
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d935"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6e6"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b02"
+  },
+  "fechaEntrada": {
+    "$date": "2023-06-26T20:38:17.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-06-30T20:38:17.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-10T20:38:17.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 3,
+  "costo": 18288
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d936"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e74a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b24"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-04T14:57:41.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-14T14:57:41.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-23T14:57:41.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 49540
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d937"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e561"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b04"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-28T14:13:29.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-30T14:13:29.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-01-06T14:13:29.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 7464
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d938"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e626"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1f"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-26T04:18:25.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-02T04:18:25.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-11T04:18:25.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 3255
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d939"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6a5"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b35"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-20T03:21:41.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-24T03:21:41.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-11-22T03:21:41.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 9832
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d93a"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e738"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b02"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-24T08:19:37.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-02-01T08:19:37.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-01-08T08:19:37.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 33544
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d93b"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e670"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b43"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-23T21:12:46.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-02-01T21:12:46.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-24T21:12:46.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 2295
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d93c"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e705"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b09"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-05T18:23:44.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-15T18:23:44.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-11-25T18:23:44.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 11170
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d93d"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e7ad"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b46"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-29T12:08:58.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-05T12:08:58.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-26T12:08:58.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 3143
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d93e"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e70a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b39"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-29T14:00:24.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-02T14:00:24.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-19T14:00:24.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 5984
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d93f"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e717"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b22"
+  },
+  "fechaEntrada": {
+    "$date": "2023-06-15T04:10:47.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-06-18T04:10:47.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-09T04:10:47.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 7533
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d940"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e556"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2e"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-08T14:47:52.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-17T14:47:52.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-11-30T14:47:52.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 3,
+  "costo": 3114
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d941"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e71b"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b23"
+  },
+  "fechaEntrada": {
+    "$date": "2024-02-21T11:00:20.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-01T11:00:20.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-06T11:00:20.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 2,
+  "costo": 1737
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d942"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e736"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96afd"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-18T14:05:04.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-28T14:05:04.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-15T14:05:04.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 2,
+  "costo": 48670
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d943"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e553"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96af8"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-11T12:48:27.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-21T12:48:27.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-12T12:48:27.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 21310
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d944"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e878"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0f"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-11T13:37:17.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-21T13:37:17.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-13T13:37:17.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 2,
+  "costo": 44970
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d945"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e57f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4f"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-30T06:43:31.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-02-07T06:43:31.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-01-17T06:43:31.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 23632
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d946"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e671"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b41"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-05T04:34:51.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-10-10T04:34:51.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-14T04:34:51.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 6960
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d947"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e54a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b37"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-08T18:27:14.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-10T18:27:14.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-16T18:27:14.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 4618
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d948"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e528"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b28"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-04T05:25:51.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-14T05:25:51.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-27T05:25:51.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 22830
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d949"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5cf"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1c"
+  },
+  "fechaEntrada": {
+    "$date": "2024-05-09T06:48:27.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-05-19T06:48:27.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-21T06:48:27.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 30250
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d94a"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e8b2"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b20"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-03T14:40:27.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-06T14:40:27.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-06T14:40:27.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 2580
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d94b"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e812"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b29"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-05T03:38:38.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-10T03:38:38.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-17T03:38:38.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 10845
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d94c"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e8a3"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b56"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-05T10:11:00.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-13T10:11:00.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-24T10:11:00.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 3,
+  "costo": 7952
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d94d"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e625"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2d"
+  },
+  "fechaEntrada": {
+    "$date": "2024-02-21T07:19:27.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-02-25T07:19:27.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-06T07:19:27.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 320
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d94e"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e655"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b38"
+  },
+  "fechaEntrada": {
+    "$date": "2024-04-15T00:28:33.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-04-16T00:28:33.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-03-21T00:28:33.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 69
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d94f"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e60c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b58"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-11T21:48:27.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-21T21:48:27.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-20T21:48:27.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 47830
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d950"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e7a3"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b28"
+  },
+  "fechaEntrada": {
+    "$date": "2023-06-05T12:35:49.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-06-11T12:35:49.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-05-22T12:35:49.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 27396
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d951"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e7b2"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b22"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-02T20:46:22.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-05T20:46:22.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-07-26T20:46:22.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 11790
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d952"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e7d7"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b04"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-31T13:58:24.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-07T13:58:24.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-07-21T13:58:24.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 3,
+  "costo": 26502
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d953"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e687"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b05"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-17T12:36:36.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-26T12:36:36.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-21T12:36:36.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 15264
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d954"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e70c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b41"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-28T18:51:32.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-30T18:51:32.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-01-24T18:51:32.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 3784
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d955"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e56a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4b"
+  },
+  "fechaEntrada": {
+    "$date": "2024-04-05T11:10:38.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-04-12T11:10:38.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-03-07T11:10:38.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 2,
+  "costo": 1764
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d956"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e732"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b33"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-03T12:42:59.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-04T12:42:59.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-24T12:42:59.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 3,
+  "costo": 2399
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d957"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e587"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b26"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-24T03:02:57.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-27T03:02:57.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-15T03:02:57.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 3,
+  "costo": 13098
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d958"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e8ca"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b5b"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-18T19:53:01.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-27T19:53:01.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-01-11T19:53:01.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 17559
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d959"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6e1"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0a"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-08T01:41:23.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-09T01:41:23.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-24T01:41:23.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 3775
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d95a"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e78f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b05"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-22T17:49:37.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-28T17:49:37.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-11-28T17:49:37.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 3396
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d95b"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e689"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b04"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-06T22:09:41.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-11T22:09:41.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-27T22:09:41.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 4265
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d95c"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e51e"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1f"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-23T07:18:55.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-25T07:18:55.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-27T07:18:55.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 7736
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d95d"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e7c0"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96afe"
+  },
+  "fechaEntrada": {
+    "$date": "2023-05-09T21:20:53.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-05-16T21:20:53.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-05-03T21:20:53.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 4186
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d95e"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5dd"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0a"
+  },
+  "fechaEntrada": {
+    "$date": "2024-05-03T19:27:52.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-05-09T19:27:52.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-16T19:27:52.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 29664
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d95f"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e8b2"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0a"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-10T03:19:43.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-19T03:19:43.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-10T03:19:43.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 3,
+  "costo": 7740
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d960"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e78e"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b43"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-24T02:43:04.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-31T02:43:04.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-11-30T02:43:04.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 2,
+  "costo": 6251
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d961"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e76a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b26"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-17T15:48:24.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-10-24T15:48:24.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-12T15:48:24.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 18669
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d962"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6ba"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b57"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-26T17:18:26.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-30T17:18:26.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-23T17:18:26.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 1212
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d963"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e663"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b08"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-09T22:11:01.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-15T22:11:01.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-07-02T22:11:01.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 29340
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d964"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e667"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4c"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-01T06:04:21.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-10-03T06:04:21.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-03T06:04:21.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 9472
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d965"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e818"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3d"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-16T16:00:45.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-18T16:00:45.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-07T16:00:45.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 7790
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d966"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e653"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2e"
+  },
+  "fechaEntrada": {
+    "$date": "2024-04-18T05:25:50.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-04-28T05:25:50.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-03-21T05:25:50.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 48410
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d967"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6f7"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b34"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-01T19:22:51.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-04T19:22:51.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-10T19:22:51.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 3,
+  "costo": 4830
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d968"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6df"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3b"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-08T14:19:34.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-10-17T14:19:34.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-08T14:19:34.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 4941
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d969"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e73a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b09"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-07T23:32:51.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-13T23:32:51.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-31T23:32:51.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 18726
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d96a"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e593"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b05"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-04T13:01:19.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-10T13:01:19.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-07-30T13:01:19.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 4182
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d96b"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e8a4"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b34"
+  },
+  "fechaEntrada": {
+    "$date": "2024-04-09T13:12:37.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-04-17T13:12:37.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-04T13:12:37.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 2,
+  "costo": 11296
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d96c"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6c0"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0a"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-12T08:51:49.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-15T08:51:49.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-11-02T08:51:49.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 474
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d96d"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e631"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b42"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-22T06:00:33.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-26T06:00:33.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-11-13T06:00:33.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 15160
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d96e"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5ee"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b5b"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-15T20:28:20.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-20T20:28:20.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-16T20:28:20.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 3,
+  "costo": 19725
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d96f"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e753"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b32"
+  },
+  "fechaEntrada": {
+    "$date": "2023-06-19T08:52:54.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-06-24T08:52:54.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-05-22T08:52:54.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 8835
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d970"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e865"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1d"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-30T17:34:48.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-10-02T17:34:48.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-05T17:34:48.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 2196
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d971"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e85e"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0e"
+  },
+  "fechaEntrada": {
+    "$date": "2023-06-24T16:00:03.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-06-27T16:00:03.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-03T16:00:03.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 10620
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d972"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e660"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b16"
+  },
+  "fechaEntrada": {
+    "$date": "2023-05-25T17:12:37.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-06-03T17:12:37.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-05-04T17:12:37.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 36963
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d973"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e84d"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2b"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-15T14:40:42.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-24T14:40:42.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-11T14:40:42.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 8901
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d974"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5cb"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b15"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-03T07:47:29.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-04T07:47:29.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-11-25T07:47:29.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 3,
+  "costo": 2494
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d975"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e570"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b40"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-29T03:37:29.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-30T03:37:29.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-11-07T03:37:29.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 2,
+  "costo": 2686
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d976"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5cc"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3e"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-17T15:05:18.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-21T15:05:18.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-08T15:05:18.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 11772
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d977"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e63e"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b15"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-16T18:50:44.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-18T18:50:44.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-03T18:50:44.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 3306
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d978"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e648"
+  },
+  "id_Cliente": {
+    "$oid": "6632cf7bd019127b5861496e"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-25T23:41:01.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-31T23:41:01.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-25T23:41:01.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 10848
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d979"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e828"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b09"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-11T21:53:39.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-16T21:53:39.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-07-10T21:53:39.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 14400
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d97a"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6d0"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3f"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-29T09:18:42.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-30T09:18:42.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-09T09:18:42.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 128
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d97b"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6f6"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4e"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-11T22:19:43.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-20T22:19:43.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-09T22:19:43.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 3,
+  "costo": 7470
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d97c"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5a5"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b29"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-21T05:34:32.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-26T05:34:32.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-03-12T05:34:32.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 10705
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d97d"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e784"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b05"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-13T11:54:42.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-19T11:54:42.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-03T11:54:42.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 5346
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d97e"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e555"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b32"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-24T13:03:40.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-10-04T13:03:40.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-04T13:03:40.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 3010
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d97f"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6f7"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2f"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-26T01:37:00.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-02T01:37:00.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-11T01:37:00.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 11270
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d980"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e562"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b45"
+  },
+  "fechaEntrada": {
+    "$date": "2023-05-11T11:11:02.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-05-15T11:11:02.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-05-09T11:11:02.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 2,
+  "costo": 15724
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d981"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e8bc"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2a"
+  },
+  "fechaEntrada": {
+    "$date": "2023-05-19T14:34:57.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-05-26T14:34:57.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-05-02T14:34:57.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 20125
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d982"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e778"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b23"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-09T17:22:59.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-18T17:22:59.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-12T17:22:59.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 2,
+  "costo": 10134
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d983"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e78a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b20"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-26T20:43:40.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-31T20:43:40.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-06T20:43:40.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 2,
+  "costo": 8975
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d984"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5ef"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0c"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-10T12:17:44.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-10-20T12:17:44.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-22T12:17:44.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 33760
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d985"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5b4"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b04"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-09T12:15:04.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-10T12:15:04.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-23T12:15:04.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 3990
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d986"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e829"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b57"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-26T15:48:37.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-31T15:48:37.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-18T15:48:37.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 3795
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d987"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e563"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b40"
+  },
+  "fechaEntrada": {
+    "$date": "2024-02-26T17:47:02.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-02T17:47:02.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-01-30T17:47:02.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 20960
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d988"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5d6"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2c"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-19T22:18:06.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-10-28T22:18:06.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-15T22:18:06.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 3,
+  "costo": 4221
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d989"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e664"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b42"
+  },
+  "fechaEntrada": {
+    "$date": "2024-02-13T23:09:04.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-02-22T23:09:04.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-09T23:09:04.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 33588
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d98a"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e759"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4e"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-13T01:54:18.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-20T01:54:18.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-11-13T01:54:18.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 22358
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d98b"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e681"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b35"
+  },
+  "fechaEntrada": {
+    "$date": "2024-04-05T23:52:02.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-04-15T23:52:02.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-03-22T23:52:02.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 12470
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d98c"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e841"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b36"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-17T09:03:13.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-23T09:03:13.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-22T09:03:13.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 2,
+  "costo": 29100
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d98d"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e79d"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b29"
+  },
+  "fechaEntrada": {
+    "$date": "2024-02-16T07:40:46.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-02-24T07:40:46.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-02T07:40:46.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 9064
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d98e"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5d7"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2b"
+  },
+  "fechaEntrada": {
+    "$date": "2024-04-20T13:57:06.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-04-21T13:57:06.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-14T13:57:06.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 1143
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d98f"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5a2"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b39"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-29T17:30:21.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-10-04T17:30:21.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-05T17:30:21.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 17795
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d990"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e716"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b07"
+  },
+  "fechaEntrada": {
+    "$date": "2023-06-28T05:41:34.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-06T05:41:34.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-13T05:41:34.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 25776
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d991"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e843"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b3f"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-30T02:39:13.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-04T02:39:13.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-22T02:39:13.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 3440
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d992"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e523"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b14"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-12T16:53:28.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-20T16:53:28.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-15T16:53:28.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 3,
+  "costo": 5104
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d993"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e783"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b13"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-31T22:53:23.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-09T22:53:23.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-01T22:53:23.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 20682
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d994"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e70c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b35"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-30T05:43:44.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-04T05:43:44.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-01T05:43:44.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 9460
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d995"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e85c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b56"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-02T02:03:05.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-06T02:03:05.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-16T02:03:05.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 2024
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d996"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e7f9"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b52"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-17T09:12:06.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-27T09:12:06.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-15T09:12:06.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 10770
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d997"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5ee"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b14"
+  },
+  "fechaEntrada": {
+    "$date": "2024-04-09T06:15:49.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-04-10T06:15:49.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-08T06:15:49.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 3945
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d998"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e54a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0f"
+  },
+  "fechaEntrada": {
+    "$date": "2024-02-12T07:24:07.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-02-17T07:24:07.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-01-27T07:24:07.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 11545
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d999"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6cb"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b26"
+  },
+  "fechaEntrada": {
+    "$date": "2024-02-25T04:05:44.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-01T04:05:44.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-07T04:05:44.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 2385
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d99a"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e63d"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1e"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-29T23:32:51.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-03T23:32:51.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-23T23:32:51.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 2,
+  "costo": 3215
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d99b"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e7e2"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b32"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-20T10:19:24.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-22T10:19:24.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-01-16T10:19:24.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 3638
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d99c"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e59b"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b32"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-11T12:42:59.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-19T12:42:59.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-11-01T12:42:59.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 22760
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d99d"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e879"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b25"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-01T16:07:16.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-06T16:07:16.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-16T16:07:16.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 1975
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d99e"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e63a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b59"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-01T13:54:18.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-07T13:54:18.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-10T13:54:18.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 2,
+  "costo": 17778
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d99f"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e677"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4d"
+  },
+  "fechaEntrada": {
+    "$date": "2024-04-26T20:22:11.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-05-06T20:22:11.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-02T20:22:11.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 29080
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9a0"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5c0"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1f"
+  },
+  "fechaEntrada": {
+    "$date": "2024-05-20T08:15:40.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-05-27T08:15:40.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-25T08:15:40.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 2,
+  "costo": 6762
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9a1"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e892"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96af9"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-16T22:51:11.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-10-17T22:51:11.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-07T22:51:11.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 2,
+  "costo": 340
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9a2"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e59d"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b28"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-12T08:53:07.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-16T08:53:07.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-21T08:53:07.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 15916
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9a3"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6f7"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b01"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-23T03:57:41.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-28T03:57:41.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-28T03:57:41.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 3,
+  "costo": 8050
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9a4"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e71e"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96afa"
+  },
+  "fechaEntrada": {
+    "$date": "2024-04-30T11:31:42.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-05-01T11:31:42.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-03-31T11:31:42.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 2,
+  "costo": 3227
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9a5"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e7cb"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96afc"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-16T02:15:34.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-24T02:15:34.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-10T02:15:34.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 12984
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9a6"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e8c3"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b37"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-14T15:01:23.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-18T15:01:23.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-10T15:01:23.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 1752
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9a7"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e588"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b1a"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-05T13:41:25.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-08T13:41:25.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-25T13:41:25.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 2,
+  "costo": 6465
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9a8"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e8bd"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4a"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-26T23:09:55.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-02-01T23:09:55.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-01-09T23:09:55.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 18852
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9a9"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e718"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b23"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-17T20:21:07.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-22T20:21:07.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-02T20:21:07.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 23625
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9aa"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e563"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b32"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-31T20:58:29.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-02T20:58:29.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-26T20:58:29.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 8384
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9ab"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e838"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96af8"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-12T02:15:27.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-17T02:15:27.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-07-02T02:15:27.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 21025
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9ac"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e756"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b09"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-09T20:33:44.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-19T20:33:44.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-05T20:33:44.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 34930
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9ad"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6ac"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b06"
+  },
+  "fechaEntrada": {
+    "$date": "2024-05-13T02:24:47.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-05-14T02:24:47.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-23T02:24:47.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 3088
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9ae"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5ea"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b25"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-09T00:57:40.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-16T00:57:40.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-03-03T00:57:40.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 34174
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9af"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e692"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b05"
+  },
+  "fechaEntrada": {
+    "$date": "2024-04-05T04:15:48.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-04-11T04:15:48.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-03-30T04:15:48.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 12552
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9b0"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e7a2"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b39"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-27T02:31:03.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-10-05T02:31:03.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-09T02:31:03.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 2,
+  "costo": 20720
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9b1"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e7b2"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b06"
+  },
+  "fechaEntrada": {
+    "$date": "2024-02-14T16:56:50.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-02-16T16:56:50.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-01-24T16:56:50.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 7860
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9b2"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5bc"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0d"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-27T08:02:08.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-02-05T08:02:08.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-01-06T08:02:08.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 3,
+  "costo": 28872
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9b3"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e7da"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b14"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-22T04:32:58.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-29T04:32:58.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-03-02T04:32:58.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 12103
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9b4"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e882"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b11"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-12T19:47:27.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-22T19:47:27.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-23T19:47:27.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 19240
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9b5"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e585"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b25"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-28T11:26:06.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-04T11:26:06.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-23T11:26:06.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 18179
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9b6"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e773"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b56"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-07T06:23:19.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-17T06:23:19.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-07-18T06:23:19.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 3,
+  "costo": 21100
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9b7"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e897"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b35"
+  },
+  "fechaEntrada": {
+    "$date": "2024-05-18T13:17:02.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-05-25T13:17:02.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-25T13:17:02.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 3248
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9b8"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e806"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b13"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-10T09:55:42.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-14T09:55:42.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-03T09:55:42.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 14788
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9b9"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e59f"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b59"
+  },
+  "fechaEntrada": {
+    "$date": "2023-06-06T00:58:36.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-06-09T00:58:36.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-05-18T00:58:36.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 6525
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9ba"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e877"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b18"
+  },
+  "fechaEntrada": {
+    "$date": "2024-02-24T03:56:13.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-04T03:56:13.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-20T03:56:13.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 20340
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9bb"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e8b7"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4d"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-02T14:47:51.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-07T14:47:51.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-26T14:47:51.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 2,
+  "costo": 15900
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9bc"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5be"
+  },
+  "id_Cliente": {
+    "$oid": "6632cf7bd019127b5861496e"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-19T23:09:29.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-29T23:09:29.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-07-24T23:09:29.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 38820
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9bd"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5fe"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b29"
+  },
+  "fechaEntrada": {
+    "$date": "2023-05-25T02:53:20.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-05-29T02:53:20.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-05-08T02:53:20.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 17560
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9be"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e688"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b09"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-15T18:19:45.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-22T18:19:45.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-01-10T18:19:45.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 3,
+  "costo": 17605
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9bf"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e54d"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2d"
+  },
+  "fechaEntrada": {
+    "$date": "2024-02-13T15:17:36.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-02-17T15:17:36.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-10T15:17:36.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 10780
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9c0"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6aa"
+  },
+  "id_Cliente": {
+    "$oid": "6632cf7bd019127b5861496e"
+  },
+  "fechaEntrada": {
+    "$date": "2024-04-14T10:34:14.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-04-22T10:34:14.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-11T10:34:14.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 11208
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9c1"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6b7"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b18"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-29T06:45:36.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-08T06:45:36.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-27T06:45:36.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 13440
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9c2"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e648"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0d"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-21T00:27:48.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-24T00:27:48.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-25T00:27:48.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 4,
+  "costo": 5424
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9c3"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e81a"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b55"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-13T02:04:56.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-18T02:04:56.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-29T02:04:56.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 6850
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9c4"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e860"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96afd"
+  },
+  "fechaEntrada": {
+    "$date": "2024-01-21T18:54:51.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-24T18:54:51.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-29T18:54:51.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 5238
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9c5"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5c1"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b18"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-14T09:04:13.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-18T09:04:13.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-29T09:04:13.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 7448
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9c6"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e74b"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b50"
+  },
+  "fechaEntrada": {
+    "$date": "2023-11-28T14:41:43.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-06T14:41:43.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-11-14T14:41:43.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 2,
+  "costo": 1872
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9c7"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e654"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b56"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-18T14:04:28.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-12-27T14:04:28.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-11-19T14:04:28.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 16110
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9c8"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e608"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0a"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-10T18:12:16.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-20T18:12:16.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-18T18:12:16.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 21490
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9c9"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6b0"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b41"
+  },
+  "fechaEntrada": {
+    "$date": "2023-06-02T21:43:02.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-06-04T21:43:02.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-05-20T21:43:02.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 2952
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9ca"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6a8"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4a"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-07T13:58:50.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-10T13:58:50.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-07-17T13:58:50.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 11751
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9cb"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e541"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b37"
+  },
+  "fechaEntrada": {
+    "$date": "2023-10-28T20:37:52.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-11-06T20:37:52.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-10-25T20:37:52.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 1,
+  "costo": 38250
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9cc"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e62d"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b26"
+  },
+  "fechaEntrada": {
+    "$date": "2023-05-24T00:48:59.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-05-28T00:48:59.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-05-11T00:48:59.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 3820
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9cd"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e65c"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b2e"
+  },
+  "fechaEntrada": {
+    "$date": "2024-04-14T00:57:43.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-04-16T00:57:43.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-03-28T00:57:43.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 5212
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9ce"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e6b8"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b10"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-21T12:33:24.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-30T12:33:24.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-03-20T12:33:24.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 15525
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9cf"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e745"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b5a"
+  },
+  "fechaEntrada": {
+    "$date": "2024-04-16T15:40:22.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-04-25T15:40:22.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-03-22T15:40:22.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 2,
+  "costo": 7488
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9d0"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e7d7"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b0d"
+  },
+  "fechaEntrada": {
+    "$date": "2024-03-12T11:35:13.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-03-20T11:35:13.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-02-14T11:35:13.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 3,
+  "costo": 30288
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9d1"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e841"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b03"
+  },
+  "fechaEntrada": {
+    "$date": "2023-12-26T08:43:50.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-01-05T08:43:50.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-12-25T08:43:50.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 2,
+  "costo": 48500
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9d2"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e641"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b26"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-07T00:26:06.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-14T00:26:06.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-07-21T00:26:06.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 1,
+  "costo": 31612
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9d3"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e65b"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b53"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-13T19:45:00.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-22T19:45:00.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-15T19:45:00.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 34128
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9d4"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e789"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b07"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-06T02:17:32.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-15T02:17:32.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-16T02:17:32.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 36972
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9d5"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e5d6"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b4e"
+  },
+  "fechaEntrada": {
+    "$date": "2023-07-10T02:31:33.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-07-13T02:31:33.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-06-12T02:31:33.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 2,
+  "costo": 1407
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9d6"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e883"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b38"
+  },
+  "fechaEntrada": {
+    "$date": "2023-05-23T23:09:39.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-05-26T23:09:39.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-05-04T23:09:39.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 2448
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9d7"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e516"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96b55"
+  },
+  "fechaEntrada": {
+    "$date": "2024-05-18T11:45:19.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2024-05-25T11:45:19.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2024-04-19T11:45:19.000Z"
+  },
+  "estatus": "Pendiente",
+  "numeroPersonas": 4,
+  "costo": 25753
+},
+{
+  "_id": {
+    "$oid": "6632d71f6033a839bc82d9d8"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e641"
+  },
+  "id_Cliente": {
+    "$oid": "6632d0c5735b9dc654a96afa"
+  },
+  "fechaEntrada": {
+    "$date": "2023-08-19T04:48:40.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-08-24T04:48:40.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-08-08T04:48:40.000Z"
+  },
+  "estatus": "Cancelada",
+  "numeroPersonas": 4,
+  "costo": 22580
+},
+{
+  "_id": {
+    "$oid": "6632ddd1d019127b58614b07"
+  },
+  "id_Habitacion": "IDHabitacion",
+  "id_Cliente": "IDCliente",
+  "fechaEntrada": {
+    "$date": "2023-09-24T04:41:34.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-25T04:41:34.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-13T04:41:34.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 1098,
+  "updated_at": {
+    "$date": "2024-05-02T00:26:57.064Z"
+  },
+  "created_at": {
+    "$date": "2024-05-02T00:26:57.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632de56d019127b58614b08"
+  },
+  "id_Cliente": {
+    "$oid": "6632cf7bd019127b5861496e"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-24T04:41:34.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-25T04:41:34.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-13T04:41:34.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 1098,
+  "updated_at": {
+    "$date": "2024-05-02T00:29:10.975Z"
+  },
+  "created_at": {
+    "$date": "2024-05-02T00:29:10.975Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632de82d019127b58614b09"
+  },
+  "id_Cliente": {
+    "$oid": "6632cf7bd019127b5861496e"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-24T04:41:34.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-25T04:41:34.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-13T04:41:34.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 1098,
+  "updated_at": {
+    "$date": "2024-05-02T00:29:54.590Z"
+  },
+  "created_at": {
+    "$date": "2024-05-02T00:29:54.590Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632df18d019127b58614b0e"
+  },
+  "id_Habitacion": {
+    "$oid": "6632d7162ad3bef4abb7e4f6"
+  },
+  "id_Cliente": {
+    "$oid": "6632cf7bd019127b5861496e"
+  },
+  "fechaEntrada": {
+    "$date": "2023-09-24T04:41:34.000Z"
+  },
+  "fechaSalida": {
+    "$date": "2023-09-25T04:41:34.000Z"
+  },
+  "fechaReservacion": {
+    "$date": "2023-09-13T04:41:34.000Z"
+  },
+  "estatus": "Confirmada",
+  "numeroPersonas": 1,
+  "costo": 1098,
+  "updated_at": {
+    "$date": "2024-05-02T00:32:24.476Z"
+  },
+  "created_at": {
+    "$date": "2024-05-02T00:32:24.476Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632e0f0d019127b58614b11"
+  },
+  "estatus": "Vencida\n",
+  "updated_at": {
+    "$date": "2024-05-02T00:40:16.105Z"
+  },
+  "created_at": {
+    "$date": "2024-05-02T00:40:16.105Z"
+  }
+}]

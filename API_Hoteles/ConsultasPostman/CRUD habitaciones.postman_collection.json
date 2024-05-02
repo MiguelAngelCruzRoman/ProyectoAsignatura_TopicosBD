@@ -1,0 +1,223 @@
+{
+	"info": {
+		"_postman_id": "be6fffd4-6948-4697-9df8-046ecda045d6",
+		"name": "CRUD habitaciones",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33509521"
+	},
+	"item": [
+		{
+			"name": "Ver",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/getHabitaciones",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"getHabitaciones"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Buscar",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/showHabitacion/6632d7162ad3bef4abb7e4f5",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"showHabitacion",
+						"6632d7162ad3bef4abb7e4f5"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Eliminar",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/deleteHabitacion/6632d7162ad3bef4abb7e4f7",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"deleteHabitacion",
+						"6632d7162ad3bef4abb7e4f7"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Agregar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/addHabitacion?id_Hotel=6632d311620ef57cda3f5fe0&numero=1&tipo=Doble&precioNoche=2805&disponible=true&capacidad=3&vista=Vista al mar&serviciosIncluidos[]=nisi&serviciosIncluidos[]=est&imagenes[]=https://picsum.photos/606/439\n",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"addHabitacion"
+					],
+					"query": [
+						{
+							"key": "id_Hotel",
+							"value": "6632d311620ef57cda3f5fe0"
+						},
+						{
+							"key": "numero",
+							"value": "1"
+						},
+						{
+							"key": "tipo",
+							"value": "Doble"
+						},
+						{
+							"key": "precioNoche",
+							"value": "2805"
+						},
+						{
+							"key": "disponible",
+							"value": "true"
+						},
+						{
+							"key": "capacidad",
+							"value": "3"
+						},
+						{
+							"key": "vista",
+							"value": "Vista al mar"
+						},
+						{
+							"key": "serviciosIncluidos[]",
+							"value": "nisi"
+						},
+						{
+							"key": "serviciosIncluidos[]",
+							"value": "est"
+						},
+						{
+							"key": "imagenes[]",
+							"value": "https://picsum.photos/606/439\n"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Editar",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/updateHabitacion/6632d7162ad3bef4abb7e4f5?nombre=NombreHotelModificado&categoria=4&tipo=Resort&checkIn=23:59:07&checkout=15:23:25&telefono=1234567890&correo=email@example.com&ubicacion[pais]=Pais&ubicacion[ciudad]=Ciudad&ubicacion[calle]=Calle&ubicacion[numero]=Numero&ubicacion[CP]=CodigoPostal&ubicacion[referencia]=Referencia&ubicacion[latitud]=12.345&ubicacion[longitud]=-67.890&amenidades[]=amenidad1&amenidades[]=amenidad2&imagenes[]=imagen1&imagenes[]=imagen2\n",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"updateHabitacion",
+						"6632d7162ad3bef4abb7e4f5"
+					],
+					"query": [
+						{
+							"key": "nombre",
+							"value": "NombreHotelModificado"
+						},
+						{
+							"key": "categoria",
+							"value": "4"
+						},
+						{
+							"key": "tipo",
+							"value": "Resort"
+						},
+						{
+							"key": "checkIn",
+							"value": "23:59:07"
+						},
+						{
+							"key": "checkout",
+							"value": "15:23:25"
+						},
+						{
+							"key": "telefono",
+							"value": "1234567890"
+						},
+						{
+							"key": "correo",
+							"value": "email@example.com"
+						},
+						{
+							"key": "ubicacion[pais]",
+							"value": "Pais"
+						},
+						{
+							"key": "ubicacion[ciudad]",
+							"value": "Ciudad"
+						},
+						{
+							"key": "ubicacion[calle]",
+							"value": "Calle"
+						},
+						{
+							"key": "ubicacion[numero]",
+							"value": "Numero"
+						},
+						{
+							"key": "ubicacion[CP]",
+							"value": "CodigoPostal"
+						},
+						{
+							"key": "ubicacion[referencia]",
+							"value": "Referencia"
+						},
+						{
+							"key": "ubicacion[latitud]",
+							"value": "12.345"
+						},
+						{
+							"key": "ubicacion[longitud]",
+							"value": "-67.890"
+						},
+						{
+							"key": "amenidades[]",
+							"value": "amenidad1"
+						},
+						{
+							"key": "amenidades[]",
+							"value": "amenidad2"
+						},
+						{
+							"key": "imagenes[]",
+							"value": "imagen1"
+						},
+						{
+							"key": "imagenes[]",
+							"value": "imagen2\n"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,3810 @@
+[{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fdf"
+  },
+  "nombre": "Olmos y Garibay A.C.",
+  "ubicación": {
+    "pais": "Malasia",
+    "ciudad": "Kuala Lumpur",
+    "calle": "Viaducto Sonora",
+    "numero": 12,
+    "CP": 82448,
+    "referencia": "Minima neque possimus excepturi excepturi facere quis doloribus. Laboriosam repellat nihil eaque. Esse vitae excepturi eaque voluptate.",
+    "latitud": 89.6439750743721,
+    "longitud": 62.25780226084126
+  },
+  "categoría": 5,
+  "tipo": "Resort",
+  "checkIn": "11:55:45",
+  "checkout": "23:11:32",
+  "amenidades": [
+    "commodi",
+    "ipsam",
+    "exercitationem",
+    "repellendus",
+    "maxime",
+    "natus",
+    "dolor",
+    "rerum",
+    "totam",
+    "molestias"
+  ],
+  "imágenes": [
+    "https://picsum.photos/345/407",
+    "https://placekitten.com/327/349",
+    "https://picsum.photos/367/7",
+    "https://dummyimage.com/394x894",
+    "https://dummyimage.com/799x262"
+  ],
+  "telefono": {
+    "$numberLong": "4496315003"
+  },
+  "correo": "cornelio54@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fe0"
+  },
+  "nombre": "Briseño, Arguello y López",
+  "ubicación": {
+    "pais": "Francia",
+    "ciudad": "París",
+    "calle": "Viaducto Norte Cadena",
+    "numero": 31,
+    "CP": 24424,
+    "referencia": "Error iure qui odit ipsum iste laborum voluptatem. Perspiciatis atque pariatur dolor sit molestias. Voluptatum error architecto vero laborum. Eveniet placeat maiores quaerat vitae.",
+    "latitud": 13.349406398762582,
+    "longitud": -145.17842672049824
+  },
+  "categoría": 5,
+  "tipo": "Hotel",
+  "checkIn": "02:04:41",
+  "checkout": "14:10:27",
+  "amenidades": [
+    "ipsum",
+    "culpa",
+    "eum"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/758x55",
+    "https://picsum.photos/684/900"
+  ],
+  "telefono": {
+    "$numberLong": "2613958259"
+  },
+  "correo": "bustosjorge-luis@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fe1"
+  },
+  "nombre": "Meraz-Castellanos S. R.L. de C.V.",
+  "ubicación": {
+    "pais": "Estados Unidos",
+    "ciudad": "Nueva York",
+    "calle": "Circunvalación Carrillo",
+    "numero": 25,
+    "CP": 25786,
+    "referencia": "Pariatur doloribus deserunt et nihil suscipit ut. Reiciendis animi odio suscipit aperiam ad. Magnam voluptatum sapiente quod fuga tempore ad.\nDolore praesentium labore et aspernatur expedita magni.",
+    "latitud": 76.38705060272233,
+    "longitud": -119.53655565249383
+  },
+  "categoría": 4,
+  "tipo": "AutoHotel",
+  "checkIn": "00:34:34",
+  "checkout": "01:44:49",
+  "amenidades": [
+    "minima",
+    "ratione",
+    "natus",
+    "earum",
+    "soluta",
+    "veniam",
+    "non",
+    "aperiam",
+    "atque"
+  ],
+  "imágenes": [
+    "https://placekitten.com/524/770",
+    "https://placekitten.com/117/328",
+    "https://placekitten.com/75/598"
+  ],
+  "telefono": {
+    "$numberLong": "3489610312"
+  },
+  "correo": "martincoronado@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fe2"
+  },
+  "nombre": "Granado y Guardado S.C.",
+  "ubicación": {
+    "pais": "Reino Unido",
+    "ciudad": "Londres",
+    "calle": "Corredor Loera",
+    "numero": 95,
+    "CP": 35169,
+    "referencia": "Iste perspiciatis nesciunt aperiam magnam recusandae. Minima ducimus qui id ea ipsum dolores perspiciatis. Non pariatur quas ipsa.",
+    "latitud": -30.426129544789724,
+    "longitud": 158.6847479119184
+  },
+  "categoría": 4,
+  "tipo": "Motel",
+  "checkIn": "22:03:34",
+  "checkout": "06:02:25",
+  "amenidades": [
+    "nesciunt",
+    "nulla",
+    "hic"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/499x476",
+    "https://placekitten.com/832/163",
+    "https://placekitten.com/1013/6",
+    "https://picsum.photos/742/441",
+    "https://picsum.photos/166/337"
+  ],
+  "telefono": {
+    "$numberLong": "2918998781"
+  },
+  "correo": "del-riorolando@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fe3"
+  },
+  "nombre": "Marroquín, Palomino y Benítez",
+  "ubicación": {
+    "pais": "Turquía",
+    "ciudad": "Estambul",
+    "calle": "Calzada Sur Ozuna",
+    "numero": 46,
+    "CP": 67832,
+    "referencia": "Veritatis vitae tempore asperiores ipsam distinctio eveniet. Temporibus ab sint. Veritatis nemo quasi consectetur perspiciatis aperiam. Harum natus voluptate magni ipsa iusto adipisci.",
+    "latitud": 20.24847758585652,
+    "longitud": -90.77695949363483
+  },
+  "categoría": 5,
+  "tipo": "Hotel",
+  "checkIn": "12:27:27",
+  "checkout": "06:25:35",
+  "amenidades": [
+    "labore",
+    "similique",
+    "libero",
+    "alias",
+    "tempore",
+    "velit"
+  ],
+  "imágenes": [
+    "https://picsum.photos/171/494",
+    "https://dummyimage.com/18x383"
+  ],
+  "telefono": 1556297300,
+  "correo": "ymorales@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fe4"
+  },
+  "nombre": "NombreHotelModificado",
+  "ubicación": {
+    "pais": "Turquía",
+    "ciudad": "Estambul",
+    "calle": "Continuación Suiza",
+    "numero": 75,
+    "CP": 36908,
+    "referencia": "Temporibus ipsum aut rerum tempore sint. Possimus magnam ratione labore. Tenetur animi ducimus accusamus. Voluptate possimus at.\nId odit quae voluptatem rem.",
+    "latitud": -74.23646196871539,
+    "longitud": 30.734716300313835
+  },
+  "categoría": 3,
+  "tipo": "Resort",
+  "checkIn": "23:59:07",
+  "checkout": "15:23:25",
+  "amenidades": [
+    "amenidad1",
+    "amenidad2"
+  ],
+  "imágenes": [
+    "https://picsum.photos/968/712",
+    "https://dummyimage.com/614x120"
+  ],
+  "telefono": "1234567890",
+  "correo": "email@example.com",
+  "categoria": 4,
+  "imagenes": [
+    "imagen1",
+    "imagen2\n"
+  ],
+  "ubicacion": {
+    "_id": {
+      "$oid": "6632d6b2d019127b58614b05"
+    },
+    "pais": "Pais",
+    "ciudad": "Ciudad",
+    "calle": "Calle",
+    "numero": null,
+    "CP": null,
+    "referencia": "Referencia",
+    "latitud": 12.345,
+    "longitud": -67.89
+  },
+  "updated_at": {
+    "$date": "2024-05-01T23:56:34.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fe5"
+  },
+  "nombre": "Pérez-Calvillo",
+  "ubicación": {
+    "pais": "Francia",
+    "ciudad": "París",
+    "calle": "Peatonal Cervantes",
+    "numero": 94,
+    "CP": 84640,
+    "referencia": "Dolorum harum qui quam ducimus. Blanditiis provident ducimus nam expedita alias dicta. Nihil laudantium ipsam et.",
+    "latitud": 55.49732962524945,
+    "longitud": 94.69793115460755
+  },
+  "categoría": 4,
+  "tipo": "Hotel",
+  "checkIn": "04:33:59",
+  "checkout": "11:23:21",
+  "amenidades": [
+    "architecto",
+    "reiciendis",
+    "quam",
+    "reiciendis"
+  ],
+  "imágenes": [
+    "https://picsum.photos/350/450",
+    "https://placekitten.com/901/736",
+    "https://picsum.photos/114/9",
+    "https://dummyimage.com/700x864"
+  ],
+  "telefono": {
+    "$numberLong": "8158572269"
+  },
+  "correo": "gceja@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fe6"
+  },
+  "nombre": "Flórez e Hijos",
+  "ubicación": {
+    "pais": "Estados Unidos",
+    "ciudad": "Nueva York",
+    "calle": "Continuación Guajardo",
+    "numero": 41,
+    "CP": 89176,
+    "referencia": "Vitae iusto vero veniam aliquam consectetur.\nIn cum vel molestiae molestiae nisi eligendi sunt. Accusamus quidem unde sunt.",
+    "latitud": 9.012709185610007,
+    "longitud": -151.36466601666322
+  },
+  "categoría": 4,
+  "tipo": "Hotel",
+  "checkIn": "21:57:54",
+  "checkout": "15:11:58",
+  "amenidades": [
+    "hic",
+    "ad",
+    "necessitatibus",
+    "reiciendis",
+    "exercitationem",
+    "magni"
+  ],
+  "imágenes": [
+    "https://picsum.photos/265/847",
+    "https://dummyimage.com/879x599",
+    "https://picsum.photos/168/327",
+    "https://placekitten.com/924/44",
+    "https://picsum.photos/341/803"
+  ],
+  "telefono": {
+    "$numberLong": "4436668280"
+  },
+  "correo": "gonzalobarrios@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fe7"
+  },
+  "nombre": "Corporacin Cepeda y de la Crúz",
+  "ubicación": {
+    "pais": "Corea del Sur",
+    "ciudad": "Seúl",
+    "calle": "Continuación Véliz",
+    "numero": 25,
+    "CP": 41657,
+    "referencia": "Aliquid molestiae facere mollitia ipsum perspiciatis expedita. Sed eveniet est nulla libero. Ipsa esse a doloribus. Delectus tempora asperiores illo vero.\nUllam atque blanditiis odit.",
+    "latitud": 71.8972686188435,
+    "longitud": 118.09307277492644
+  },
+  "categoría": 3,
+  "tipo": "AutoHotel",
+  "checkIn": "20:59:35",
+  "checkout": "15:33:31",
+  "amenidades": [
+    "quae",
+    "est",
+    "ducimus",
+    "occaecati",
+    "quidem"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/611x366"
+  ],
+  "telefono": 988067062,
+  "correo": "irma61@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fe8"
+  },
+  "nombre": "Garibay, Saiz y Mares",
+  "ubicación": {
+    "pais": "Japón",
+    "ciudad": "Tokio",
+    "calle": "Periférico Norte Olivo",
+    "numero": 80,
+    "CP": 23832,
+    "referencia": "Quos officia in minima quasi sint. Reiciendis eius error corrupti vero. Aut voluptates sapiente magni quod amet.",
+    "latitud": 9.801809731428023,
+    "longitud": -13.379714437881603
+  },
+  "categoría": 4,
+  "tipo": "Motel",
+  "checkIn": "09:15:34",
+  "checkout": "05:25:56",
+  "amenidades": [
+    "culpa",
+    "corporis",
+    "ad",
+    "illum",
+    "occaecati",
+    "occaecati",
+    "voluptatem",
+    "dolore",
+    "quos",
+    "dolores"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/382x1007"
+  ],
+  "telefono": {
+    "$numberLong": "2807437239"
+  },
+  "correo": "telloclaudia@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fe9"
+  },
+  "nombre": "Salcido A.C.",
+  "ubicación": {
+    "pais": "Tailandia",
+    "ciudad": "Bangkok",
+    "calle": "Avenida Nuevo León",
+    "numero": 53,
+    "CP": 18810,
+    "referencia": "Repellat dolorem sint necessitatibus unde amet non. Soluta quaerat quisquam maxime. Similique et asperiores odio.",
+    "latitud": 38.562433538845454,
+    "longitud": 45.606899159783296
+  },
+  "categoría": 3,
+  "tipo": "AutoHotel",
+  "checkIn": "08:46:38",
+  "checkout": "20:09:25",
+  "amenidades": [
+    "ullam",
+    "culpa",
+    "sunt",
+    "consequatur",
+    "reiciendis",
+    "repudiandae",
+    "unde",
+    "et"
+  ],
+  "imágenes": [
+    "https://placekitten.com/600/674",
+    "https://picsum.photos/617/77",
+    "https://picsum.photos/999/163"
+  ],
+  "telefono": 123622403,
+  "correo": "arcelia26@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fea"
+  },
+  "nombre": "Grupo Moya, Ibarra y Valle",
+  "ubicación": {
+    "pais": "Japón",
+    "ciudad": "Tokio",
+    "calle": "Retorno Norte Casas",
+    "numero": 69,
+    "CP": 50940,
+    "referencia": "Eius minus maiores neque magni nam adipisci. Porro minima harum blanditiis necessitatibus repudiandae. Enim maiores ipsam ducimus numquam quis.",
+    "latitud": 9.05345462412248,
+    "longitud": -126.97121748771772
+  },
+  "categoría": 4,
+  "tipo": "Hotel",
+  "checkIn": "15:00:25",
+  "checkout": "17:58:39",
+  "amenidades": [
+    "neque",
+    "necessitatibus",
+    "excepturi",
+    "rerum",
+    "assumenda",
+    "porro",
+    "cum",
+    "quisquam"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/557x1019",
+    "https://dummyimage.com/882x571",
+    "https://picsum.photos/954/1018",
+    "https://dummyimage.com/20x864",
+    "https://placekitten.com/431/615"
+  ],
+  "telefono": {
+    "$numberLong": "6677346891"
+  },
+  "correo": "dzavala@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5feb"
+  },
+  "nombre": "Alvarado, Salinas y Escobedo",
+  "ubicación": {
+    "pais": "Estados Unidos",
+    "ciudad": "Nueva York",
+    "calle": "Viaducto Puebla",
+    "numero": 71,
+    "CP": 46508,
+    "referencia": "Sint laboriosam aliquam ullam maiores.\nQuidem exercitationem ex omnis commodi. Rem quasi magni soluta suscipit architecto suscipit facere.",
+    "latitud": 10.56701244680491,
+    "longitud": 46.43141402060445
+  },
+  "categoría": 1,
+  "tipo": "Resort",
+  "checkIn": "14:28:19",
+  "checkout": "00:53:10",
+  "amenidades": [
+    "id",
+    "cumque",
+    "id",
+    "atque",
+    "maiores",
+    "nobis",
+    "totam",
+    "soluta",
+    "occaecati"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/411x340",
+    "https://placekitten.com/173/739",
+    "https://picsum.photos/400/708"
+  ],
+  "telefono": {
+    "$numberLong": "3786494731"
+  },
+  "correo": "ucasas@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fec"
+  },
+  "nombre": "Villalobos-Noriega S.C.",
+  "ubicación": {
+    "pais": "Malasia",
+    "ciudad": "Kuala Lumpur",
+    "calle": "Calzada Sudán",
+    "numero": 78,
+    "CP": 53235,
+    "referencia": "Excepturi occaecati fugiat ipsa sunt voluptas. Rem delectus fuga. Voluptas consequuntur nihil dolorem quasi placeat.\nSequi doloribus id ex labore. Maxime eos animi quasi quos aut.",
+    "latitud": 25.102731562415826,
+    "longitud": -137.24014971142452
+  },
+  "categoría": 4,
+  "tipo": "Resort",
+  "checkIn": "23:37:15",
+  "checkout": "14:16:20",
+  "amenidades": [
+    "sint",
+    "molestiae",
+    "occaecati",
+    "libero",
+    "commodi"
+  ],
+  "imágenes": [
+    "https://picsum.photos/103/5",
+    "https://dummyimage.com/245x447",
+    "https://placekitten.com/449/322",
+    "https://placekitten.com/82/152"
+  ],
+  "telefono": {
+    "$numberLong": "5919766372"
+  },
+  "correo": "virginia16@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fed"
+  },
+  "nombre": "Tafoya y Herrera S.A.",
+  "ubicación": {
+    "pais": "Corea del Sur",
+    "ciudad": "Seúl",
+    "calle": "Andador Sur Rendón",
+    "numero": 93,
+    "CP": 18667,
+    "referencia": "Cum nisi sed blanditiis tenetur. Quia esse corporis fugit.\nOptio iste ullam ipsam molestiae tenetur corrupti. Fuga vel accusamus quis eum voluptatem repudiandae. Amet voluptatum veniam.",
+    "latitud": 83.50844126601328,
+    "longitud": -124.24011393053098
+  },
+  "categoría": 2,
+  "tipo": "Hotel",
+  "checkIn": "07:20:26",
+  "checkout": "01:42:39",
+  "amenidades": [
+    "possimus",
+    "magnam",
+    "debitis"
+  ],
+  "imágenes": [
+    "https://placekitten.com/86/728",
+    "https://picsum.photos/752/991",
+    "https://placekitten.com/1008/563",
+    "https://picsum.photos/482/154",
+    "https://placekitten.com/586/699"
+  ],
+  "telefono": {
+    "$numberLong": "5481359563"
+  },
+  "correo": "yrivero@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fee"
+  },
+  "nombre": "Naranjo, Briones y Nieves",
+  "ubicación": {
+    "pais": "Reino Unido",
+    "ciudad": "Londres",
+    "calle": "Calle Tlaxcala",
+    "numero": 30,
+    "CP": 52337,
+    "referencia": "Iure ullam nemo asperiores laudantium et architecto. Accusantium architecto eos deleniti officiis molestias cupiditate.",
+    "latitud": -49.39548414849045,
+    "longitud": -67.31001565465908
+  },
+  "categoría": 5,
+  "tipo": "Hotel",
+  "checkIn": "21:44:41",
+  "checkout": "20:43:57",
+  "amenidades": [
+    "consectetur",
+    "iusto",
+    "atque",
+    "provident",
+    "quod",
+    "magnam",
+    "velit",
+    "iure"
+  ],
+  "imágenes": [
+    "https://picsum.photos/403/35",
+    "https://placekitten.com/437/554",
+    "https://picsum.photos/494/664",
+    "https://picsum.photos/73/442",
+    "https://dummyimage.com/101x658"
+  ],
+  "telefono": {
+    "$numberLong": "7096483066"
+  },
+  "correo": "albertobonilla@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fef"
+  },
+  "nombre": "Narváez, Escobar y Garica",
+  "ubicación": {
+    "pais": "Reino Unido",
+    "ciudad": "Londres",
+    "calle": "Callejón Macías",
+    "numero": 5,
+    "CP": 68562,
+    "referencia": "Officiis cupiditate recusandae alias a a consectetur at. Unde quia illum consectetur qui dicta. Voluptatem optio optio provident.",
+    "latitud": 77.6118619783125,
+    "longitud": -145.96375556572633
+  },
+  "categoría": 1,
+  "tipo": "Hotel",
+  "checkIn": "18:59:24",
+  "checkout": "13:19:55",
+  "amenidades": [
+    "aliquam",
+    "aliquid",
+    "ullam",
+    "voluptates",
+    "nulla",
+    "tempore",
+    "iste",
+    "mollitia",
+    "ipsum",
+    "cumque"
+  ],
+  "imágenes": [
+    "https://picsum.photos/765/930",
+    "https://placekitten.com/72/792",
+    "https://placekitten.com/651/652",
+    "https://placekitten.com/457/740",
+    "https://dummyimage.com/162x713"
+  ],
+  "telefono": {
+    "$numberLong": "8963538840"
+  },
+  "correo": "anavargas@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5ff0"
+  },
+  "nombre": "Grupo González y Arredondo",
+  "ubicación": {
+    "pais": "Malasia",
+    "ciudad": "Kuala Lumpur",
+    "calle": "Callejón Oaxaca",
+    "numero": 70,
+    "CP": 54513,
+    "referencia": "At facere illum quos. Velit ratione eaque enim harum non eos.\nHic debitis harum ut. Nam ullam voluptatem sit doloremque animi tempora.",
+    "latitud": 64.99858672114954,
+    "longitud": 60.2940239966575
+  },
+  "categoría": 3,
+  "tipo": "Motel",
+  "checkIn": "14:32:03",
+  "checkout": "18:38:59",
+  "amenidades": [
+    "voluptatibus",
+    "nobis",
+    "neque",
+    "ipsa",
+    "reprehenderit"
+  ],
+  "imágenes": [
+    "https://picsum.photos/699/732"
+  ],
+  "telefono": {
+    "$numberLong": "9740888479"
+  },
+  "correo": "porfiriozuniga@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5ff1"
+  },
+  "nombre": "Despacho Valle y Vela",
+  "ubicación": {
+    "pais": "Singapur",
+    "ciudad": "Singapur",
+    "calle": "Circunvalación Colima",
+    "numero": 43,
+    "CP": 57653,
+    "referencia": "Modi dignissimos eius natus quaerat architecto fugiat. Repudiandae ipsa nemo totam. Adipisci dolores facere modi.",
+    "latitud": -0.26135915253350106,
+    "longitud": 79.7546287326258
+  },
+  "categoría": 4,
+  "tipo": "Motel",
+  "checkIn": "23:59:59",
+  "checkout": "16:56:19",
+  "amenidades": [
+    "porro",
+    "harum",
+    "unde",
+    "eveniet",
+    "at",
+    "quam",
+    "recusandae",
+    "voluptas",
+    "expedita",
+    "laborum"
+  ],
+  "imágenes": [
+    "https://picsum.photos/920/96",
+    "https://picsum.photos/751/918"
+  ],
+  "telefono": {
+    "$numberLong": "4424405836"
+  },
+  "correo": "tapiamiriam@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5ff2"
+  },
+  "nombre": "Casares A.C.",
+  "ubicación": {
+    "pais": "Malasia",
+    "ciudad": "Kuala Lumpur",
+    "calle": "Pasaje Gutiérrez",
+    "numero": 9,
+    "CP": 79463,
+    "referencia": "Esse aliquam sapiente hic occaecati at minima velit. Excepturi nisi ad quod quibusdam.\nCupiditate quos eius maiores iure accusantium.",
+    "latitud": 47.24445050369022,
+    "longitud": -148.00419407377987
+  },
+  "categoría": 4,
+  "tipo": "Hotel",
+  "checkIn": "05:04:47",
+  "checkout": "01:40:55",
+  "amenidades": [
+    "recusandae",
+    "aperiam",
+    "impedit",
+    "consectetur",
+    "quibusdam",
+    "quam",
+    "earum"
+  ],
+  "imágenes": [
+    "https://picsum.photos/666/214",
+    "https://dummyimage.com/172x691",
+    "https://dummyimage.com/936x324",
+    "https://picsum.photos/543/371",
+    "https://dummyimage.com/60x446"
+  ],
+  "telefono": {
+    "$numberLong": "3481383408"
+  },
+  "correo": "claudia86@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5ff3"
+  },
+  "nombre": "Rosales, Carmona y Escobar",
+  "ubicación": {
+    "pais": "Emiratos Árabes Unidos",
+    "ciudad": "Dubái",
+    "calle": "Callejón Norte Bernal",
+    "numero": 10,
+    "CP": 13211,
+    "referencia": "Minus omnis corrupti debitis nulla. Adipisci repudiandae nihil iure. Ut officia ea ratione rem officia possimus.",
+    "latitud": -1.7183170115410036,
+    "longitud": 146.8719898392136
+  },
+  "categoría": 5,
+  "tipo": "Motel",
+  "checkIn": "21:28:22",
+  "checkout": "05:07:14",
+  "amenidades": [
+    "reprehenderit",
+    "voluptate",
+    "cupiditate"
+  ],
+  "imágenes": [
+    "https://placekitten.com/559/511",
+    "https://picsum.photos/538/426",
+    "https://dummyimage.com/495x975",
+    "https://placekitten.com/529/551",
+    "https://dummyimage.com/131x255"
+  ],
+  "telefono": {
+    "$numberLong": "4746756639"
+  },
+  "correo": "miguelbustos@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5ff4"
+  },
+  "nombre": "Corporacin Soto-Navarrete",
+  "ubicación": {
+    "pais": "Corea del Sur",
+    "ciudad": "Seúl",
+    "calle": "Ampliación Norte Jiménez",
+    "numero": 53,
+    "CP": 35732,
+    "referencia": "Hic totam quis perferendis itaque ex. Nam asperiores perferendis dolor voluptatum eaque.\nNon illo voluptatum libero vitae iusto expedita.",
+    "latitud": -67.30043100715821,
+    "longitud": 115.09338474436743
+  },
+  "categoría": 5,
+  "tipo": "Hotel",
+  "checkIn": "20:08:52",
+  "checkout": "09:00:34",
+  "amenidades": [
+    "eum",
+    "voluptas",
+    "odio",
+    "cum"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/39x245",
+    "https://picsum.photos/517/337",
+    "https://picsum.photos/342/846",
+    "https://dummyimage.com/328x392",
+    "https://placekitten.com/715/859"
+  ],
+  "telefono": {
+    "$numberLong": "5127863843"
+  },
+  "correo": "andrealoya@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5ff5"
+  },
+  "nombre": "Industrias Pérez y Monroy",
+  "ubicación": {
+    "pais": "Estados Unidos",
+    "ciudad": "Nueva York",
+    "calle": "Privada Guerrero",
+    "numero": 5,
+    "CP": 22368,
+    "referencia": "Aliquid ea iure necessitatibus. Culpa molestiae maxime iure eos incidunt similique.",
+    "latitud": 19.169268474128728,
+    "longitud": 91.72896244546126
+  },
+  "categoría": 3,
+  "tipo": "AutoHotel",
+  "checkIn": "12:47:50",
+  "checkout": "16:44:48",
+  "amenidades": [
+    "quas",
+    "totam",
+    "nobis",
+    "aperiam",
+    "nobis",
+    "in",
+    "a",
+    "aliquam",
+    "dolore"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/337x689",
+    "https://dummyimage.com/624x379",
+    "https://picsum.photos/1010/512",
+    "https://dummyimage.com/186x947",
+    "https://placekitten.com/923/192"
+  ],
+  "telefono": {
+    "$numberLong": "2666289688"
+  },
+  "correo": "zamudioisabel@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5ff6"
+  },
+  "nombre": "Grupo Lozada-Leal",
+  "ubicación": {
+    "pais": "Turquía",
+    "ciudad": "Estambul",
+    "calle": "Circunvalación Sur Nieves",
+    "numero": 70,
+    "CP": 87117,
+    "referencia": "Rerum omnis quae ea tenetur natus illum. Mollitia odio tenetur itaque. Deleniti deleniti omnis facilis neque mollitia.",
+    "latitud": -68.15259982537506,
+    "longitud": -26.256145948187907
+  },
+  "categoría": 5,
+  "tipo": "Hostal",
+  "checkIn": "04:56:48",
+  "checkout": "11:09:37",
+  "amenidades": [
+    "nihil",
+    "perferendis",
+    "autem",
+    "dicta",
+    "commodi",
+    "quis",
+    "asperiores",
+    "est"
+  ],
+  "imágenes": [
+    "https://picsum.photos/960/867",
+    "https://picsum.photos/343/477"
+  ],
+  "telefono": {
+    "$numberLong": "3605289197"
+  },
+  "correo": "olivasguadalupe@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5ff7"
+  },
+  "nombre": "Corporacin Guardado-Molina",
+  "ubicación": {
+    "pais": "Singapur",
+    "ciudad": "Singapur",
+    "calle": "Circunvalación Norte Cantú",
+    "numero": 14,
+    "CP": 21599,
+    "referencia": "Temporibus molestiae officiis nam quasi labore tempore sunt.\nRecusandae exercitationem nesciunt doloremque fugiat. Excepturi excepturi sequi tempore. Fuga officiis ab cum veniam dolor repudiandae.",
+    "latitud": -17.05417580163372,
+    "longitud": -10.557065593202452
+  },
+  "categoría": 2,
+  "tipo": "AutoHotel",
+  "checkIn": "18:26:59",
+  "checkout": "12:24:13",
+  "amenidades": [
+    "doloribus",
+    "id",
+    "corporis",
+    "earum",
+    "eos",
+    "provident"
+  ],
+  "imágenes": [
+    "https://picsum.photos/626/297",
+    "https://dummyimage.com/776x145",
+    "https://dummyimage.com/760x755",
+    "https://placekitten.com/583/245",
+    "https://dummyimage.com/388x29"
+  ],
+  "telefono": 307707710,
+  "correo": "solorzanomarco-antonio@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5ff8"
+  },
+  "nombre": "Vega, Burgos y Valencia",
+  "ubicación": {
+    "pais": "Tailandia",
+    "ciudad": "Bangkok",
+    "calle": "Circuito República Centroafricana",
+    "numero": 30,
+    "CP": 96028,
+    "referencia": "Esse ipsam possimus dolorum. Consectetur quos exercitationem ea animi ex quibusdam.\nNostrum beatae dolorem quo assumenda dicta voluptas. Soluta iusto nemo at animi iste. Optio quidem assumenda aut.",
+    "latitud": 63.09491078551201,
+    "longitud": -115.31076328450294
+  },
+  "categoría": 1,
+  "tipo": "Resort",
+  "checkIn": "00:43:51",
+  "checkout": "13:30:49",
+  "amenidades": [
+    "aperiam",
+    "omnis",
+    "iusto",
+    "nemo",
+    "aut",
+    "atque"
+  ],
+  "imágenes": [
+    "https://placekitten.com/518/233"
+  ],
+  "telefono": {
+    "$numberLong": "5901842696"
+  },
+  "correo": "rosaadame@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5ff9"
+  },
+  "nombre": "Alcaraz y Varela S.A.",
+  "ubicación": {
+    "pais": "Francia",
+    "ciudad": "París",
+    "calle": "Diagonal Norte Collado",
+    "numero": 47,
+    "CP": 83328,
+    "referencia": "Commodi nostrum provident.\nEveniet modi aperiam quisquam corrupti temporibus voluptas. Odio sequi eligendi. Deleniti expedita modi praesentium illo vitae.",
+    "latitud": 20.43172492147326,
+    "longitud": 25.1628481749361
+  },
+  "categoría": 4,
+  "tipo": "Hotel",
+  "checkIn": "12:47:35",
+  "checkout": "05:24:06",
+  "amenidades": [
+    "vitae",
+    "quam",
+    "labore",
+    "unde",
+    "laborum",
+    "quis"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/930x380",
+    "https://dummyimage.com/739x354",
+    "https://picsum.photos/978/553"
+  ],
+  "telefono": {
+    "$numberLong": "8626282935"
+  },
+  "correo": "zcarmona@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5ffa"
+  },
+  "nombre": "Rivas, Valdez y Benítez",
+  "ubicación": {
+    "pais": "Tailandia",
+    "ciudad": "Bangkok",
+    "calle": "Retorno Rumania",
+    "numero": 51,
+    "CP": 17172,
+    "referencia": "Accusamus corporis adipisci eius totam ut cumque exercitationem. Esse eius quisquam deserunt repellendus quos nemo.\nLaudantium enim rem labore. Quibusdam aliquid vel fuga cum doloribus.",
+    "latitud": 51.31284904053655,
+    "longitud": 5.097917170448341
+  },
+  "categoría": 3,
+  "tipo": "AutoHotel",
+  "checkIn": "14:46:29",
+  "checkout": "16:16:25",
+  "amenidades": [
+    "natus",
+    "soluta",
+    "cum",
+    "reprehenderit",
+    "nisi",
+    "consectetur"
+  ],
+  "imágenes": [
+    "https://placekitten.com/517/414",
+    "https://picsum.photos/5/621",
+    "https://placekitten.com/206/387"
+  ],
+  "telefono": {
+    "$numberLong": "9259966246"
+  },
+  "correo": "lucas89@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5ffb"
+  },
+  "nombre": "Industrias Ortega y Riojas",
+  "ubicación": {
+    "pais": "Emiratos Árabes Unidos",
+    "ciudad": "Dubái",
+    "calle": "Peatonal Tabasco",
+    "numero": 79,
+    "CP": 22411,
+    "referencia": "Excepturi velit laborum rerum ipsam dolorum ratione. Quaerat eaque saepe similique excepturi accusantium natus. Magnam odit temporibus voluptate expedita modi dolores.",
+    "latitud": -71.82186274977818,
+    "longitud": 38.49801860051679
+  },
+  "categoría": 4,
+  "tipo": "Resort",
+  "checkIn": "18:50:35",
+  "checkout": "17:41:06",
+  "amenidades": [
+    "nam",
+    "repudiandae",
+    "ab"
+  ],
+  "imágenes": [
+    "https://picsum.photos/484/937"
+  ],
+  "telefono": {
+    "$numberLong": "6567793355"
+  },
+  "correo": "xcastro@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5ffc"
+  },
+  "nombre": "Centeno y Sauceda y Asociados",
+  "ubicación": {
+    "pais": "Reino Unido",
+    "ciudad": "Londres",
+    "calle": "Circunvalación Arenas",
+    "numero": 22,
+    "CP": 48424,
+    "referencia": "Iusto temporibus perspiciatis necessitatibus corporis. Error ea ex natus odio possimus eum modi.",
+    "latitud": -25.33488494762885,
+    "longitud": 172.92180922278982
+  },
+  "categoría": 3,
+  "tipo": "Motel",
+  "checkIn": "04:09:11",
+  "checkout": "22:09:57",
+  "amenidades": [
+    "laudantium",
+    "possimus",
+    "iste",
+    "porro",
+    "eum"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/679x925"
+  ],
+  "telefono": {
+    "$numberLong": "8765644794"
+  },
+  "correo": "juana45@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5ffd"
+  },
+  "nombre": "Romero, Urbina y Zamora",
+  "ubicación": {
+    "pais": "Estados Unidos",
+    "ciudad": "Nueva York",
+    "calle": "Avenida Nayarit",
+    "numero": 69,
+    "CP": 41940,
+    "referencia": "Dolore ipsa incidunt deserunt itaque. Ipsum odit ullam necessitatibus eum fugiat. Eaque laboriosam hic ipsam.\nConsequuntur quo quos molestiae non aliquid nihil. Aspernatur provident dolor eaque quos.",
+    "latitud": 2.382091252972401,
+    "longitud": -88.46381525987961
+  },
+  "categoría": 1,
+  "tipo": "Hostal",
+  "checkIn": "04:48:26",
+  "checkout": "22:29:40",
+  "amenidades": [
+    "in",
+    "ipsa",
+    "corrupti",
+    "voluptatem",
+    "ex",
+    "repellendus",
+    "tempore",
+    "tempore"
+  ],
+  "imágenes": [
+    "https://placekitten.com/34/629",
+    "https://placekitten.com/501/256",
+    "https://placekitten.com/13/708",
+    "https://placekitten.com/947/799",
+    "https://picsum.photos/673/1022"
+  ],
+  "telefono": {
+    "$numberLong": "8295575228"
+  },
+  "correo": "ohidalgo@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5ffe"
+  },
+  "nombre": "Club Lira, Orta y Vergara",
+  "ubicación": {
+    "pais": "Reino Unido",
+    "ciudad": "Londres",
+    "calle": "Continuación Quintana Roo",
+    "numero": 6,
+    "CP": 26348,
+    "referencia": "Quas velit similique doloribus vel rem.\nCorporis possimus id cum repudiandae distinctio. Distinctio in est consectetur. Sunt ad ipsam est nobis.",
+    "latitud": -24.740799788917414,
+    "longitud": -13.97142252710674
+  },
+  "categoría": 2,
+  "tipo": "Hostal",
+  "checkIn": "14:03:48",
+  "checkout": "08:06:42",
+  "amenidades": [
+    "reprehenderit",
+    "ullam",
+    "molestias"
+  ],
+  "imágenes": [
+    "https://picsum.photos/162/71",
+    "https://picsum.photos/347/448",
+    "https://dummyimage.com/714x1008",
+    "https://dummyimage.com/904x269",
+    "https://placekitten.com/136/575"
+  ],
+  "telefono": {
+    "$numberLong": "6694794366"
+  },
+  "correo": "cristal97@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f5fff"
+  },
+  "nombre": "Industrias Henríquez y Verduzco",
+  "ubicación": {
+    "pais": "Malasia",
+    "ciudad": "Kuala Lumpur",
+    "calle": "Calzada de Anda",
+    "numero": 63,
+    "CP": 22665,
+    "referencia": "Facere corrupti debitis iure.\nLaudantium tenetur dicta a commodi temporibus repellat. Eaque a maiores fugiat molestias.",
+    "latitud": 10.347214998000865,
+    "longitud": 30.275379540478667
+  },
+  "categoría": 5,
+  "tipo": "Motel",
+  "checkIn": "10:52:31",
+  "checkout": "11:19:09",
+  "amenidades": [
+    "fugiat",
+    "omnis",
+    "delectus",
+    "cumque",
+    "mollitia",
+    "commodi",
+    "illum",
+    "necessitatibus"
+  ],
+  "imágenes": [
+    "https://picsum.photos/61/262",
+    "https://picsum.photos/113/525"
+  ],
+  "telefono": {
+    "$numberLong": "9494960397"
+  },
+  "correo": "cnino@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6000"
+  },
+  "nombre": "Grupo Cornejo, Alcala y Romo",
+  "ubicación": {
+    "pais": "Corea del Sur",
+    "ciudad": "Seúl",
+    "calle": "Peatonal Honduras",
+    "numero": 16,
+    "CP": 59790,
+    "referencia": "Incidunt atque quia facere consequatur quos. Hic vitae vel officia rerum. Explicabo repellendus incidunt veniam.",
+    "latitud": 21.822237315290238,
+    "longitud": -134.98882598890765
+  },
+  "categoría": 2,
+  "tipo": "Hostal",
+  "checkIn": "09:19:52",
+  "checkout": "07:12:24",
+  "amenidades": [
+    "explicabo",
+    "eum",
+    "impedit"
+  ],
+  "imágenes": [
+    "https://picsum.photos/253/365",
+    "https://placekitten.com/377/588"
+  ],
+  "telefono": 2107992807,
+  "correo": "bernardo16@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6001"
+  },
+  "nombre": "Laboratorios Sanabria y del Valle",
+  "ubicación": {
+    "pais": "Turquía",
+    "ciudad": "Estambul",
+    "calle": "Boulevard Jaime",
+    "numero": 4,
+    "CP": 67860,
+    "referencia": "Accusamus porro officia natus libero quibusdam totam nihil. Distinctio totam dolorum deleniti est autem.",
+    "latitud": -87.20247312435093,
+    "longitud": 121.9234056371053
+  },
+  "categoría": 3,
+  "tipo": "Resort",
+  "checkIn": "15:23:22",
+  "checkout": "04:44:01",
+  "amenidades": [
+    "distinctio",
+    "esse",
+    "atque",
+    "quasi",
+    "consectetur"
+  ],
+  "imágenes": [
+    "https://placekitten.com/980/603"
+  ],
+  "telefono": {
+    "$numberLong": "7933472320"
+  },
+  "correo": "casillasesperanza@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6002"
+  },
+  "nombre": "Pichardo-Ponce",
+  "ubicación": {
+    "pais": "Emiratos Árabes Unidos",
+    "ciudad": "Dubái",
+    "calle": "Circuito Nauru",
+    "numero": 61,
+    "CP": 67112,
+    "referencia": "Excepturi magnam hic maiores.\nQuidem necessitatibus iure assumenda voluptatem sint facilis. Ducimus maxime praesentium. Quam incidunt ipsam nisi porro deserunt. Occaecati minima voluptatibus.",
+    "latitud": -9.108580461756972,
+    "longitud": -163.8040945175871
+  },
+  "categoría": 1,
+  "tipo": "Hotel",
+  "checkIn": "14:39:35",
+  "checkout": "10:18:46",
+  "amenidades": [
+    "cumque",
+    "consequatur",
+    "ducimus",
+    "officiis",
+    "minima",
+    "perferendis",
+    "eaque",
+    "quisquam",
+    "hic"
+  ],
+  "imágenes": [
+    "https://picsum.photos/953/867",
+    "https://placekitten.com/914/987"
+  ],
+  "telefono": {
+    "$numberLong": "6803992964"
+  },
+  "correo": "joaquinsantiago@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6003"
+  },
+  "nombre": "Despacho Montoya-Montero",
+  "ubicación": {
+    "pais": "Malasia",
+    "ciudad": "Kuala Lumpur",
+    "calle": "Privada Fernández",
+    "numero": 68,
+    "CP": 77998,
+    "referencia": "Similique omnis sint minima aliquid. Repellendus quas similique. Culpa cum ducimus iure.",
+    "latitud": -89.44029065051956,
+    "longitud": -41.92706869183442
+  },
+  "categoría": 4,
+  "tipo": "Resort",
+  "checkIn": "06:05:58",
+  "checkout": "14:27:10",
+  "amenidades": [
+    "non",
+    "odit",
+    "eaque",
+    "maxime",
+    "numquam",
+    "nostrum",
+    "temporibus",
+    "nisi",
+    "assumenda",
+    "culpa"
+  ],
+  "imágenes": [
+    "https://picsum.photos/40/732",
+    "https://picsum.photos/574/804",
+    "https://placekitten.com/386/559",
+    "https://picsum.photos/632/128",
+    "https://placekitten.com/585/506"
+  ],
+  "telefono": {
+    "$numberLong": "2340088152"
+  },
+  "correo": "pascual86@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6004"
+  },
+  "nombre": "Grupo Ibarra-Delgadillo",
+  "ubicación": {
+    "pais": "Malasia",
+    "ciudad": "Kuala Lumpur",
+    "calle": "Retorno Etiopía",
+    "numero": 95,
+    "CP": 17025,
+    "referencia": "Nulla dolorem quidem tenetur. Impedit impedit possimus voluptate ea consequuntur et.\nCum reiciendis architecto magni facere occaecati deserunt voluptatibus.",
+    "latitud": 17.284525570270603,
+    "longitud": -68.3471365655959
+  },
+  "categoría": 4,
+  "tipo": "Hostal",
+  "checkIn": "17:16:35",
+  "checkout": "23:35:15",
+  "amenidades": [
+    "ut",
+    "et",
+    "architecto",
+    "doloribus",
+    "nam"
+  ],
+  "imágenes": [
+    "https://placekitten.com/303/597"
+  ],
+  "telefono": {
+    "$numberLong": "5915096503"
+  },
+  "correo": "omarguerra@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6005"
+  },
+  "nombre": "Téllez, Rodarte y Casas",
+  "ubicación": {
+    "pais": "Emiratos Árabes Unidos",
+    "ciudad": "Dubái",
+    "calle": "Calle México",
+    "numero": 30,
+    "CP": 35983,
+    "referencia": "Occaecati odio totam similique nulla. Laboriosam fuga dolor delectus tempora magni.",
+    "latitud": 70.30924934719448,
+    "longitud": -170.30146404370345
+  },
+  "categoría": 1,
+  "tipo": "Hostal",
+  "checkIn": "18:35:09",
+  "checkout": "07:37:20",
+  "amenidades": [
+    "animi",
+    "consequuntur",
+    "fugiat",
+    "illum",
+    "eveniet",
+    "deserunt",
+    "soluta",
+    "suscipit",
+    "possimus"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/970x438",
+    "https://placekitten.com/862/367"
+  ],
+  "telefono": {
+    "$numberLong": "3644053109"
+  },
+  "correo": "bpedroza@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6006"
+  },
+  "nombre": "Alva y Olivera A.C.",
+  "ubicación": {
+    "pais": "Francia",
+    "ciudad": "París",
+    "calle": "Calle Georgia",
+    "numero": 35,
+    "CP": 53226,
+    "referencia": "Quasi nesciunt sit velit laudantium mollitia.\nCorporis sapiente consequatur dolore. Mollitia molestiae hic. Modi tempora autem odio ipsum est expedita.",
+    "latitud": -17.077150008457906,
+    "longitud": 121.65901313008294
+  },
+  "categoría": 1,
+  "tipo": "Motel",
+  "checkIn": "11:11:32",
+  "checkout": "18:18:55",
+  "amenidades": [
+    "incidunt",
+    "atque",
+    "ipsam",
+    "voluptas",
+    "repellendus"
+  ],
+  "imágenes": [
+    "https://placekitten.com/158/1005",
+    "https://picsum.photos/191/94",
+    "https://picsum.photos/501/400"
+  ],
+  "telefono": {
+    "$numberLong": "2681570319"
+  },
+  "correo": "pabonmayte@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6007"
+  },
+  "nombre": "Correa-Chacón S.A. de C.V.",
+  "ubicación": {
+    "pais": "Turquía",
+    "ciudad": "Estambul",
+    "calle": "Periférico Tlaxcala",
+    "numero": 89,
+    "CP": 98279,
+    "referencia": "Quis hic voluptates quasi beatae quasi doloribus fuga. Nihil architecto deleniti excepturi molestias cumque odit. Debitis vel illum atque maiores omnis voluptatem. Voluptatum soluta voluptatibus.",
+    "latitud": 74.92851785020343,
+    "longitud": 17.862178650201173
+  },
+  "categoría": 3,
+  "tipo": "Hotel",
+  "checkIn": "21:02:57",
+  "checkout": "10:04:32",
+  "amenidades": [
+    "vel",
+    "nisi",
+    "velit",
+    "adipisci",
+    "dolor",
+    "quia",
+    "itaque",
+    "adipisci",
+    "dolores"
+  ],
+  "imágenes": [
+    "https://placekitten.com/366/949",
+    "https://picsum.photos/904/845",
+    "https://picsum.photos/440/329"
+  ],
+  "telefono": {
+    "$numberLong": "2737913168"
+  },
+  "correo": "rloya@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6008"
+  },
+  "nombre": "Proyectos Noriega-Quesada",
+  "ubicación": {
+    "pais": "Japón",
+    "ciudad": "Tokio",
+    "calle": "Circunvalación Sur Godínez",
+    "numero": 67,
+    "CP": 67073,
+    "referencia": "Blanditiis quo reiciendis accusantium. Id corporis vero laboriosam labore nisi.\nNeque consequatur dolor sed. Velit sed reprehenderit expedita.",
+    "latitud": 80.72371608357403,
+    "longitud": 6.604073539089285
+  },
+  "categoría": 4,
+  "tipo": "Hotel",
+  "checkIn": "05:16:55",
+  "checkout": "09:09:00",
+  "amenidades": [
+    "odit",
+    "ullam",
+    "corrupti"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/305x154",
+    "https://dummyimage.com/688x670",
+    "https://dummyimage.com/832x640",
+    "https://dummyimage.com/341x48"
+  ],
+  "telefono": {
+    "$numberLong": "4043554864"
+  },
+  "correo": "debora09@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6009"
+  },
+  "nombre": "Esquibel A.C.",
+  "ubicación": {
+    "pais": "Japón",
+    "ciudad": "Tokio",
+    "calle": "Cerrada Sisneros",
+    "numero": 37,
+    "CP": 42883,
+    "referencia": "Quasi repellendus vel autem error officia cupiditate quas. Repudiandae doloremque tenetur vero modi corrupti ex.\nIste illo culpa eius. Adipisci dolorum fuga id sequi nobis sint.",
+    "latitud": 68.89435800704155,
+    "longitud": -18.537864445146482
+  },
+  "categoría": 5,
+  "tipo": "Hostal",
+  "checkIn": "12:37:59",
+  "checkout": "15:59:59",
+  "amenidades": [
+    "expedita",
+    "laudantium",
+    "ipsam",
+    "qui",
+    "eum",
+    "libero",
+    "iure",
+    "fugiat",
+    "sint",
+    "incidunt"
+  ],
+  "imágenes": [
+    "https://picsum.photos/144/758",
+    "https://picsum.photos/898/457"
+  ],
+  "telefono": {
+    "$numberLong": "3912006648"
+  },
+  "correo": "perlanazario@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f600a"
+  },
+  "nombre": "Abreu-Guardado A.C.",
+  "ubicación": {
+    "pais": "Tailandia",
+    "ciudad": "Bangkok",
+    "calle": "Prolongación Saint Kitts y Nevis",
+    "numero": 62,
+    "CP": 35244,
+    "referencia": "Quos laboriosam libero odio illo similique. Temporibus sint tenetur exercitationem in quod. Voluptatum ea repudiandae excepturi nostrum consequatur doloremque.",
+    "latitud": 54.57636564050509,
+    "longitud": 44.60573021541555
+  },
+  "categoría": 3,
+  "tipo": "AutoHotel",
+  "checkIn": "18:13:39",
+  "checkout": "03:23:24",
+  "amenidades": [
+    "sit",
+    "itaque",
+    "architecto",
+    "iste",
+    "porro",
+    "eius",
+    "debitis"
+  ],
+  "imágenes": [
+    "https://picsum.photos/659/419",
+    "https://picsum.photos/89/911",
+    "https://picsum.photos/529/775",
+    "https://picsum.photos/720/124",
+    "https://dummyimage.com/916x676"
+  ],
+  "telefono": {
+    "$numberLong": "2771225149"
+  },
+  "correo": "ana-luisa01@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f600b"
+  },
+  "nombre": "Laboratorios Ramírez, Toledo y Haro",
+  "ubicación": {
+    "pais": "Emiratos Árabes Unidos",
+    "ciudad": "Dubái",
+    "calle": "Retorno Pichardo",
+    "numero": 83,
+    "CP": 90309,
+    "referencia": "Repellat aliquam voluptate molestiae illo repellendus. Id soluta deserunt earum amet dicta sequi. Ipsa temporibus odio.",
+    "latitud": 31.00418585326183,
+    "longitud": -148.93519050079365
+  },
+  "categoría": 3,
+  "tipo": "AutoHotel",
+  "checkIn": "16:48:28",
+  "checkout": "05:37:33",
+  "amenidades": [
+    "repellat",
+    "molestias",
+    "assumenda",
+    "similique",
+    "nostrum",
+    "neque",
+    "asperiores",
+    "dignissimos",
+    "tenetur"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/747x833",
+    "https://dummyimage.com/308x381"
+  ],
+  "telefono": {
+    "$numberLong": "3513550632"
+  },
+  "correo": "wlovato@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f600c"
+  },
+  "nombre": "Hernádez y Villa S. R.L. de C.V.",
+  "ubicación": {
+    "pais": "Malasia",
+    "ciudad": "Kuala Lumpur",
+    "calle": "Circuito Chipre",
+    "numero": 81,
+    "CP": 63182,
+    "referencia": "Facere beatae vero. Quae qui nisi quia. Rem totam occaecati blanditiis enim deserunt officia. Dolorem neque ut voluptatibus facere sapiente.",
+    "latitud": 26.27878442479033,
+    "longitud": -7.92728760810806
+  },
+  "categoría": 2,
+  "tipo": "Motel",
+  "checkIn": "06:24:41",
+  "checkout": "01:49:14",
+  "amenidades": [
+    "tenetur",
+    "deserunt",
+    "assumenda"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/180x885",
+    "https://picsum.photos/361/854"
+  ],
+  "telefono": 1580769696,
+  "correo": "borregogonzalo@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f600d"
+  },
+  "nombre": "Despacho Salazar, Escobedo y Villegas",
+  "ubicación": {
+    "pais": "Tailandia",
+    "ciudad": "Bangkok",
+    "calle": "Diagonal Zacatecas",
+    "numero": 51,
+    "CP": 84686,
+    "referencia": "Incidunt sit exercitationem repudiandae iusto. Beatae architecto cumque iusto.\nQuasi possimus ipsam alias adipisci quos asperiores. Praesentium quia corporis voluptas eveniet.",
+    "latitud": -89.10026621647805,
+    "longitud": -77.0377826724113
+  },
+  "categoría": 5,
+  "tipo": "AutoHotel",
+  "checkIn": "12:37:54",
+  "checkout": "08:51:32",
+  "amenidades": [
+    "perferendis",
+    "blanditiis",
+    "dicta",
+    "consequatur"
+  ],
+  "imágenes": [
+    "https://picsum.photos/134/255",
+    "https://dummyimage.com/274x414",
+    "https://dummyimage.com/360x731",
+    "https://placekitten.com/1/480"
+  ],
+  "telefono": {
+    "$numberLong": "2296139285"
+  },
+  "correo": "ana-mariacervantes@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f600e"
+  },
+  "nombre": "Corporacin Casanova, Mesa y Badillo",
+  "ubicación": {
+    "pais": "Corea del Sur",
+    "ciudad": "Seúl",
+    "calle": "Andador Italia",
+    "numero": 83,
+    "CP": 72982,
+    "referencia": "Sit veniam error eligendi aut hic. Unde praesentium facere sint accusamus inventore. Asperiores pariatur a repellat odio eveniet tempora inventore.",
+    "latitud": -69.39162303132089,
+    "longitud": -10.846094906055015
+  },
+  "categoría": 1,
+  "tipo": "Motel",
+  "checkIn": "03:13:12",
+  "checkout": "17:38:09",
+  "amenidades": [
+    "voluptate",
+    "reprehenderit",
+    "inventore",
+    "a",
+    "commodi",
+    "facere",
+    "sequi",
+    "sapiente"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/202x944",
+    "https://dummyimage.com/283x847",
+    "https://placekitten.com/445/941",
+    "https://placekitten.com/860/182",
+    "https://placekitten.com/32/789"
+  ],
+  "telefono": {
+    "$numberLong": "6747264077"
+  },
+  "correo": "jaqueline14@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f600f"
+  },
+  "nombre": "Laboratorios Bernal, Altamirano y Olivárez",
+  "ubicación": {
+    "pais": "Emiratos Árabes Unidos",
+    "ciudad": "Dubái",
+    "calle": "Privada Cavazos",
+    "numero": 47,
+    "CP": 53222,
+    "referencia": "Sint repellendus sed veritatis. Consectetur velit veniam quod facere. Eligendi recusandae laudantium et doloremque illum.\nCupiditate ex labore. Cupiditate impedit quisquam harum.",
+    "latitud": -55.719229846433585,
+    "longitud": -173.25798734135563
+  },
+  "categoría": 1,
+  "tipo": "Motel",
+  "checkIn": "00:16:15",
+  "checkout": "06:48:05",
+  "amenidades": [
+    "accusamus",
+    "officia",
+    "quia",
+    "veniam",
+    "nemo"
+  ],
+  "imágenes": [
+    "https://placekitten.com/1015/954",
+    "https://dummyimage.com/410x832"
+  ],
+  "telefono": {
+    "$numberLong": "5722804069"
+  },
+  "correo": "floressusana@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6010"
+  },
+  "nombre": "Robles-Brito e Hijos",
+  "ubicación": {
+    "pais": "Japón",
+    "ciudad": "Tokio",
+    "calle": "Corredor Sur Ríos",
+    "numero": 52,
+    "CP": 14488,
+    "referencia": "Sapiente molestiae iure culpa. Corporis error vel modi. Sapiente esse vero distinctio debitis perferendis.",
+    "latitud": -31.73150707796814,
+    "longitud": -155.69677079744656
+  },
+  "categoría": 1,
+  "tipo": "Hotel",
+  "checkIn": "06:12:40",
+  "checkout": "20:51:29",
+  "amenidades": [
+    "impedit",
+    "harum",
+    "corrupti",
+    "suscipit",
+    "non"
+  ],
+  "imágenes": [
+    "https://picsum.photos/341/179",
+    "https://dummyimage.com/461x180"
+  ],
+  "telefono": {
+    "$numberLong": "4967204678"
+  },
+  "correo": "benito86@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6011"
+  },
+  "nombre": "Urías y Ledesma S.C.",
+  "ubicación": {
+    "pais": "Francia",
+    "ciudad": "París",
+    "calle": "Retorno Israel",
+    "numero": 41,
+    "CP": 91946,
+    "referencia": "Nemo veniam voluptates minima. Non quidem placeat magnam molestiae assumenda.",
+    "latitud": -73.12026997972305,
+    "longitud": 59.77887205530706
+  },
+  "categoría": 3,
+  "tipo": "Motel",
+  "checkIn": "17:36:02",
+  "checkout": "10:22:56",
+  "amenidades": [
+    "nesciunt",
+    "molestias",
+    "culpa",
+    "voluptate",
+    "error"
+  ],
+  "imágenes": [
+    "https://picsum.photos/320/135",
+    "https://dummyimage.com/708x600",
+    "https://dummyimage.com/368x659"
+  ],
+  "telefono": {
+    "$numberLong": "4843719367"
+  },
+  "correo": "eloyfeliciano@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6012"
+  },
+  "nombre": "Alcaraz-Holguín",
+  "ubicación": {
+    "pais": "Singapur",
+    "ciudad": "Singapur",
+    "calle": "Privada Norte Fuentes",
+    "numero": 23,
+    "CP": 86066,
+    "referencia": "Tenetur iure a doloremque ratione. Nesciunt nobis aliquid tempora voluptatibus temporibus vitae.\nVero suscipit debitis commodi. Minima quisquam sunt.",
+    "latitud": 15.344855802571828,
+    "longitud": 158.14240667050262
+  },
+  "categoría": 2,
+  "tipo": "Hostal",
+  "checkIn": "12:01:33",
+  "checkout": "06:17:55",
+  "amenidades": [
+    "deserunt",
+    "quia",
+    "officia",
+    "iure",
+    "nihil",
+    "dolor",
+    "ipsum",
+    "perspiciatis",
+    "repellendus",
+    "distinctio"
+  ],
+  "imágenes": [
+    "https://picsum.photos/308/121",
+    "https://picsum.photos/159/599",
+    "https://placekitten.com/744/542",
+    "https://placekitten.com/683/157"
+  ],
+  "telefono": {
+    "$numberLong": "5664512479"
+  },
+  "correo": "enrique41@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6013"
+  },
+  "nombre": "Espinosa-Serrano S.A. de C.V.",
+  "ubicación": {
+    "pais": "Estados Unidos",
+    "ciudad": "Nueva York",
+    "calle": "Boulevard Miranda",
+    "numero": 25,
+    "CP": 58182,
+    "referencia": "Autem impedit tenetur ullam cupiditate aliquam et. Dicta magni repudiandae numquam.\nQuaerat veritatis alias veniam. Nam quas expedita officia ullam.",
+    "latitud": -66.15178133759582,
+    "longitud": 104.5975145715347
+  },
+  "categoría": 4,
+  "tipo": "Hotel",
+  "checkIn": "22:52:35",
+  "checkout": "02:53:50",
+  "amenidades": [
+    "ducimus",
+    "sint",
+    "itaque",
+    "sit",
+    "cumque"
+  ],
+  "imágenes": [
+    "https://placekitten.com/427/724"
+  ],
+  "telefono": {
+    "$numberLong": "4174865654"
+  },
+  "correo": "jose-manuelaguilera@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6014"
+  },
+  "nombre": "Chávez y Valencia S. R.L. de C.V.",
+  "ubicación": {
+    "pais": "Turquía",
+    "ciudad": "Estambul",
+    "calle": "Corredor Ucrania",
+    "numero": 38,
+    "CP": 80953,
+    "referencia": "Voluptates possimus neque iste. Dolor consequatur aut temporibus autem nihil optio.\nDebitis sunt repellendus quaerat ea. Necessitatibus officiis optio at impedit.",
+    "latitud": -8.786515102807797,
+    "longitud": -138.9109511660902
+  },
+  "categoría": 5,
+  "tipo": "Hotel",
+  "checkIn": "18:36:59",
+  "checkout": "12:01:00",
+  "amenidades": [
+    "culpa",
+    "sunt",
+    "reiciendis",
+    "sit",
+    "molestiae",
+    "distinctio",
+    "ipsum",
+    "sunt",
+    "nesciunt",
+    "sapiente"
+  ],
+  "imágenes": [
+    "https://picsum.photos/831/653"
+  ],
+  "telefono": {
+    "$numberLong": "3733829462"
+  },
+  "correo": "wcamarillo@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6015"
+  },
+  "nombre": "Quintero, Terrazas y Alonzo",
+  "ubicación": {
+    "pais": "Japón",
+    "ciudad": "Tokio",
+    "calle": "Corredor Sur Cortez",
+    "numero": 100,
+    "CP": 59591,
+    "referencia": "Possimus illum beatae. Tempore aspernatur nisi pariatur.\nEsse laboriosam harum perferendis. Officiis doloremque similique officia voluptate debitis assumenda dolore.",
+    "latitud": 62.295355674245656,
+    "longitud": 86.71078060600252
+  },
+  "categoría": 3,
+  "tipo": "AutoHotel",
+  "checkIn": "16:34:16",
+  "checkout": "20:49:05",
+  "amenidades": [
+    "similique",
+    "odio",
+    "vero",
+    "suscipit"
+  ],
+  "imágenes": [
+    "https://placekitten.com/839/195",
+    "https://dummyimage.com/511x401",
+    "https://picsum.photos/228/228"
+  ],
+  "telefono": {
+    "$numberLong": "3385258253"
+  },
+  "correo": "cnieves@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6016"
+  },
+  "nombre": "Mojica y Salcedo y Asociados",
+  "ubicación": {
+    "pais": "Singapur",
+    "ciudad": "Singapur",
+    "calle": "Circunvalación Camarillo",
+    "numero": 37,
+    "CP": 67037,
+    "referencia": "Hic porro aperiam incidunt aspernatur eaque. Quis rerum vero inventore cum tempore.\nIn nobis ad. Alias quos iusto laudantium voluptatum exercitationem.",
+    "latitud": -61.571359895984784,
+    "longitud": 21.90073067371543
+  },
+  "categoría": 3,
+  "tipo": "Motel",
+  "checkIn": "18:17:24",
+  "checkout": "20:56:52",
+  "amenidades": [
+    "et",
+    "fugiat",
+    "provident",
+    "beatae",
+    "unde",
+    "sunt",
+    "repudiandae",
+    "veniam",
+    "laudantium"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/563x739",
+    "https://dummyimage.com/609x36"
+  ],
+  "telefono": {
+    "$numberLong": "6202897938"
+  },
+  "correo": "gustavopalomino@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6017"
+  },
+  "nombre": "Bahena, Rendón y Gálvez",
+  "ubicación": {
+    "pais": "Reino Unido",
+    "ciudad": "Londres",
+    "calle": "Cerrada Norte Olivas",
+    "numero": 97,
+    "CP": 60954,
+    "referencia": "Ipsa odio harum a perspiciatis doloribus nihil expedita. A occaecati ea quis ullam. Exercitationem quidem assumenda labore.",
+    "latitud": 32.30474365739457,
+    "longitud": 21.589031561262715
+  },
+  "categoría": 5,
+  "tipo": "AutoHotel",
+  "checkIn": "13:18:42",
+  "checkout": "09:49:37",
+  "amenidades": [
+    "tempora",
+    "non",
+    "itaque",
+    "magni"
+  ],
+  "imágenes": [
+    "https://placekitten.com/643/637"
+  ],
+  "telefono": {
+    "$numberLong": "3381147366"
+  },
+  "correo": "ortizines@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6018"
+  },
+  "nombre": "Jurado-de la O S. R.L. de C.V.",
+  "ubicación": {
+    "pais": "Estados Unidos",
+    "ciudad": "Nueva York",
+    "calle": "Eje vial Feliciano",
+    "numero": 9,
+    "CP": 44219,
+    "referencia": "Porro molestias delectus vitae culpa. Magnam illum dignissimos repudiandae ad veritatis. Expedita aperiam voluptas quae sit laudantium.",
+    "latitud": -21.21663521301255,
+    "longitud": -11.517290273251547
+  },
+  "categoría": 5,
+  "tipo": "Hotel",
+  "checkIn": "01:44:32",
+  "checkout": "12:22:47",
+  "amenidades": [
+    "veritatis",
+    "aspernatur",
+    "placeat",
+    "sint",
+    "laborum",
+    "labore",
+    "corrupti",
+    "deserunt",
+    "ea"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/684x737",
+    "https://placekitten.com/1001/77",
+    "https://dummyimage.com/654x725",
+    "https://placekitten.com/937/123",
+    "https://dummyimage.com/728x184"
+  ],
+  "telefono": {
+    "$numberLong": "2747190541"
+  },
+  "correo": "salvador69@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6019"
+  },
+  "nombre": "Valentín, Cabrera y Ramírez",
+  "ubicación": {
+    "pais": "Francia",
+    "ciudad": "París",
+    "calle": "Corredor Lomeli",
+    "numero": 72,
+    "CP": 76897,
+    "referencia": "Laudantium ipsum ipsum distinctio. Accusamus ipsum atque doloribus ullam aliquid.\nQuos aliquam repellendus pariatur. Autem molestias quaerat officia.",
+    "latitud": 14.885561419125509,
+    "longitud": 111.3809421622833
+  },
+  "categoría": 4,
+  "tipo": "Hotel",
+  "checkIn": "10:11:03",
+  "checkout": "14:37:40",
+  "amenidades": [
+    "aspernatur",
+    "voluptate",
+    "illo"
+  ],
+  "imágenes": [
+    "https://placekitten.com/894/317",
+    "https://placekitten.com/1011/190",
+    "https://dummyimage.com/621x1016",
+    "https://placekitten.com/137/451",
+    "https://dummyimage.com/601x507"
+  ],
+  "telefono": {
+    "$numberLong": "5842543237"
+  },
+  "correo": "rvalencia@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f601a"
+  },
+  "nombre": "González S.C.",
+  "ubicación": {
+    "pais": "Reino Unido",
+    "ciudad": "Londres",
+    "calle": "Periférico Norte Mateo",
+    "numero": 83,
+    "CP": 86335,
+    "referencia": "Voluptatem corporis recusandae magni atque quibusdam. Iure voluptatem vero minima. Quis error quisquam nisi ea.",
+    "latitud": -51.58956766483841,
+    "longitud": -161.4533834983467
+  },
+  "categoría": 3,
+  "tipo": "Motel",
+  "checkIn": "02:57:30",
+  "checkout": "05:36:26",
+  "amenidades": [
+    "deleniti",
+    "nulla",
+    "suscipit",
+    "ea",
+    "illo",
+    "id",
+    "necessitatibus",
+    "perspiciatis"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/698x800",
+    "https://dummyimage.com/821x937",
+    "https://placekitten.com/567/420",
+    "https://dummyimage.com/200x467"
+  ],
+  "telefono": 835029480,
+  "correo": "gustavo67@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f601b"
+  },
+  "nombre": "Grupo Juárez y Sáenz",
+  "ubicación": {
+    "pais": "Emiratos Árabes Unidos",
+    "ciudad": "Dubái",
+    "calle": "Peatonal Sur Salinas",
+    "numero": 25,
+    "CP": 82616,
+    "referencia": "Quam facere aperiam omnis quasi ea ut. Similique unde odio labore quidem laboriosam quod. Et ipsam eius reiciendis nemo atque.\nReiciendis quos dolores. Inventore cumque perspiciatis aperiam.",
+    "latitud": 2.7866233904547784,
+    "longitud": 74.75838793159451
+  },
+  "categoría": 1,
+  "tipo": "Resort",
+  "checkIn": "20:32:53",
+  "checkout": "16:31:09",
+  "amenidades": [
+    "neque",
+    "alias",
+    "sunt",
+    "magnam",
+    "harum",
+    "est",
+    "cum"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/504x50",
+    "https://picsum.photos/491/1018",
+    "https://dummyimage.com/48x120",
+    "https://placekitten.com/753/191"
+  ],
+  "telefono": {
+    "$numberLong": "7539401919"
+  },
+  "correo": "pedrozafelix@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f601c"
+  },
+  "nombre": "Robles, Acevedo y Muro",
+  "ubicación": {
+    "pais": "Malasia",
+    "ciudad": "Kuala Lumpur",
+    "calle": "Ampliación Garibay",
+    "numero": 29,
+    "CP": 50913,
+    "referencia": "Eligendi tempore consequatur et porro nesciunt voluptates aperiam. Fuga fugit porro quia officiis quia dolorum.",
+    "latitud": -15.819193916184943,
+    "longitud": -44.163901677462604
+  },
+  "categoría": 2,
+  "tipo": "AutoHotel",
+  "checkIn": "03:18:21",
+  "checkout": "18:41:34",
+  "amenidades": [
+    "mollitia",
+    "totam",
+    "dolores",
+    "ipsum",
+    "doloremque",
+    "animi",
+    "nostrum",
+    "quisquam",
+    "eum"
+  ],
+  "imágenes": [
+    "https://placekitten.com/342/729",
+    "https://dummyimage.com/1022x137",
+    "https://dummyimage.com/1017x319",
+    "https://placekitten.com/712/461",
+    "https://dummyimage.com/532x789"
+  ],
+  "telefono": {
+    "$numberLong": "4151617029"
+  },
+  "correo": "olivarezivan@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f601d"
+  },
+  "nombre": "Rojo, Quintana y Serrano",
+  "ubicación": {
+    "pais": "Malasia",
+    "ciudad": "Kuala Lumpur",
+    "calle": "Callejón Norte Orozco",
+    "numero": 21,
+    "CP": 25474,
+    "referencia": "Deserunt eos nulla molestiae alias voluptas. Accusamus dignissimos eius quaerat quod cumque earum accusantium.",
+    "latitud": -25.025314578220275,
+    "longitud": -58.3587585056695
+  },
+  "categoría": 3,
+  "tipo": "Hotel",
+  "checkIn": "11:48:16",
+  "checkout": "07:40:33",
+  "amenidades": [
+    "nobis",
+    "et",
+    "incidunt",
+    "sapiente",
+    "dolor",
+    "aut"
+  ],
+  "imágenes": [
+    "https://picsum.photos/938/376",
+    "https://dummyimage.com/982x965",
+    "https://picsum.photos/898/194"
+  ],
+  "telefono": {
+    "$numberLong": "8639341868"
+  },
+  "correo": "malavejorge-luis@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f601e"
+  },
+  "nombre": "Despacho Ortiz-Pichardo",
+  "ubicación": {
+    "pais": "Malasia",
+    "ciudad": "Kuala Lumpur",
+    "calle": "Calzada Fiji",
+    "numero": 10,
+    "CP": 87892,
+    "referencia": "Hic atque delectus. Reiciendis dolor quas aspernatur. Mollitia temporibus porro molestiae natus maiores nostrum.",
+    "latitud": -76.73741574315949,
+    "longitud": 124.0168132350679
+  },
+  "categoría": 5,
+  "tipo": "Hotel",
+  "checkIn": "16:46:51",
+  "checkout": "17:20:44",
+  "amenidades": [
+    "rerum",
+    "quae",
+    "esse"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/715x588",
+    "https://dummyimage.com/198x690"
+  ],
+  "telefono": {
+    "$numberLong": "9757533884"
+  },
+  "correo": "zrojas@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f601f"
+  },
+  "nombre": "Cervántez, Segura y Gaona",
+  "ubicación": {
+    "pais": "Tailandia",
+    "ciudad": "Bangkok",
+    "calle": "Retorno Norte Zamudio",
+    "numero": 50,
+    "CP": 63244,
+    "referencia": "Commodi iure tempore vel laudantium. Vitae soluta atque occaecati. Facilis quod similique dignissimos.\nEligendi veritatis a sit at dignissimos consequuntur.",
+    "latitud": 5.400037562679657,
+    "longitud": 89.3721910111746
+  },
+  "categoría": 3,
+  "tipo": "Motel",
+  "checkIn": "00:36:42",
+  "checkout": "00:07:13",
+  "amenidades": [
+    "voluptate",
+    "fugiat",
+    "ea",
+    "veritatis",
+    "blanditiis",
+    "repellat",
+    "possimus",
+    "sapiente",
+    "fugit"
+  ],
+  "imágenes": [
+    "https://placekitten.com/716/376"
+  ],
+  "telefono": {
+    "$numberLong": "3320785893"
+  },
+  "correo": "havila@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6020"
+  },
+  "nombre": "Grupo Heredia-Villagómez",
+  "ubicación": {
+    "pais": "Tailandia",
+    "ciudad": "Bangkok",
+    "calle": "Circuito Irán",
+    "numero": 69,
+    "CP": 92314,
+    "referencia": "Pariatur iusto nemo magni facere. Incidunt fuga temporibus nam quo corporis delectus. Porro delectus animi numquam optio.",
+    "latitud": -75.68182043797452,
+    "longitud": 113.97868396490702
+  },
+  "categoría": 2,
+  "tipo": "Hotel",
+  "checkIn": "17:10:33",
+  "checkout": "19:10:36",
+  "amenidades": [
+    "soluta",
+    "magni",
+    "ab",
+    "distinctio",
+    "qui",
+    "vel",
+    "animi",
+    "repellat",
+    "debitis",
+    "at"
+  ],
+  "imágenes": [
+    "https://placekitten.com/963/538",
+    "https://placekitten.com/611/222"
+  ],
+  "telefono": {
+    "$numberLong": "9807667698"
+  },
+  "correo": "wortega@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6021"
+  },
+  "nombre": "Chavarría, Gamez y Rodrígez",
+  "ubicación": {
+    "pais": "Francia",
+    "ciudad": "París",
+    "calle": "Peatonal Palomino",
+    "numero": 77,
+    "CP": 54284,
+    "referencia": "Similique consequuntur voluptas aliquam. Labore atque occaecati neque eius.\nCorrupti expedita nobis perspiciatis porro inventore. Expedita corporis recusandae enim soluta saepe debitis.",
+    "latitud": -38.28024385017943,
+    "longitud": 13.959013508218192
+  },
+  "categoría": 3,
+  "tipo": "Hostal",
+  "checkIn": "13:18:29",
+  "checkout": "15:42:01",
+  "amenidades": [
+    "reiciendis",
+    "qui",
+    "amet",
+    "eius",
+    "animi",
+    "aliquam",
+    "maiores"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/217x215"
+  ],
+  "telefono": {
+    "$numberLong": "7736364670"
+  },
+  "correo": "ymedina@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6022"
+  },
+  "nombre": "Balderas y Asociados",
+  "ubicación": {
+    "pais": "Estados Unidos",
+    "ciudad": "Nueva York",
+    "calle": "Retorno República Federal Democrática de Nepal",
+    "numero": 17,
+    "CP": 87151,
+    "referencia": "Harum quos voluptates veniam eum. Sunt ipsa autem qui. Dolorem illum ipsa illo nostrum.\nAtque nemo nobis doloribus ducimus et quia. Et magni placeat facilis.",
+    "latitud": 24.08901373892934,
+    "longitud": -163.46788784473043
+  },
+  "categoría": 3,
+  "tipo": "Hostal",
+  "checkIn": "10:20:10",
+  "checkout": "10:40:45",
+  "amenidades": [
+    "autem",
+    "unde",
+    "non",
+    "illum",
+    "minima",
+    "fugit",
+    "modi"
+  ],
+  "imágenes": [
+    "https://picsum.photos/578/22",
+    "https://picsum.photos/306/837",
+    "https://dummyimage.com/571x813",
+    "https://picsum.photos/724/1021"
+  ],
+  "telefono": {
+    "$numberLong": "4177166592"
+  },
+  "correo": "ilsenazario@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6023"
+  },
+  "nombre": "Despacho del Valle y Sarabia",
+  "ubicación": {
+    "pais": "Emiratos Árabes Unidos",
+    "ciudad": "Dubái",
+    "calle": "Callejón Barraza",
+    "numero": 7,
+    "CP": 93317,
+    "referencia": "Cum illo sint quia totam dolorem.\nSimilique esse sapiente quisquam placeat eius nulla officia. Fugit magnam illum adipisci.",
+    "latitud": -41.40662527877601,
+    "longitud": 102.28541767886179
+  },
+  "categoría": 2,
+  "tipo": "Resort",
+  "checkIn": "08:17:18",
+  "checkout": "10:43:07",
+  "amenidades": [
+    "sequi",
+    "inventore",
+    "rem",
+    "expedita"
+  ],
+  "imágenes": [
+    "https://picsum.photos/675/127"
+  ],
+  "telefono": {
+    "$numberLong": "6064482105"
+  },
+  "correo": "ndelgado@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6024"
+  },
+  "nombre": "Trejo, Velasco y Rangel",
+  "ubicación": {
+    "pais": "Malasia",
+    "ciudad": "Kuala Lumpur",
+    "calle": "Retorno Norte Cadena",
+    "numero": 88,
+    "CP": 22456,
+    "referencia": "Temporibus incidunt esse ipsum. Tempora unde asperiores officiis minima nisi. Magnam veniam ullam eaque. Aspernatur a eligendi nobis.\nRepellat voluptatum laborum.",
+    "latitud": 56.15721558922729,
+    "longitud": -43.191398718887314
+  },
+  "categoría": 2,
+  "tipo": "Resort",
+  "checkIn": "22:41:54",
+  "checkout": "22:36:28",
+  "amenidades": [
+    "corrupti",
+    "excepturi",
+    "a",
+    "eius",
+    "ex",
+    "cupiditate"
+  ],
+  "imágenes": [
+    "https://placekitten.com/166/942"
+  ],
+  "telefono": {
+    "$numberLong": "9041735709"
+  },
+  "correo": "nataliaorellana@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6025"
+  },
+  "nombre": "Industrias Laureano-Cardenas",
+  "ubicación": {
+    "pais": "Francia",
+    "ciudad": "París",
+    "calle": "Diagonal Sudán",
+    "numero": 55,
+    "CP": 95385,
+    "referencia": "Dolores ratione ipsam ut libero. Recusandae non quo blanditiis veniam fuga magnam. Porro iusto vero soluta possimus.",
+    "latitud": -31.540970593059136,
+    "longitud": 42.05890440767078
+  },
+  "categoría": 3,
+  "tipo": "AutoHotel",
+  "checkIn": "06:47:57",
+  "checkout": "03:21:48",
+  "amenidades": [
+    "odio",
+    "facilis",
+    "ex",
+    "quasi",
+    "natus",
+    "reprehenderit",
+    "deleniti"
+  ],
+  "imágenes": [
+    "https://picsum.photos/972/419",
+    "https://dummyimage.com/644x482"
+  ],
+  "telefono": {
+    "$numberLong": "8905222676"
+  },
+  "correo": "baezarturo@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6026"
+  },
+  "nombre": "Ávalos, Avilés y Barajas",
+  "ubicación": {
+    "pais": "Estados Unidos",
+    "ciudad": "Nueva York",
+    "calle": "Calzada Durango",
+    "numero": 54,
+    "CP": 17513,
+    "referencia": "Porro expedita saepe perferendis tenetur possimus nihil esse. Eum dicta ea. Suscipit suscipit iusto possimus. Nihil qui fugiat.",
+    "latitud": 12.664788874491407,
+    "longitud": -43.59143662009146
+  },
+  "categoría": 2,
+  "tipo": "Hotel",
+  "checkIn": "10:48:05",
+  "checkout": "08:13:30",
+  "amenidades": [
+    "reprehenderit",
+    "iste",
+    "provident",
+    "esse",
+    "occaecati",
+    "alias",
+    "tempora"
+  ],
+  "imágenes": [
+    "https://placekitten.com/1000/1009",
+    "https://placekitten.com/627/631",
+    "https://picsum.photos/106/658"
+  ],
+  "telefono": {
+    "$numberLong": "6557979184"
+  },
+  "correo": "ignacio60@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6027"
+  },
+  "nombre": "Reyes S. R.L. de C.V.",
+  "ubicación": {
+    "pais": "Reino Unido",
+    "ciudad": "Londres",
+    "calle": "Privada Veracruz de Ignacio de la Llave",
+    "numero": 46,
+    "CP": 52616,
+    "referencia": "Adipisci dicta eius omnis exercitationem dolorum quis. Molestiae delectus cupiditate maxime iste suscipit mollitia. Facilis cum blanditiis excepturi sit velit maxime.",
+    "latitud": 77.18903271443202,
+    "longitud": -55.65687161292894
+  },
+  "categoría": 5,
+  "tipo": "Hostal",
+  "checkIn": "23:23:11",
+  "checkout": "22:29:52",
+  "amenidades": [
+    "aliquid",
+    "molestias",
+    "qui",
+    "earum",
+    "fugiat"
+  ],
+  "imágenes": [
+    "https://picsum.photos/589/8",
+    "https://placekitten.com/182/221",
+    "https://dummyimage.com/799x728",
+    "https://placekitten.com/35/126"
+  ],
+  "telefono": {
+    "$numberLong": "3364444340"
+  },
+  "correo": "pserrano@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6028"
+  },
+  "nombre": "Lovato-Cavazos y Asociados",
+  "ubicación": {
+    "pais": "Turquía",
+    "ciudad": "Estambul",
+    "calle": "Prolongación Zacatecas",
+    "numero": 60,
+    "CP": 98735,
+    "referencia": "Autem molestias doloribus saepe aspernatur libero autem non. Odio doloribus aut explicabo quos. Quia officia voluptates accusantium fugiat placeat natus.",
+    "latitud": -22.337385992670676,
+    "longitud": 123.65485902036784
+  },
+  "categoría": 2,
+  "tipo": "Motel",
+  "checkIn": "07:52:28",
+  "checkout": "21:42:31",
+  "amenidades": [
+    "architecto",
+    "consequatur",
+    "deleniti",
+    "cumque",
+    "nam",
+    "asperiores"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/13x232",
+    "https://picsum.photos/666/654",
+    "https://picsum.photos/264/231"
+  ],
+  "telefono": {
+    "$numberLong": "3717640125"
+  },
+  "correo": "elenagarza@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6029"
+  },
+  "nombre": "Grupo Pichardo, Valdés y Aguayo",
+  "ubicación": {
+    "pais": "Francia",
+    "ciudad": "París",
+    "calle": "Andador Gabón",
+    "numero": 57,
+    "CP": 97631,
+    "referencia": "Quia quam ad nihil perspiciatis. Ab voluptates repellendus nostrum voluptatum ea blanditiis similique.",
+    "latitud": 40.45208265755164,
+    "longitud": -88.14333453257191
+  },
+  "categoría": 5,
+  "tipo": "AutoHotel",
+  "checkIn": "08:21:04",
+  "checkout": "23:16:36",
+  "amenidades": [
+    "impedit",
+    "occaecati",
+    "ex"
+  ],
+  "imágenes": [
+    "https://picsum.photos/291/854",
+    "https://placekitten.com/601/484",
+    "https://dummyimage.com/506x881",
+    "https://placekitten.com/694/227"
+  ],
+  "telefono": {
+    "$numberLong": "5592885534"
+  },
+  "correo": "qnieves@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f602a"
+  },
+  "nombre": "Proyectos Cano, Cardenas y Casillas",
+  "ubicación": {
+    "pais": "Corea del Sur",
+    "ciudad": "Seúl",
+    "calle": "Ampliación Honduras",
+    "numero": 59,
+    "CP": 60323,
+    "referencia": "Minus sapiente dolorum occaecati tenetur est omnis. Et odio ratione rerum. Quasi fugit veniam totam.",
+    "latitud": -78.44736034637188,
+    "longitud": -155.46616348207127
+  },
+  "categoría": 1,
+  "tipo": "Resort",
+  "checkIn": "17:47:51",
+  "checkout": "03:54:52",
+  "amenidades": [
+    "magnam",
+    "autem",
+    "eum"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/930x579",
+    "https://placekitten.com/895/212",
+    "https://placekitten.com/755/205",
+    "https://dummyimage.com/510x105",
+    "https://dummyimage.com/947x889"
+  ],
+  "telefono": {
+    "$numberLong": "6019718018"
+  },
+  "correo": "harofrida@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f602b"
+  },
+  "nombre": "Pulido y Montaño y Asociados",
+  "ubicación": {
+    "pais": "Japón",
+    "ciudad": "Tokio",
+    "calle": "Corredor Tlaxcala",
+    "numero": 69,
+    "CP": 75471,
+    "referencia": "Cum libero voluptatem facilis odio veritatis repellendus. Saepe incidunt repellat ipsum molestias dolorem.",
+    "latitud": 52.95866820262941,
+    "longitud": -53.99097377386596
+  },
+  "categoría": 1,
+  "tipo": "Hostal",
+  "checkIn": "00:45:17",
+  "checkout": "00:54:27",
+  "amenidades": [
+    "voluptas",
+    "pariatur",
+    "eos",
+    "error",
+    "molestias",
+    "quas",
+    "fuga",
+    "voluptatem",
+    "quas",
+    "mollitia"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/371x304",
+    "https://picsum.photos/138/816"
+  ],
+  "telefono": {
+    "$numberLong": "5463623177"
+  },
+  "correo": "zambranosessa@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f602c"
+  },
+  "nombre": "Ulibarri S. R.L. de C.V.",
+  "ubicación": {
+    "pais": "Turquía",
+    "ciudad": "Estambul",
+    "calle": "Continuación Sur Riojas",
+    "numero": 83,
+    "CP": 31664,
+    "referencia": "Eligendi reiciendis error sint mollitia consequatur aperiam. Eum provident quae dolor distinctio vel ducimus. Voluptates placeat nisi harum quaerat minima dolorem.",
+    "latitud": -32.624105960420756,
+    "longitud": -7.4822264391409306
+  },
+  "categoría": 1,
+  "tipo": "Motel",
+  "checkIn": "20:51:02",
+  "checkout": "02:22:31",
+  "amenidades": [
+    "animi",
+    "in",
+    "quo",
+    "distinctio",
+    "delectus",
+    "repellat",
+    "suscipit"
+  ],
+  "imágenes": [
+    "https://picsum.photos/490/660",
+    "https://placekitten.com/619/1",
+    "https://dummyimage.com/155x948"
+  ],
+  "telefono": 1371408989,
+  "correo": "jose-carlosmarrero@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f602d"
+  },
+  "nombre": "Club Palomino, Lemus y Collado",
+  "ubicación": {
+    "pais": "Emiratos Árabes Unidos",
+    "ciudad": "Dubái",
+    "calle": "Prolongación Norte Castellanos",
+    "numero": 79,
+    "CP": 49025,
+    "referencia": "Ex similique soluta eveniet voluptatem cum rem. Neque sequi esse impedit asperiores tenetur repudiandae.\nMinima voluptas sequi amet omnis dolor. Dolores voluptatibus deserunt quisquam.",
+    "latitud": 27.42994919777398,
+    "longitud": -2.3350636724731544
+  },
+  "categoría": 3,
+  "tipo": "AutoHotel",
+  "checkIn": "09:56:57",
+  "checkout": "18:27:26",
+  "amenidades": [
+    "autem",
+    "ducimus",
+    "expedita",
+    "dolores",
+    "qui",
+    "eum",
+    "voluptas",
+    "illum",
+    "at"
+  ],
+  "imágenes": [
+    "https://picsum.photos/256/172"
+  ],
+  "telefono": 857906825,
+  "correo": "hparedes@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f602e"
+  },
+  "nombre": "Club Montalvo y Olmos",
+  "ubicación": {
+    "pais": "Tailandia",
+    "ciudad": "Bangkok",
+    "calle": "Andador Norte Briones",
+    "numero": 25,
+    "CP": 28242,
+    "referencia": "Quaerat aspernatur corporis reiciendis dolor aspernatur. Animi pariatur ab ut nobis dolore.",
+    "latitud": 68.0128367135946,
+    "longitud": -3.5876161191579286
+  },
+  "categoría": 1,
+  "tipo": "Hostal",
+  "checkIn": "09:55:48",
+  "checkout": "01:25:44",
+  "amenidades": [
+    "repellat",
+    "voluptatibus",
+    "distinctio",
+    "amet",
+    "corrupti",
+    "cupiditate",
+    "excepturi",
+    "cum"
+  ],
+  "imágenes": [
+    "https://picsum.photos/1020/24"
+  ],
+  "telefono": {
+    "$numberLong": "4302322785"
+  },
+  "correo": "ilseteran@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f602f"
+  },
+  "nombre": "Grupo Burgos, Moya y Tamez",
+  "ubicación": {
+    "pais": "Emiratos Árabes Unidos",
+    "ciudad": "Dubái",
+    "calle": "Corredor Páez",
+    "numero": 9,
+    "CP": 75216,
+    "referencia": "Minima quo reprehenderit quidem necessitatibus adipisci. Excepturi adipisci voluptas architecto aperiam repellat maiores facilis.\nVeniam praesentium odit molestiae rem. Quo harum magnam sit.",
+    "latitud": 31.7322446310079,
+    "longitud": -87.34414401164291
+  },
+  "categoría": 4,
+  "tipo": "Resort",
+  "checkIn": "18:57:04",
+  "checkout": "15:12:24",
+  "amenidades": [
+    "deleniti",
+    "amet",
+    "totam",
+    "modi",
+    "eum",
+    "pariatur",
+    "iusto",
+    "ipsa",
+    "molestiae",
+    "maiores"
+  ],
+  "imágenes": [
+    "https://placekitten.com/865/832",
+    "https://placekitten.com/433/773"
+  ],
+  "telefono": 1484042530,
+  "correo": "qvillalpando@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6030"
+  },
+  "nombre": "Irizarry-Quesada",
+  "ubicación": {
+    "pais": "Turquía",
+    "ciudad": "Estambul",
+    "calle": "Eje vial Manzanares",
+    "numero": 85,
+    "CP": 57328,
+    "referencia": "Dolores est debitis tempore quos laudantium adipisci. Facere fuga saepe nobis. Ab asperiores aliquam aspernatur cupiditate incidunt. Fugiat est perspiciatis dolorum sint fugit quidem sed.",
+    "latitud": -66.47598135261053,
+    "longitud": 22.770221597575386
+  },
+  "categoría": 1,
+  "tipo": "AutoHotel",
+  "checkIn": "06:33:44",
+  "checkout": "22:24:53",
+  "amenidades": [
+    "autem",
+    "fugit",
+    "dolor",
+    "inventore"
+  ],
+  "imágenes": [
+    "https://placekitten.com/402/463",
+    "https://dummyimage.com/92x686"
+  ],
+  "telefono": {
+    "$numberLong": "3925155640"
+  },
+  "correo": "teresa52@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6031"
+  },
+  "nombre": "Feliciano-Villegas",
+  "ubicación": {
+    "pais": "Francia",
+    "ciudad": "París",
+    "calle": "Periférico Suriname",
+    "numero": 12,
+    "CP": 68998,
+    "referencia": "Aspernatur inventore nam tempora. Ullam provident dolores rem quaerat.\nTotam ipsa at esse provident voluptas. Nihil nobis voluptas explicabo impedit quas dolore.",
+    "latitud": -69.06717972883254,
+    "longitud": -25.374326929438638
+  },
+  "categoría": 4,
+  "tipo": "Hostal",
+  "checkIn": "11:00:49",
+  "checkout": "16:05:58",
+  "amenidades": [
+    "molestiae",
+    "quia",
+    "maiores",
+    "excepturi"
+  ],
+  "imágenes": [
+    "https://placekitten.com/530/491",
+    "https://placekitten.com/467/916",
+    "https://picsum.photos/159/434",
+    "https://picsum.photos/122/64"
+  ],
+  "telefono": {
+    "$numberLong": "6724921371"
+  },
+  "correo": "ivonne77@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6032"
+  },
+  "nombre": "Aguilera-Guerra A.C.",
+  "ubicación": {
+    "pais": "Corea del Sur",
+    "ciudad": "Seúl",
+    "calle": "Ampliación Estados Unidos de América",
+    "numero": 85,
+    "CP": 56535,
+    "referencia": "Labore aut delectus veniam repellat. Corrupti culpa atque est molestias. Tempore quaerat perspiciatis ipsam incidunt.",
+    "latitud": 6.154084228939027,
+    "longitud": -119.93780739158879
+  },
+  "categoría": 3,
+  "tipo": "Hostal",
+  "checkIn": "04:50:54",
+  "checkout": "23:34:05",
+  "amenidades": [
+    "saepe",
+    "nihil",
+    "aut",
+    "assumenda"
+  ],
+  "imágenes": [
+    "https://placekitten.com/474/367"
+  ],
+  "telefono": {
+    "$numberLong": "2315273326"
+  },
+  "correo": "vazquezernesto@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6033"
+  },
+  "nombre": "Zayas-Montaño e Hijos",
+  "ubicación": {
+    "pais": "Malasia",
+    "ciudad": "Kuala Lumpur",
+    "calle": "Viaducto Norte Carrero",
+    "numero": 39,
+    "CP": 89847,
+    "referencia": "In nulla eius ipsa inventore itaque sapiente. Sit assumenda perspiciatis laudantium distinctio ipsa. Nihil est consectetur esse adipisci minima.",
+    "latitud": 48.00875113337153,
+    "longitud": -91.46574691221356
+  },
+  "categoría": 2,
+  "tipo": "Hostal",
+  "checkIn": "07:26:28",
+  "checkout": "00:12:41",
+  "amenidades": [
+    "iste",
+    "nesciunt",
+    "consectetur"
+  ],
+  "imágenes": [
+    "https://picsum.photos/865/996",
+    "https://placekitten.com/54/247",
+    "https://dummyimage.com/564x635",
+    "https://placekitten.com/835/343",
+    "https://picsum.photos/926/391"
+  ],
+  "telefono": {
+    "$numberLong": "9647576727"
+  },
+  "correo": "nadia46@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6034"
+  },
+  "nombre": "Industrias Crespo, López y Rojo",
+  "ubicación": {
+    "pais": "Reino Unido",
+    "ciudad": "Londres",
+    "calle": "Avenida Suecia",
+    "numero": 67,
+    "CP": 48229,
+    "referencia": "Exercitationem praesentium quod assumenda nobis facilis id adipisci. Odio laboriosam excepturi molestias. Deleniti eos rerum quo architecto.",
+    "latitud": 24.2233021766299,
+    "longitud": 119.5467272696668
+  },
+  "categoría": 1,
+  "tipo": "Hostal",
+  "checkIn": "02:37:56",
+  "checkout": "06:05:26",
+  "amenidades": [
+    "autem",
+    "nulla",
+    "mollitia",
+    "natus",
+    "ex",
+    "magnam",
+    "ad"
+  ],
+  "imágenes": [
+    "https://picsum.photos/388/281",
+    "https://picsum.photos/568/237"
+  ],
+  "telefono": {
+    "$numberLong": "5946019344"
+  },
+  "correo": "natividadsaiz@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6035"
+  },
+  "nombre": "Tello-Madera S.A.",
+  "ubicación": {
+    "pais": "Emiratos Árabes Unidos",
+    "ciudad": "Dubái",
+    "calle": "Circuito Caldera",
+    "numero": 28,
+    "CP": 46589,
+    "referencia": "Esse sequi ut quisquam provident impedit pariatur. Incidunt quasi veritatis corporis.\nEa tenetur ea fugit nemo impedit aliquid. Amet ratione fugit. Laboriosam eveniet dolore molestiae.",
+    "latitud": -20.34747612988133,
+    "longitud": 72.17113900958512
+  },
+  "categoría": 5,
+  "tipo": "Hotel",
+  "checkIn": "01:33:29",
+  "checkout": "00:17:29",
+  "amenidades": [
+    "alias",
+    "laudantium",
+    "illum",
+    "asperiores",
+    "veritatis",
+    "voluptate"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/1010x259",
+    "https://dummyimage.com/244x946"
+  ],
+  "telefono": {
+    "$numberLong": "6812094624"
+  },
+  "correo": "tsisneros@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6036"
+  },
+  "nombre": "Laboratorios Esquibel, Fernández y Gollum",
+  "ubicación": {
+    "pais": "Francia",
+    "ciudad": "París",
+    "calle": "Retorno Nuevo León",
+    "numero": 17,
+    "CP": 50284,
+    "referencia": "Hic quod nulla error.\nDolor quisquam maxime nobis incidunt doloremque ullam. Maxime explicabo fugit eius sit. Asperiores blanditiis quisquam delectus velit earum.",
+    "latitud": -84.21949900528493,
+    "longitud": 130.37776544552986
+  },
+  "categoría": 5,
+  "tipo": "Motel",
+  "checkIn": "11:03:05",
+  "checkout": "02:18:05",
+  "amenidades": [
+    "deleniti",
+    "ullam",
+    "saepe",
+    "repellat",
+    "recusandae",
+    "deleniti",
+    "in",
+    "voluptates",
+    "eius"
+  ],
+  "imágenes": [
+    "https://picsum.photos/927/478",
+    "https://picsum.photos/275/730",
+    "https://placekitten.com/940/668",
+    "https://picsum.photos/999/96",
+    "https://picsum.photos/539/337"
+  ],
+  "telefono": {
+    "$numberLong": "5825581409"
+  },
+  "correo": "claudio20@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6037"
+  },
+  "nombre": "Mojica, Lugo y Vergara",
+  "ubicación": {
+    "pais": "Estados Unidos",
+    "ciudad": "Nueva York",
+    "calle": "Cerrada Sur Tórrez",
+    "numero": 46,
+    "CP": 21586,
+    "referencia": "Molestias voluptas et. Dicta cupiditate assumenda veritatis quos. Voluptate quibusdam fugiat sit qui eius sunt.",
+    "latitud": 1.0503257221746765,
+    "longitud": -143.79721291073147
+  },
+  "categoría": 5,
+  "tipo": "Hotel",
+  "checkIn": "17:21:31",
+  "checkout": "02:06:25",
+  "amenidades": [
+    "dolor",
+    "eligendi",
+    "quam",
+    "ipsam",
+    "deleniti",
+    "ipsa",
+    "ipsam",
+    "suscipit"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/916x375",
+    "https://picsum.photos/379/318",
+    "https://picsum.photos/609/773",
+    "https://dummyimage.com/210x35",
+    "https://placekitten.com/474/508"
+  ],
+  "telefono": 405752598,
+  "correo": "grijalvaadan@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6038"
+  },
+  "nombre": "Meléndez, Maya y Ruiz",
+  "ubicación": {
+    "pais": "Francia",
+    "ciudad": "París",
+    "calle": "Andador Finlandia",
+    "numero": 27,
+    "CP": 17264,
+    "referencia": "Temporibus at excepturi mollitia. Velit deserunt voluptatibus adipisci minus.\nVero dicta placeat vero ullam. Fugit natus rem. Commodi laborum consequatur adipisci facilis optio.",
+    "latitud": -85.97821933017043,
+    "longitud": 70.11690391146647
+  },
+  "categoría": 2,
+  "tipo": "Hostal",
+  "checkIn": "21:16:30",
+  "checkout": "21:48:19",
+  "amenidades": [
+    "est",
+    "ipsa",
+    "suscipit",
+    "tempora"
+  ],
+  "imágenes": [
+    "https://picsum.photos/154/339",
+    "https://dummyimage.com/280x206"
+  ],
+  "telefono": 822883616,
+  "correo": "israelborrego@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6039"
+  },
+  "nombre": "Tovar e Hijos",
+  "ubicación": {
+    "pais": "Emiratos Árabes Unidos",
+    "ciudad": "Dubái",
+    "calle": "Prolongación Norte Aguirre",
+    "numero": 100,
+    "CP": 62228,
+    "referencia": "Laudantium iste pariatur reprehenderit et officiis labore. Quam dolor ipsum repellat non veritatis. Doloremque iusto at fugiat porro alias nesciunt.",
+    "latitud": 17.40186827992075,
+    "longitud": 8.676027157609298
+  },
+  "categoría": 1,
+  "tipo": "Hostal",
+  "checkIn": "19:08:50",
+  "checkout": "09:29:02",
+  "amenidades": [
+    "accusantium",
+    "esse",
+    "sit",
+    "eos",
+    "error",
+    "corporis",
+    "modi",
+    "reiciendis",
+    "magnam"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/379x328",
+    "https://dummyimage.com/618x927",
+    "https://picsum.photos/57/183",
+    "https://dummyimage.com/1005x1000",
+    "https://dummyimage.com/539x794"
+  ],
+  "telefono": {
+    "$numberLong": "2274237624"
+  },
+  "correo": "maurorubio@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f603a"
+  },
+  "nombre": "Jaime A.C.",
+  "ubicación": {
+    "pais": "Turquía",
+    "ciudad": "Estambul",
+    "calle": "Continuación Garay",
+    "numero": 43,
+    "CP": 61403,
+    "referencia": "Eius corrupti animi error sapiente corporis. Cupiditate modi asperiores quaerat quae. Nostrum quas doloremque adipisci debitis aliquam consequatur.",
+    "latitud": -22.206565118633065,
+    "longitud": 123.65241737173051
+  },
+  "categoría": 5,
+  "tipo": "Hostal",
+  "checkIn": "10:20:13",
+  "checkout": "07:44:18",
+  "amenidades": [
+    "fugit",
+    "accusantium",
+    "fugit",
+    "error"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/824x236",
+    "https://dummyimage.com/492x43",
+    "https://picsum.photos/544/223",
+    "https://picsum.photos/56/582",
+    "https://placekitten.com/405/676"
+  ],
+  "telefono": {
+    "$numberLong": "5363066343"
+  },
+  "correo": "ferreradela@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f603b"
+  },
+  "nombre": "Grupo Burgos-Hidalgo",
+  "ubicación": {
+    "pais": "Emiratos Árabes Unidos",
+    "ciudad": "Dubái",
+    "calle": "Diagonal Méndez",
+    "numero": 55,
+    "CP": 30787,
+    "referencia": "Ipsa ab iusto fugit nulla libero. Reprehenderit voluptatibus nesciunt. Blanditiis quisquam ipsam.\nExpedita alias soluta a. Esse ipsum nostrum inventore.",
+    "latitud": -86.42224610862515,
+    "longitud": -25.43007833942974
+  },
+  "categoría": 1,
+  "tipo": "Hostal",
+  "checkIn": "11:43:23",
+  "checkout": "00:28:48",
+  "amenidades": [
+    "distinctio",
+    "quae",
+    "qui",
+    "nemo"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/630x33",
+    "https://picsum.photos/745/567",
+    "https://placekitten.com/329/91",
+    "https://picsum.photos/536/830",
+    "https://dummyimage.com/868x145"
+  ],
+  "telefono": 634853071,
+  "correo": "uanguiano@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f603c"
+  },
+  "nombre": "Proyectos de la Fuente-Zepeda",
+  "ubicación": {
+    "pais": "Emiratos Árabes Unidos",
+    "ciudad": "Dubái",
+    "calle": "Peatonal Gabón",
+    "numero": 10,
+    "CP": 45235,
+    "referencia": "Cumque officiis repudiandae in asperiores inventore. Optio repudiandae cupiditate inventore earum.\nBlanditiis odio ipsum. Consequuntur adipisci impedit error fugit autem.",
+    "latitud": -55.63428166701643,
+    "longitud": -97.72194442655282
+  },
+  "categoría": 4,
+  "tipo": "Motel",
+  "checkIn": "06:50:11",
+  "checkout": "03:41:28",
+  "amenidades": [
+    "aspernatur",
+    "qui",
+    "earum",
+    "provident",
+    "perferendis",
+    "dolor",
+    "corporis",
+    "dignissimos",
+    "facere"
+  ],
+  "imágenes": [
+    "https://picsum.photos/245/936"
+  ],
+  "telefono": {
+    "$numberLong": "2721481389"
+  },
+  "correo": "juliaramos@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f603d"
+  },
+  "nombre": "Industrias Montañez-Patiño",
+  "ubicación": {
+    "pais": "Japón",
+    "ciudad": "Tokio",
+    "calle": "Calle Caldera",
+    "numero": 95,
+    "CP": 25624,
+    "referencia": "Enim nostrum temporibus saepe alias recusandae. Nisi deleniti cum eius molestias.\nMaxime similique exercitationem illo. Sed iure ab quia deserunt. Dicta asperiores corporis voluptates voluptas cum.",
+    "latitud": 45.80095924349308,
+    "longitud": 21.707387703521164
+  },
+  "categoría": 2,
+  "tipo": "Hotel",
+  "checkIn": "04:14:17",
+  "checkout": "01:47:04",
+  "amenidades": [
+    "expedita",
+    "enim",
+    "eligendi",
+    "consequatur",
+    "impedit",
+    "modi"
+  ],
+  "imágenes": [
+    "https://dummyimage.com/679x1017"
+  ],
+  "telefono": {
+    "$numberLong": "8201053911"
+  },
+  "correo": "gonzalo23@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f603e"
+  },
+  "nombre": "de la O-Luevano",
+  "ubicación": {
+    "pais": "Japón",
+    "ciudad": "Tokio",
+    "calle": "Boulevard República Árabe Siria",
+    "numero": 51,
+    "CP": 71631,
+    "referencia": "Laborum molestias aspernatur suscipit tempora pariatur perspiciatis. Labore corporis veritatis corporis hic temporibus placeat minus. Perferendis at magni nam commodi dolor.",
+    "latitud": 84.0653538573633,
+    "longitud": -98.4420290792189
+  },
+  "categoría": 1,
+  "tipo": "Hostal",
+  "checkIn": "13:28:01",
+  "checkout": "11:56:40",
+  "amenidades": [
+    "deleniti",
+    "repellendus",
+    "vitae"
+  ],
+  "imágenes": [
+    "https://picsum.photos/362/267",
+    "https://placekitten.com/912/399"
+  ],
+  "telefono": {
+    "$numberLong": "9055621762"
+  },
+  "correo": "blanca90@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f603f"
+  },
+  "nombre": "Frías S. R.L. de C.V.",
+  "ubicación": {
+    "pais": "Estados Unidos",
+    "ciudad": "Nueva York",
+    "calle": "Diagonal Sur Páez",
+    "numero": 20,
+    "CP": 50937,
+    "referencia": "Corporis minima sit quasi dolor expedita aliquid. Laboriosam quas molestiae non.\nVelit neque odit sequi. Doloribus fugiat quam quam nobis.",
+    "latitud": -37.30808615529285,
+    "longitud": 27.79038383468537
+  },
+  "categoría": 2,
+  "tipo": "Resort",
+  "checkIn": "13:50:21",
+  "checkout": "02:41:21",
+  "amenidades": [
+    "nesciunt",
+    "eaque",
+    "sunt",
+    "maxime",
+    "corporis",
+    "maiores",
+    "ratione",
+    "consequatur",
+    "veniam"
+  ],
+  "imágenes": [
+    "https://placekitten.com/568/684",
+    "https://placekitten.com/877/526",
+    "https://dummyimage.com/845x230"
+  ],
+  "telefono": {
+    "$numberLong": "4441346604"
+  },
+  "correo": "alfonso41@example.com"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6040"
+  },
+  "nombre": "Industrias Sisneros y Garica",
+  "ubicación": {
+    "pais": "Estados Unidos",
+    "ciudad": "Nueva York",
+    "calle": "Calzada Sierra Leona",
+    "numero": 88,
+    "CP": 99731,
+    "referencia": "Atque est illo a. Officiis deserunt porro incidunt.\nDoloribus asperiores sunt quod minus eos nulla. Voluptates aspernatur placeat deleniti omnis vel provident.\nHarum eum debitis impedit quidem sit.",
+    "latitud": 69.50496721622966,
+    "longitud": -84.46512957978956
+  },
+  "categoría": 3,
+  "tipo": "AutoHotel",
+  "checkIn": "10:01:21",
+  "checkout": "11:31:31",
+  "amenidades": [
+    "ratione",
+    "rerum",
+    "deleniti",
+    "excepturi",
+    "tempore",
+    "dolorum",
+    "dolores",
+    "aperiam"
+  ],
+  "imágenes": [
+    "https://placekitten.com/493/519"
+  ],
+  "telefono": {
+    "$numberLong": "4518690882"
+  },
+  "correo": "reinaroldan@example.net"
+},
+{
+  "_id": {
+    "$oid": "6632d311620ef57cda3f6041"
+  },
+  "nombre": "Proyectos Ruelas y Lucero",
+  "ubicación": {
+    "pais": "Singapur",
+    "ciudad": "Singapur",
+    "calle": "Retorno Baja California",
+    "numero": 99,
+    "CP": 47608,
+    "referencia": "Voluptates maxime expedita enim eveniet perferendis fuga. Quas numquam vitae ducimus animi ut molestias.",
+    "latitud": -65.21354265568559,
+    "longitud": -79.419768514835
+  },
+  "categoría": 1,
+  "tipo": "AutoHotel",
+  "checkIn": "21:05:01",
+  "checkout": "19:53:51",
+  "amenidades": [
+    "laudantium",
+    "ab",
+    "animi",
+    "esse",
+    "at",
+    "odio",
+    "rem",
+    "soluta",
+    "voluptatibus",
+    "animi"
+  ],
+  "imágenes": [
+    "https://picsum.photos/679/1021",
+    "https://picsum.photos/1009/980"
+  ],
+  "telefono": 633516079,
+  "correo": "oliverpabon@example.org"
+},
+{
+  "_id": {
+    "$oid": "6632d5abd019127b58614b03"
+  },
+  "nombre": "NombreHotel",
+  "categoria": 4,
+  "tipo": "Resort",
+  "checkIn": "23:59:07",
+  "checkout": "15:23:25",
+  "telefono": "1234567890",
+  "correo": "email@example.com",
+  "amenidades": [
+    "amenidad1",
+    "amenidad2"
+  ],
+  "imagenes": [
+    "imagen1",
+    "imagen2\n"
+  ],
+  "ubicacion": {
+    "_id": {
+      "$oid": "6632d5abd019127b58614b04"
+    },
+    "pais": "Pais",
+    "ciudad": "Ciudad",
+    "calle": "Calle",
+    "numero": null,
+    "CP": null,
+    "referencia": "Referencia",
+    "latitud": 12.345,
+    "longitud": -67.89
+  },
+  "updated_at": {
+    "$date": "2024-05-01T23:52:11.095Z"
+  },
+  "created_at": {
+    "$date": "2024-05-01T23:52:11.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632de9cd019127b58614b0a"
+  },
+  "nombre": "NombreHotel",
+  "categoria": 4,
+  "tipo": "Resort",
+  "checkIn": "23:59:07",
+  "checkout": "15:23:25",
+  "telefono": "1234567890",
+  "correo": "email@example.com",
+  "amenidades": [
+    "amenidad1",
+    "amenidad2"
+  ],
+  "imagenes": [
+    "imagen1",
+    "imagen2\n"
+  ],
+  "ubicacion": {
+    "_id": {
+      "$oid": "6632de9cd019127b58614b0b"
+    },
+    "pais": "Pais",
+    "ciudad": "Ciudad",
+    "calle": "Calle",
+    "numero": null,
+    "CP": null,
+    "referencia": "Referencia",
+    "latitud": 12.345,
+    "longitud": -67.89
+  },
+  "updated_at": {
+    "$date": "2024-05-02T00:30:20.791Z"
+  },
+  "created_at": {
+    "$date": "2024-05-02T00:30:20.791Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632deb4d019127b58614b0c"
+  },
+  "nombre": "NombreHotel",
+  "categoria": 4,
+  "tipo": "Resort",
+  "checkIn": "23:59:07",
+  "checkout": "15:23:25",
+  "telefono": "1234567890",
+  "correo": "email@example.com",
+  "amenidades": [
+    "amenidad1",
+    "amenidad2"
+  ],
+  "imagenes": [
+    "imagen1",
+    "imagen2\n"
+  ],
+  "ubicacion": {
+    "_id": {
+      "$oid": "6632deb4d019127b58614b0d"
+    },
+    "pais": "Pais",
+    "ciudad": "Ciudad",
+    "calle": "Calle",
+    "numero": 8,
+    "CP": 12345,
+    "referencia": "Referencia",
+    "latitud": 12.345,
+    "longitud": -67.89
+  },
+  "updated_at": {
+    "$date": "2024-05-02T00:30:44.673Z"
+  },
+  "created_at": {
+    "$date": "2024-05-02T00:30:44.673Z"
+  }
+}]

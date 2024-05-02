@@ -1,0 +1,207 @@
+{
+	"info": {
+		"_postman_id": "39f283b6-35d7-4bff-ac42-57e7c1de6887",
+		"name": "CRUD clientes",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33509521"
+	},
+	"item": [
+		{
+			"name": "Ver",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/getClientes",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"getClientes"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Agregar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/addCliente?primerNombre=Nombre&apellidoPaterno=Apellido&apellidoMaterno=SegundoApellido&correo=email@example.com&telefono=123456789&nacionalidad=Nacionalidad&documentoIdentidad[tipoDocumento]=Tipo&documentoIdentidad[imagen]=ImagenURL&documentoIdentidad[fechaValidez]=YYYY-MM-DD&tarjetaCredito[tipo]=TipoTarjeta&tarjetaCredito[banco]=NombreBanco&tarjetaCredito[numero]=NumeroTarjeta\n",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"addCliente"
+					],
+					"query": [
+						{
+							"key": "primerNombre",
+							"value": "Nombre"
+						},
+						{
+							"key": "apellidoPaterno",
+							"value": "Apellido"
+						},
+						{
+							"key": "apellidoMaterno",
+							"value": "SegundoApellido"
+						},
+						{
+							"key": "correo",
+							"value": "email@example.com"
+						},
+						{
+							"key": "telefono",
+							"value": "123456789"
+						},
+						{
+							"key": "nacionalidad",
+							"value": "Nacionalidad"
+						},
+						{
+							"key": "documentoIdentidad[tipoDocumento]",
+							"value": "Tipo"
+						},
+						{
+							"key": "documentoIdentidad[imagen]",
+							"value": "ImagenURL"
+						},
+						{
+							"key": "documentoIdentidad[fechaValidez]",
+							"value": "YYYY-MM-DD"
+						},
+						{
+							"key": "tarjetaCredito[tipo]",
+							"value": "TipoTarjeta"
+						},
+						{
+							"key": "tarjetaCredito[banco]",
+							"value": "NombreBanco"
+						},
+						{
+							"key": "tarjetaCredito[numero]",
+							"value": "NumeroTarjeta\n"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Editar",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/updateCliente/6632cf7bd019127b5861496e?primerNombre=NuevoNombre&segundoNombre=&apellidoPaterno=NuevoApellido&apellidoMaterno=&correo=nuevoemail@example.com&telefono=1234567890&nacionalidad=NuevaNacionalidad&documentoIdentidad[tipoDocumento]=NuevoTipo&documentoIdentidad[imagen]=NuevaImagenURL&documentoIdentidad[fechaValidez]=NuevaFecha&tarjetaCredito[tipo]=NuevoTipoTarjeta&tarjetaCredito[banco]=NuevoBanco&tarjetaCredito[numero]=NuevoNumeroTarjeta\n",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"updateCliente",
+						"6632cf7bd019127b5861496e"
+					],
+					"query": [
+						{
+							"key": "primerNombre",
+							"value": "NuevoNombre"
+						},
+						{
+							"key": "segundoNombre",
+							"value": ""
+						},
+						{
+							"key": "apellidoPaterno",
+							"value": "NuevoApellido"
+						},
+						{
+							"key": "apellidoMaterno",
+							"value": ""
+						},
+						{
+							"key": "correo",
+							"value": "nuevoemail@example.com"
+						},
+						{
+							"key": "telefono",
+							"value": "1234567890"
+						},
+						{
+							"key": "nacionalidad",
+							"value": "NuevaNacionalidad"
+						},
+						{
+							"key": "documentoIdentidad[tipoDocumento]",
+							"value": "NuevoTipo"
+						},
+						{
+							"key": "documentoIdentidad[imagen]",
+							"value": "NuevaImagenURL"
+						},
+						{
+							"key": "documentoIdentidad[fechaValidez]",
+							"value": "NuevaFecha"
+						},
+						{
+							"key": "tarjetaCredito[tipo]",
+							"value": "NuevoTipoTarjeta"
+						},
+						{
+							"key": "tarjetaCredito[banco]",
+							"value": "NuevoBanco"
+						},
+						{
+							"key": "tarjetaCredito[numero]",
+							"value": "NuevoNumeroTarjeta\n"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Buscar",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/showCliente/6632cf7bd019127b5861496e",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"showCliente",
+						"6632cf7bd019127b5861496e"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Eliminar",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/deleteCliente/6632d0c5735b9dc654a96afc",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"deleteCliente",
+						"6632d0c5735b9dc654a96afc"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
