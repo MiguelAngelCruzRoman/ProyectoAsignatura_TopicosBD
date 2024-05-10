@@ -31,6 +31,8 @@ class TarjetaCredito
   field :tipo, type: String
   field :banco, type: String
   field :numero, type: String
+  field :cvv, type: Integer
+  field :fechaCaducidad, type: Date
 
   embedded_in :cliente
 end

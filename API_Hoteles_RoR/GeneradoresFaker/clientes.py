@@ -21,7 +21,7 @@ for _ in range(100):
         'apellidoPaterno': fake.last_name(),
         'apellidoMaterno': fake.last_name(),
         'correo': fake.unique.email(),
-        'teléfono': fake.random_number(digits=10),
+        'telefono': fake.random_number(digits=10),
         'documentoIdentidad': {
             'tipoDocumento': fake.random_element(elements=('DNI', 'Pasaporte', 'Carnet de identidad')),
             'imagen': fake.image_url(),
@@ -31,7 +31,9 @@ for _ in range(100):
         'tarjetaCredito': {
             'tipo': fake.random_element(elements=('Visa', 'MasterCard', 'American Express')),
             'banco': fake.random_element(elements=('Banco Santander', 'BBVA', 'HSBC')),
-            'numero': fake.credit_card_number()
+            'numero': fake.credit_card_number(),
+            'cvv':fake.random_number(digits=3),
+            'fechaCaducidad':fake.date_between(start_date='-10y', end_date='+10y').strftime('%Y-%m-%d')
         }
     }
     data_clientes.append(cliente)

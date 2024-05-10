@@ -1,6 +1,10 @@
 class ClientesController < ApplicationController
     before_action :getCliente, only: [:updateCliente, :deleteCliente, :showCliente]
     
+    def mailer
+        
+    end
+
     def getClientes
       clientes = Cliente.all
       if clientes.any?
@@ -8,7 +12,8 @@ class ClientesController < ApplicationController
       else
         render json: { message: "La colección de clientes está vacía" }, status: :unprocessable_entity
       end
-    end
+    end   
+    
     
     def addCliente
       cliente = Cliente.new(cliente_params)
@@ -60,7 +65,7 @@ class ClientesController < ApplicationController
         :telefono,
         :nacionalidad,
         documentoIdentidad: [:tipoDocumento, :imagen, :fechaValidez],
-        tarjetaCredito: [:tipo, :banco, :numero]
+        tarjetaCredito: [:tipo, :banco, :numero, :cvv, :fechaCaducidad]
       )
     end
     

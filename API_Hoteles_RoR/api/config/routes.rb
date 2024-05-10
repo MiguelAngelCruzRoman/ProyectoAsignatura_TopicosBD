@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
 
+  get 'clientes/mailer', action: :mailer, controller: :clientes
+
   get 'getClientes', action: :getClientes, controller: :clientes
   post 'addCliente', action: :addCliente, controller: :clientes
   get 'showCliente/:id', action: :showCliente, controller: :clientes
